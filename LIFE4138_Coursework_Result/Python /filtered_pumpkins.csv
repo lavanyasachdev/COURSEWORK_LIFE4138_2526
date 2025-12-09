@@ -1,0 +1,1022 @@
+id,place,weight_lbs,grower_name,city,state_prov,country,gpc_site,seed_mother,pollinator_father,ott,est_weight,pct_chart,variety,dataset_id,weight_kg,weight_class
+2014-P,773,700.6383816602211,"Buechinger, Michael",Neustift,Styria,Austria,Austrian Weigh-off,934 Schieder,,302.6448385568996,725.434655186972,2.028812852718187,Cinderella,5,317.38918689208015,medium
+2020-P,186,1468.3382867287055,"Cutrupi, Stefano",Capriolo,Lombardy,Italy,Sfida Nazionale della Zucca - Club Maspiano,2145 Mcmullen 2016,"2416,5 Haist",388.84104559923543,,8.009179765297286,Big Moose,5,665.1572438881036,heavy
+2020-P,847,681.035860794843,"Schodl, Josef",Berndorf,Lower Austria,Austria,Austrian Weigh-off,2138 Biermans,self,307.91241219326076,619.4501075218164,4.098763238460135,Connecticut Field,5,308.50924494006387,medium
+2020-P,1197,254.67768535224533,"LFS Tulln, Team",Berndorf,Lower Austria,Austria,Leiserberge Weigh-off,,,0.0,0.0,0.0,Big Moose,5,115.36899146456715,light
+2016-P,1279,358.89627589012963,"Teichmann, Erik",Kreutstetten,Lower Austria,Austria,Austrian Weigh-off,Garofano Vuolo 15,,0.0,0.0,0.0,Blue Hubbard,5,162.58001297822872,light
+2021-P,1349,56.83407326270907,"Giozet, Gabriele",Cremnago di Inverigo,Lombardy,Italy,Sfida Nazionale della Zucca - Club Maspiano,x,x,0.0,0.0,0.0,Wolf,5,25.74583518800721,light
+2021-P,EXH,326.37113043104665,"Mathias, Franz",,Lower Austria,Austria,Austrian Weigh-off,Biermanns,,257.03755622732973,356.51282355421813,0.0,Prizewinner,5,147.84612208526414,light
+2019-P,908,578.8544552898512,"Melka, Friedrich",,Lower Austria,Austria,Leiserberge Weigh-off,1080 Melka,,287.6160001112432,572.647258591596,0.9574979865896528,Atlantic Giant,5,262.2210682463026,medium
+2013-P,1024,396.2309067845021,"Pogna, Lorena",Arezzo,Other,Italy,Pesa la Zucca! Foiano,,,240.059717311673,343.95003615544096,19.60081703469423,Big Max,5,179.49260077337945,light
+2020-P,94,1904.399408028525,"Philippe, RENAUD",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,1911 Urena,1938 Urena,452.1290662821645,1633.3664672356665,8.931839488546535,Casper,5,862.6929318369218,heavy
+2020-P,962,478.7048033080447,"Mathias, Franz",Langenlois,Lower Austria,Austria,Retzer Land Weigh-off,520.3 Grabmayer 19,1395.6 Weishaeupl 18,281.4231803127953,514.0212033770473,0.0,Big Moose,5,216.85327589854424,light
+2015-P,486,1113.64974618938,"Team, Donauland Kompost",Oberkreuzstetten,Lower Austria,Austria,Austrian Weigh-off,1751 Lovse 14,,413.45059325204784,1276.002441985209,0.0,Rouge Vif d’Etampes,5,504.48333502378915,heavy
+2016-P,EXH,477.1928514613938,"Squitieri, Danilo",Foiano della Chiana,Tuscany,Italy,Campionato dello Zuccone,,,275.3382670889797,540.505832271077,0.0,Prizewinner,5,216.1683617120114,light
+2014-P,1656,111.8683652519669,"Cassella, Salvatore",Arezzo,Other,Italy,Festa della zucca di sale,,,166.5835426945035,117.91596621556737,3.036682252737198,Wolf,5,50.67636945914101,light
+2019-P,EXH,281.05823137869703,"Haindl, Werner",Sebersdorf,Lower Austria,Austria,Austrian Weigh-off,Karkos 2018,,229.9209532208472,270.88325951137494,2.9225645106864455,Rouge Vif d’Etampes,5,127.31937881454976,light
+2013-P,573,749.1067128335868,"Daho, Mehdi",,Other,France,Le Potager Extraordinaire,1676.5 Daletas,Self,305.18067277129234,595.4287831654628,23.412008228191453,Big Max,5,339.34534091361485,medium
+2020-P,603,865.8243392261463,"Jaglarz, Mario",Riederberg,Lower Austria,Austria,Austrian Weigh-off,1566 Zolotucha 19,,322.78546397345616,834.3694562221413,0.0,Champion,5,392.2184256694443,medium
+2018-P,850,739.7592228155698,"Guitton, Hugues",,Other,France,Le Potager Extraordinaire,,,333.0536389265176,701.2270225748014,0.9706716026995956,Spirit,5,335.11092793545316,medium
+2017-P,561,933.2617754804704,"Hugues, Guitton",,Other,France,Le Potager Extraordinaire,,,0.0,0.0,0.0,Casper,5,422.7675842926531,medium
+2014-P,1231,418.4216540410724,"Falchi, Brunero",Pontedera,Other,Italy,Pesa la Zucca! Foiano,,,285.2587706385276,487.49416204905185,0.0,Rouge Vif d’Etampes,5,189.5450092806058,light
+2014-P,1146,551.2666799184012,"Chiatti, Carla",,Other,Italy,Campionato dello Zuccone,952 Bartoli,Open,332.06655715445464,729.7241864129813,0.0,Big Max,5,249.72380600303578,medium
+2019-P,997,533.6246465746519,"Markl, Michael",,Lower Austria,Austria,Gartenbauschule Langenlois,2138 Barron,self,306.24717189413445,608.58701434421,0.0,Connecticut Field,5,241.73196489831733,medium
+2017-P,1553,77.36673026517583,"Sartini, Gabriele",Godiasco,Lombardy,Italy,Festa della zucca di sale,unknow,unknow,147.18655952228832,77.8801669740146,0.0,Casper,5,35.047128810124654,light
+2014-P,458,1029.14140019387,"Chantal, Guin",,Other,France,Le Potager Extraordinaire,1456 Bryson,,351.32405360652785,935.1217310292666,10.574363878933424,Casper,5,466.20105428782307,heavy
+2020-P,EXH,214.61012344450117,"Romoli, Siria",Foiano della Chiana,Tuscany,Italy,Pesa la Zucca! Foiano,,,192.61707800546804,195.415139703017,10.962519858259842,Jack O'Lantern,5,97.21838592035903,light
+2014-P,1055,571.9921766338417,"Ondelli, Franco",Marone,Other,Italy,Campionato dello Zuccone,952Bartoli,Open,320.665257576297,628.0648336217062,0.0,Spirit,5,259.1124560151303,medium
+2015-P,1721,110.82643138851664,"Bertone, Andrea",,Other,Italy,Festa della zucca di sale,,,0.0,0.0,0.0,Big Max,5,50.20437341899804,light
+2014-P,863,686.3938464501776,"Reischer, Lena und Melanie",,Other,Austria,Austrian Weigh-off,934 Schieder,,315.0746144841091,717.858232226469,0.0,Wolf,5,310.9364124419305,medium
+2020-P,59,1906.8340276419856,"Squitieri, Danilo",Castelfiorentio,Tuscany,Italy,Sfida degli Zucconi della Brianza,2114 Wallace,self,456.7656268524344,1725.6538894613234,8.271036686105878,Champion,5,863.7958145218195,heavy
+2017-P,EXH,332.0916373905393,"Filippi, Giada",Coccaglio,Lombardy,Italy,Sfida degli Zucconi della Brianza,821.2 Petrelli,Open,240.01046309776137,304.89539050614417,5.094064623762864,Blue Hubbard,5,150.4375117379143,light
+2016-P,1644,43.24210987834912,"Lacina, Martin",,Lower Austria,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Big Moose,5,19.588675774892153,light
+2013-P,1163,320.64143004624367,"Stefano, Tosi",Pontedera,Other,Italy,Pesa la Zucca! Foiano,,,230.138972526855,310.0886895362568,2.93845777635892,Howden,5,145.25056781094838,light
+2019-P,783,732.4950926937587,"Daniel, Wonovsky",Muckendorf,Lower Austria,Austria,Gartenbauschule Langenlois,1379.6 Matthias,self,309.7711992835256,733.9791771191007,0.0,Cinderella,5,331.8202769902727,medium
+2015-P,443,1068.6667903882662,"Melka, Friedrich",,Other,Austria,Austrian Weigh-off,Ligget,,383.6218062558216,1073.1654500182526,0.0,Prizewinner,5,484.1060560458846,heavy
+2019-P,EXH,137.2778675054768,Team Schaugarten Kittenberger Erlebnisgaertnen,Doerfles,Lower Austria,Austria,Austrian Weigh-off,,,175.94984453902603,125.21288124306972,7.93602843024229,Connecticut Field,5,62.18687397998099,light
+2015-P,601,982.2315343683662,"Cristini, Team Attilio e Giacomo",Foiano della Chiana,Other,Italy,Festa della zucca di sale,,,384.1014971005639,1000.2960211399848,0.0,Atlantic Giant,5,444.95088506886987,medium
+2016-P,1338,351.0671568877697,"Petriccio,",Pontedera,Tuscany,Italy,Campionato dello Zuccone,,,247.76303033156125,308.31878601419396,13.683172113323064,Dill's Atlantic,5,159.0334220701597,light
+2020-P,213,1304.5077729368925,"Forster, Karl",Retz,Lower Austria,Austria,Retzer Land Weigh-off,1527 Melka,1594 Melka,403.75839641392366,1366.287804243733,0.0,Big Moose,5,590.9420211404123,heavy
+2020-P,1108,314.00730133826744,"Langenlois, Gartenbauschule",Markt Hartmannsdorf,Styria,Austria,Austrian Weigh-off,1527.8 Melka,,244.42200263841733,317.0398267798195,0.0,Big Moose,5,142.24530750623515,light
+2019-P,50,1704.4699046750327,"Michele, Mori",Foiano della Chiana,Tuscany,Italy,Campionato dello Zuccone,1911 Urena,2096 Meier,424.64801890329386,1822.0715640869644,0.0,Rouge Vif d’Etampes,5,772.1248668177898,heavy
+2018-P,850,653.5851680778833,"Aurelien, Fayola",,Other,France,Le Potager Extraordinaire,,,302.6261464835244,666.9636304234324,1.030515707798899,Champion,5,296.07408113928113,medium
+2015-P,583,916.620838836306,"Hoefler, Norbert",,Other,Austria,Austrian Weigh-off,1751 Lovse 14,,352.1457594486981,976.8781661423168,0.0,Blue Hubbard,5,415.22923999284666,medium
+2017-P,736,806.9454311393177,"Topini, Giuseppe",Novellara,Emilia-Romagna,Italy,Festa della zucca di sale,1684 Willemjns,1944 Connoly,342.4753326569748,812.6560954111881,0.0,Wolf,5,365.54628030611093,medium
+2020-P,EXH,1866.8232549119284,"Matti, Jacopo",Foiano della Chiana,Tuscany,Italy,Campionato dello Zuccone,2226 Boonen,Self,424.49694134142175,1703.775211660015,6.672661835538429,Jack O'Lantern,5,845.6709344751036,heavy
+2013-P,795,604.7799381383651,"Turla, Antonio",Arezzo,Other,Italy,Campionato dello Zuccone,1342 Cutrupi,Open,293.9831011986674,572.1464820181961,7.770540929284975,Prizewinner,5,273.9653119766794,medium
+2013-P,1421,154.85417368995695,"Mauro, Torelli",Novellara,Emilia-Romagna,Italy,Campionato dello Zuccone,245 Bartoli,Open,171.97003397460807,118.08794611758064,24.724221335133592,Champion,5,70.1489406815505,light
+2013-P,517,866.4993302596719,"Lizzi, Denis",Marone,Other,Italy,Pesa la Zucca! Foiano,,,369.8856663094737,,0.0,Casper,5,392.5241966076314,medium
+2016-P,1644,43.950294261762686,"Burgsteiner, Helmut",Walperbach,Lower Austria,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Champion,5,19.909483300578497,light
+2013-P,EXH,524.9155430776608,"Mathias, Franz",,Other,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Jack O'Lantern,5,237.78674101418034,medium
+2013-P,EXH,916.8483293822836,"Fischer, Cornelia",Schiltern,Lower Austria,Austria,Austrian Weigh-off,1325 Sperry 11,934 Schieder 11,325.04292777113216,807.665871736501,12.248005989363826,Dill's Atlantic,5,415.3322932101745,medium
+2020-P,262,1280.4330326304485,"Hofer, Johann",Retz,Lower Austria,Austria,Austrian Weigh-off,2226 Boonen DMG,2016 Boonen,401.3755746178699,1412.4485709499809,0.0,Cinderella,5,580.0361637815931,heavy
+2016-P,862,720.5417965926531,"Castelli, Carlo",Sanpancrazio,Lombardy,Italy,Festa della zucca di sale,,,316.9704168737288,673.4320456626074,4.165740119836963,Champion,5,326.40543385647186,medium
+2015-P,254,1370.5115763065455,"Guin, Pascal",,Other,France,Le Potager Extraordinaire,1985 Miller,1744.5 Fulk,390.1357272292799,1284.4678671338672,0.0,Connecticut Field,5,620.8417440668651,heavy
+2017-P,879,678.6798726670802,"Dorner, Martin",Ernstbrunn,Lower Austria,Austria,Austrian Weigh-off,1714 Lueders,1395 Lueders,330.1309374305278,766.236952998538,0.0,Spirit,5,307.44198231818734,medium
+2017-P,736,833.6610939443431,"Salvagni, Augusto",Novellara,Emilia-Romagna,Italy,Festa della zucca di sale,1684 Willemjns,1944 Connoly,341.6354311045411,884.2186112507104,0.0,Atlantic Giant,5,377.64847555678745,medium
+2014-P,921,669.3570513549943,"Rosati, Loris",Foiano della Chiana,Other,Italy,Pesa la Zucca! Foiano,,,302.1368232414879,609.7522645576245,3.9600657626951135,Big Max,5,303.2187442638124,medium
+2017-P,1013,576.1956187369171,"Melka, Friedrich",Syring,Lower Austria,Austria,Austrian Weigh-off,Blaimschen,Cutrupi,0.0,0.0,0.0,Casper,5,261.01661528782347,medium
+2016-P,1257,408.5535359882674,"Nicolas, Rousseau",,Other,France,Le Potager Extraordinaire,,,0.0,0.0,0.0,Blue Hubbard,5,185.07475180268514,light
+2017-P,640,826.0698905769674,"Guitton, Hugues",,Other,France,Le Potager Extraordinaire,,,0.0,0.0,0.0,Autumn Gold,5,374.2096604313662,medium
+2013-P,573,724.3526353907796,"Jean Philippe, Marand",,Other,France,Le Potager Extraordinaire,1676.5 Daletas,Self,290.70171908435736,618.9162078108517,24.05271101761431,Early Giant,5,328.1317438320232,medium
+2021-P,211,1400.3023875433712,"Melka, Friedrich",Kleinhadersdorf,Lower Austria,Austria,Retzer Land Weigh-off,1911 Urena 17,2226.7 DMG BoonenHerman 18,379.1439781790894,1454.645420207464,0.0,Rouge Vif d’Etampes,5,634.3369815571472,heavy
+2019-P,537,916.4089574402238,"Romboli, Massimo",Sale Marasino,Lombardy,Italy,Sfida degli Zucconi della Brianza,2012 Salvagni,1810 Werner,337.0740749355397,1098.1285768338591,0.0,Early Giant,5,415.1332577204214,medium
+2021-P,1369,43.05636910777151,"Schieder, Christoph",Innsbruck,Tirol,Austria,Austrian Weigh-off,1104.5 Langheim 19,open,121.59747499498584,44.33746651824954,0.0,Rouge Vif d’Etampes,5,19.504535205820495,light
+2020-P,1324,92.12706846051888,"Buechele, Franz",Waidhofen an der Thaya,Lower Austria,Austria,Retzer Land Weigh-off,Jaglarz,,0.0,0.0,0.0,Howden,5,41.73356201261505,light
+2018-P,1576,173.80255056074628,"Romoli, Siria",Radda in Chianti,Tuscany,Italy,Pesa la Zucca! Foiano,,,187.12340433768503,169.68253989202478,6.85657902475359,Spirit,5,78.73255540401807,light
+2018-P,320,1252.7632683138877,"Garofano, Emanuele",Pontedera,Tuscany,Italy,Pesa la Zucca! Foiano,,,376.8442696918538,1064.286286930875,24.154823974635,Champion,5,567.5017605461911,heavy
+2017-P,1174,418.2408805449484,"Vito, Marino",Casatenovo,Lombardy,Italy,Festa della zucca di sale,Cabanon,Cabanon,278.8523661954127,500.7929880050152,0.0,Jack O'Lantern,5,189.46311888686165,light
+2015-P,1026,630.6629884568639,"Prandi, Giuseppe",Capua,Campania,Italy,Campionato dello Zuccone,445 De Matteo,Open,,527.3171762574663,24.40417930510409,Wolf,5,285.69033377095934,medium
+2015-P,1223,477.9655025354439,"Sergio, Moretti",,Other,Italy,Campionato dello Zuccone,935 Ferretti,2102 Meier,298.9696924687672,538.8869960773376,0.0,Prizewinner,5,216.5183726485561,light
+2018-P,1219,443.9708209387951,"Innocenzo, Gregori",Goito,Lombardy,Italy,Sfida degli Zucconi della Brianza,"1642,5 Wallace","998,5 Tosoni",267.7762513729142,466.2058260603693,5.0267082414435365,Champion,5,201.1187818852742,light
+2015-P,1194,581.0756718682591,"Agnelli, Chiara",Campagnola Emilia,Other,Italy,Pesa la Zucca! Foiano,,,304.0565661764077,556.2145847043679,2.0093655232923107,Connecticut Field,5,263.2272793563214,medium
+2013-P,1110,367.7333765032763,"Eichinger, Thomas",,Other,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Jack O'Lantern,5,166.58321955598416,light
+2013-P,500,868.4309199381026,"Zwillinge, Schodl",,Other,Austria,Austrian Weigh-off,934 Schieder 11,,365.75716548220765,999.3670979620914,0.0,Dill's Atlantic,5,393.39920673196053,medium
+2021-P,602,810.344736030905,"Fabrice, Boudyo",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,Marand 924.8,,325.1286154070571,875.7812893822183,0.0,Big Moose,5,367.08616542199997,medium
+2021-P,915,503.2737086672718,"LFS Tulln, Team",Buchkirchen,Upper Austria,Austria,Austrian Weigh-off,1548 Wuersching 20,1104.5 Langheim 19,286.4071649101597,553.8001424872697,0.0,Jack O'Lantern,5,227.98299002627414,medium
+2014-P,1720,59.85712903872319,"Cutrupi, Stefano",Calcio,Lombardy,Italy,Festa della zucca di sale,,,134.20465264266682,73.17796678688347,0.0,Autumn Gold,5,27.115279454541604,light
+2020-P,464,1059.8172345472462,"Buffoli, Tarcisio",Capua,Campania,Italy,Campionato dello Zuccone,1911 Urena,Self,345.76323326017945,1034.208584202673,4.047250513285206,Autumn Gold,5,480.09720724990257,heavy
+2015-P,511,1041.128903708965,"Mori, Flli.",Reggio Emilia,Other,Italy,Pesa la Zucca! Foiano,,,363.9738409540746,1003.6137260659503,0.0,Spirit,5,471.63139338016117,heavy
+2015-P,1563,260.23541999307366,"Valdambrini, Federico",,Other,Italy,Campionato dello Zuccone,1254 Bartoli,Open,225.0167250117488,286.58265123336867,0.0,Howden,5,117.88664525686237,light
+2014-P,1433,307.7089331837102,"Klein, Martin",Schiltern,Lower Austria,Austria,Austrian Weigh-off,1177 Horde,,0.0,0.0,0.0,Early Giant,5,139.39214673222074,light
+2021-P,1157,236.14260496888767,"Fantoni, Marco",Sanpancrazio,Lombardy,Italy,Sfida Nazionale della Zucca - Club Maspiano,2008 CUTRUPI,BARESI,207.36289954122697,230.2434220072662,4.9514454011711715,Wolf,5,106.97260005090612,light
+2016-P,832,727.7858737013736,"Bauhof Tulln, Team",Tulln,Lower Austria,Austria,Austrian Weigh-off,1159 Puchner,,311.5384688632615,781.0321482896168,0.0,Champion,5,329.68700078672225,medium
+2020-P,968,473.19942081898887,"Tranfaglia, Antonio",Terricciola,Tuscany,Italy,Pesa la Zucca! Foiano,,,272.1416987431261,476.661946717196,1.9486923875653832,Spirit,5,214.35933763100198,light
+2019-P,1131,463.69836568714305,"Derouin, Jean Claude",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,119 kg Berthelot 17,,268.3698473761855,380.05165245961126,12.841523502556424,Casper,5,210.0553596562758,light
+2018-P,752,801.4701342442343,"Filliaudeau, Laurent",,Other,France,Le Potager Extraordinaire,,,348.9359218218336,851.5067860501049,0.0,Early Giant,5,363.0659708126381,medium
+2013-P,1056,446.3374949952898,"Melka, Friedrich",,Other,Austria,Austrian Weigh-off,,,,0.0,0.0,Atlantic Giant,5,202.19088523286626,light
+2020-P,467,918.7788567634334,"Giustarini, Vinicio",,Lombardy,Italy,Sfida Nazionale della Zucca - Club Maspiano,"2012,8 Salvagni",Self,356.65105793581597,1218.3489636957954,0.0,Casper,5,416.20682211383536,medium
+2020-P,1229,197.86053495169128,"Tosoni, Matteo",goito,Lombardy,Italy,Sfida Nazionale della Zucca - Club Maspiano,1137 Salvagni 2019,Open,0.0,0.0,0.0,Prizewinner,5,89.63082233311616,light
+2016-P,DMG,1312.4761250314905,"Zucchelli, Michael",Umbertide,Umbria,Italy,Pesa la Zucca! Foiano,,,380.98077898192906,1201.1522176512026,15.807027636489533,Connecticut Field,5,594.5516846392652,heavy
+2017-P,1260,335.7654871207803,"Niccolai, Giacomo",Peccioli,Tuscany,Italy,Campionato dello Zuccone,,,240.64710395124828,380.96692685304464,0.0,Cinderella,5,152.10176566571346,light
+2019-P,1473,206.6515517073576,"Bontempi, Emanuela",Casatenovo,Lombardy,Italy,Sfida degli Zucconi della Brianza,1078 Larsen,Self,203.99003138588773,204.38901444378865,1.0225407112207692,Champion,5,93.613152923433,light
+2019-P,1719,26.643961941119876,"Puchner, Thomas",Tulln,Lower Austria,Austria,Leiserberge Weigh-off,,,0.0,0.0,0.0,Connecticut Field,5,12.069714759327304,light
+2014-P,1258,432.0832580480976,"Plebani, Cristian",,Other,Italy,Campionato dello Zuccone,952 Bartoli,Open,289.3343537711634,487.3438451840565,0.0,Jack O'Lantern,5,195.7337158957882,light
+2016-P,1386,302.74970785290344,"Mereo, Egidio",Calcio,Lombardy,Italy,Festa della zucca di sale,,,243.87369739555967,297.4461336101446,8.16989539121962,Rouge Vif d’Etampes,5,137.14561765736525,light
+2014-P,346,1089.4219746049405,"Legena, Ivano",,Other,Italy,Pesa la Zucca! Foiano,2032 Mathison,,383.65391169789456,1402.5050309992228,0.0,Prizewinner,5,493.50815449603806,heavy
+2021-P,675,768.248876770159,"Kurzreiter, Lukas",Riederberg,Vienna,Austria,Retzer Land Weigh-off,1126.6 Melka 18,1911 Urena 17,306.7764867421845,728.3918871165142,1.875787905340956,Howden,5,348.016741176882,medium
+2019-P,EXH,801.0717560386814,"Tosoni, Matteo",Malonno,Lombardy,Italy,Sfida degli Zucconi della Brianza,"1867,3 BiermansJan",Self,341.7013146427386,870.5121753086344,0.0,Blue Hubbard,5,362.8855054855227,medium
+2021-P,675,772.6501024138116,"Schieder, Christoph",,Vienna,Austria,Retzer Land Weigh-off,1126.6 Melka 18,1911 Urena 17,329.53348734630634,720.4506560580502,2.0870050745992237,Big Moose,5,350.01049639345666,medium
+2014-P,EXH,1559.253004787901,"Bruno, Ondelli",Castelfiorentino,Tuscany,Italy,Campionato dello Zuccone,1791 Holland,2009 Wallace,438.4910451228424,1523.3046197575554,0.0,Dill's Atlantic,5,706.3416111689193,heavy
+2020-P,262,1250.7922196838822,"Bilski, Martin",Muckendorf,Lower Austria,Austria,Austrian Weigh-off,2226 Boonen DMG,2016 Boonen,419.6278741137422,1367.145519253243,0.0,Dill's Atlantic,5,566.6088755167987,heavy
+2020-P,1011,410.4253036195405,"Pfleger, Patrick",Doerfles,Lower Austria,Austria,Leiserberge Weigh-off,1279 Clementz,,257.2329945504299,443.4579313906539,0.0,Big Max,5,185.92266253965184,light
+2019-P,691,852.0880887185999,"Derouin, Jean Claude",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,,,327.9611434142511,842.6139026863942,0.0,Casper,5,385.9959041895258,medium
+2019-P,EXH,546.3007312677778,"Joebstl, Horst",Nonndorf,Lower Austria,Austria,Austrian Weigh-off,1944 Conolly,,295.16048961732963,622.3784042734192,0.0,Blue Hubbard,5,247.47423126430334,medium
+2019-P,DMG,691.8106037125856,"Fellner, Herbert",Wien,Lower Austria,Austria,Gartenbauschule Langenlois,1311.1 Matthias,sibb,343.3088268132512,929.2296916419348,0.0,Autumn Gold,5,313.3902034818013,medium
+2013-P,693,717.2809336938076,"Salvagni, Augusto",Cavriglia,Other,Italy,Festa della zucca di sale,1279 Bartoli,1420 Cutrupi,345.82936488102973,728.4117998245192,0.0,Big Moose,5,324.92826296329486,medium
+2014-P,1274,379.2888446237071,"Boschi, Valerio",Arezzo,Other,Italy,Campionato dello Zuccone,952 Bartoli,Open,247.89014239365696,354.3276262339682,3.1465511013894787,Jack O'Lantern,5,171.81784661453932,light
+2020-P,200,1410.14684179964,"Zwillinge, Schodl",Bad Voeslau,Lower Austria,Austria,Leiserberge Weigh-off,2016.6 Boonen 2017,2226.7 DMGBoonenHerman 2018,416.19578400787185,1628.8791191752775,0.0,Autumn Gold,5,638.7965193352369,heavy
+2017-P,1321,303.04884124148293,"Bleimschein, Karl",Waidhofen an der Thaya,Lower Austria,Austria,Austrian Weigh-off,Clementz,,0.0,0.0,0.0,Cinderella,5,137.28112508239178,light
+2016-P,DMG,231.1780660330691,"Colombo, Marcello",Foiano della Chiana,Tuscany,Italy,Campionato dello Zuccone,,,220.3989738281682,249.17934412773133,1.01319801004112,Early Giant,5,104.7236639129803,light
+2013-P,517,856.2117094085828,"Archetti, Paolo",,Other,Italy,Pesa la Zucca! Foiano,,,372.54791729529416,965.5000244292154,0.0,Atlantic Giant,5,387.863904362088,medium
+2015-P,EXH,534.96876739563,"Forster, Karl",,Lower Austria,Austria,Austrian Weigh-off,2323 Meier 14,self,0.0,0.0,0.0,Connecticut Field,5,242.3408516302204,medium
+2018-P,926,655.7166294502413,"Ferretti, Giulio",Foiano della Chiana,Tuscany,Italy,Pesa la Zucca! Foiano,,,298.5076825684985,740.86666200379,0.0,Rouge Vif d’Etampes,5,297.0396331409593,medium
+2018-P,688,881.7364122764639,"Jaglarz, Mario",,Lower Austria,Austria,Austrian Weigh-off,Howell/Jolivette,,325.84225157844736,850.9194945149577,0.0,Casper,5,399.42659476123816,medium
+2014-P,730,816.2707938943867,"Zucchelli, Michael",Peccioli,Other,Italy,Pesa la Zucca! Foiano,,,309.7439059794742,644.2732392186384,19.8616052983012,Wolf,5,369.7706696341572,medium
+2013-P,1483,98.67061444230669,"Migliorini, Roberto",Camucia,Other,Italy,Pesa la Zucca! Foiano,,,159.8244748401991,102.75385515282782,0.0,Casper,5,44.69778834236493,light
+2015-P,331,1334.6971351683792,"Agnelli, Chiara",,Other,Italy,Festa della zucca di sale,,,376.2014525249322,1169.7641913581188,17.374417064071515,Cinderella,5,604.6178022312758,heavy
+2017-P,1272,328.20955662106996,"Francois, Denis",,Other,France,Le Potager Extraordinaire,,,233.33512564531551,314.13578361183545,3.90918395836665,Early Giant,5,148.6789291493447,light
+2016-P,848,666.3724862451528,"Morettini, Roberto",Dogliani,Piedmont,Italy,Pesa la Zucca! Foiano,,,374.71341840595494,1104.213368990598,0.0,Spirit,5,301.86673626905423,medium
+2019-P,1088,486.14954012617505,"Daho, Mehdi",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,141 kg Berthelot 18,,288.23335788619215,518.3028582618823,0.0,Atlantic Giant,5,220.22574167715732,light
+2018-P,EXH,704.1700850585364,"Gangl, Markus",Ernstbrunn,Lower Austria,Austria,Austrian Weigh-off,Howell/Jolivette,,0.0,0.0,0.0,Howden,5,318.989048531517,medium
+2021-P,354,1189.903298971994,"Tom, Brault",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,2200 geddes,,385.396620893524,1122.4317507122892,0.9956487556007966,Atlantic Giant,5,539.0261944343133,heavy
+2019-P,537,1100.233495656168,"Cassella , Salvatore",Garlate,Lombardy,Italy,Sfida degli Zucconi della Brianza,2012 Salvagni,1810 Werner,381.81767919003335,1164.8787462414136,0.0,Rouge Vif d’Etampes,5,498.40577353224415,heavy
+2014-P,653,809.5939295374155,"Prandi, Giuseppe",Cologne,Other,Italy,Festa della zucca di sale,,,313.68353309798647,797.0311301204748,2.910026892577562,Big Moose,5,366.74605008044927,medium
+2020-P,292,1213.7780774627738,"Joebstl, Waltraud",Gross Gerungs,Lower Austria,Austria,Austrian Weigh-off,1542 Urena,1527 Melka,407.67310217903946,1417.500001805061,0.0,Champion,5,549.8414690906366,heavy
+2019-P,664,851.5546376166465,"Jaglarz, Mario",,Lower Austria,Austria,Gartenbauschule Langenlois,2152 Gantner,self,348.8886085941075,940.4760969058576,0.0,Champion,5,385.75425084034083,medium
+2020-P,962,532.0808756339468,"Joebstl, Horst",Hofkirchen,Lower Austria,Austria,Retzer Land Weigh-off,520.3 Grabmayer 19,1395.6 Weishaeupl 18,287.65464446336114,510.8818779824604,0.0,Autumn Gold,5,241.0326366621779,medium
+2018-P,487,1156.3874514889849,"Bontempi, Emanuela",Malonno,Lombardy,Italy,Festa della zucca di sale,2145macmullen,1642.5 sperry,376.0604386844407,1152.7443675529548,0.0,Spirit,5,523.8435155245102,heavy
+2016-P,1168,498.0028815531942,"Zucchelli, Michael",Foiano della Chiana,Other,Italy,Festa della zucca di sale,,,280.2882640767801,470.26399581668,6.970912967421157,Spirit,5,225.59530534359698,light
+2016-P,1448,250.33060019693008,"Arigucci, Gabriele",Terricciola,Tuscany,Italy,Pesa la Zucca! Foiano,,,217.1275250272469,279.89066184367516,0.0,Connecticut Field,5,113.39976188920933,light
+2020-P,EXH,509.89194307298465,"Kreuzspiegl, Thomas",Seefeld,Lower Austria,Austria,Europameisterschaft im Kurbiswiegen,1594 Melka,1594 Melka,276.5711870122494,471.1784926537573,1.9976425330586547,Autumn Gold,5,230.98105021206206,medium
+2016-P,1644,45.24100891816175,"Jaglarz, Mario",Tulln,Lower Austria,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Connecticut Field,5,20.494177039927273,light
+2013-P,382,969.900404634447,"Markl, Michael",Pruggern,Styria,Austria,Austrian Weigh-off,934 Schieder 11,sibb,365.5681382173864,1003.3419412183388,3.822631975243151,Atlantic Giant,5,439.3648832994045,medium
+2021-P,426,1049.7712138206998,"Die Garten Tulln, Team",St. Oswald,Styria,Austria,Austrian Weigh-off,2095 Brandt 17,,314.1726738494127,879.2282636254046,13.093387629984989,Autumn Gold,5,475.54635986077705,heavy
+2020-P,1108,303.080066308033,"Fischer, Cornelia",Markt Hartmannsdorf,Styria,Austria,Austrian Weigh-off,1527.8 Melka,,237.70198924262297,321.3626638361977,0.0,Champion,5,137.29527003753896,light
+2020-P,968,456.7118757333322,"Ondelli, Franco",Castelfiorentino,Tuscany,Italy,Pesa la Zucca! Foiano,,,274.9304586832772,441.71163621543866,2.0300556700963375,Big Moose,5,206.8904797071995,light
+2014-P,203,1409.592798442297,"Bartoli, Gabriella",,Other,Italy,Festa della zucca di sale,1749 hanfchman,1625 gantner,399.4673272245535,1281.426550587366,2.968181904097841,Autumn Gold,5,638.5455376943605,heavy
+2018-P,691,913.1695724873774,"Schoetzer, Alexander",Retz,Lower Austria,Austria,Europameisterschaft im Kurbiswiegen,2269 Paton,2145 McMullen,349.56133818351395,982.9026921506368,0.0,Cinderella,5,413.665816336782,medium
+2015-P,1237,519.5251062782123,"Agnoletti, Mario",,Other,Italy,Campionato dello Zuccone,1254 Bartoli,Open,290.3087362441835,554.9827319594137,0.0,Champion,5,235.34487314403017,medium
+2014-P,892,668.6334005196613,"Marcelli, Edoardo e Gianluca",Arezzo,Other,Italy,Pesa la Zucca! Foiano,,,306.0062534058708,692.5689218455991,0.0,Early Giant,5,302.8909304354066,medium
+2013-P,382,984.4627704232824,"Puchner, Thomas",Wildalpen,Styria,Austria,Austrian Weigh-off,934 Schieder 11,sibb,350.23671541484333,989.3735762321032,3.9386071008238495,Prizewinner,5,445.96163500174697,medium
+2015-P,EXH,1258.114192567338,Terra Botanica,,Other,France,Le Potager Extraordinaire,2102 Meier,,395.3154810319174,1459.2539006140653,0.0,Spirit,5,569.9257292330042,heavy
+2021-P,EXH,698.3537679489082,"Buffoli, Tarcisio",Garlate,Lombardy,Italy,Sfida degli Zucconi della Brianza,1143 Hoecke '16,Self,300.9283050723814,668.632593045165,6.903525322479099,Early Giant,5,316.3542568808554,medium
+2015-P,1772,54.07737482235623,"Poilane, Romaric",,Other,France,Le Potager Extraordinaire,,,133.66727227506888,70.3675129299002,0.0,Big Max,5,24.49705079452737,light
+2014-P,373,1131.63445763549,"Tom, Berthelot",,Other,France,Le Potager Extraordinaire,2009 Wallace,Self,378.22699749231185,1085.6696307404573,,Howden,5,512.630409308877,heavy
+2019-P,443,1005.2807823611156,"Mereo, Egidio",Capua,Campania,Italy,Campionato dello Zuccone,2012 Salvagni,1911 Urena,365.0526532338381,1050.857008714722,0.0,Prizewinner,5,455.3921944095854,heavy
+2015-P,1705,128.53533279837103,"Del Petriccio, .",,Other,Italy,Festa della zucca di sale,,,176.25473827386332,127.80429141395128,3.0576679832767617,Big Max,5,58.22650575766208,light
+2017-P,617,906.5377637856913,"Boschi, Valerio",Teglio,Lombardy,Italy,Festa della zucca di sale,,,350.4145425443731,979.4985242967044,0.0,Rouge Vif d’Etampes,5,410.66160699491815,medium
+2019-P,EXH,521.4601002813735,"Tosoni, Matteo",Umbertide,Umbria,Italy,Pesa la Zucca! Foiano,,,271.08194317232324,502.3087274615992,3.110114563092371,Champion,5,236.22142542746218,medium
+2019-P,1618,106.0622838996919,"Mathias, Franz",Riederberg,Vienna,Austria,Austrian Weigh-off,2043 Clementz,,139.98122793490282,77.13959858941611,41.087918714470426,Blue Hubbard,5,48.04621460656043,light
+2013-P,455,854.373898800527,"Tarcisio, Buffoli",Arezzo,Other,Italy,Pesa la Zucca! Foiano,,,341.3221084734087,913.5948963961428,0.0,Spirit,5,387.0313761566387,medium
+2018-P,1548,205.4113428324605,"Brault, Samuel",,Other,France,Le Potager Extraordinaire,1567.5 Lyons 2016,,202.35030810720707,214.94395541595512,0.0,Blue Hubbard,5,93.0513383031046,light
+2019-P,685,835.264675800909,"Balloni-Rabazzi,",Umbertide,Umbria,Italy,Pesa la Zucca! Foiano,,,332.3396870626106,846.3119138275074,0.0,Connecticut Field,5,378.3748981378118,medium
+2016-P,1601,92.30884490870756,"Teichmann, Erik",Pruggern,Styria,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Champion,5,41.815906743644526,light
+2013-P,829,591.2092633599082,"Fellner, Herbert",,Other,Austria,Austrian Weigh-off,,,0.0,0.0,,Champion,5,267.8177963020384,medium
+2014-P,EXH,84.55260864663639,"Jaglarz, Mario",,Other,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Champion,5,38.30233171692628,light
+2017-P,999,553.7592430390072,"Cutrupi, Stefano",Goito,Lombardy,Italy,Festa della zucca di sale,Turmolli,Self,288.9323962713235,543.9470215072464,0.0,Early Giant,5,250.85293709667025,medium
+2020-P,430,1038.0539211677342,"Wischer, Andreas",St. Michael,Carinthia,Austria,Austrian Weigh-off,1369 Arens,1989 Daletas,355.138049838069,1105.5647133364466,0.0,Wolf,5,470.2384262889836,heavy
+2017-P,DMG,331.59361337006357,"Turmoli, Andrea",,Tuscany,Italy,Campionato dello Zuccone,1521 Cutrupi,Open,236.86150905045983,344.7833351026274,0.0,Spirit,5,150.2119068566388,light
+2016-P,DMG,988.2561220546406,"Haindl, Werner",Riederberg,Vienna,Austria,Austrian Weigh-off,1840 Ghaye,,363.2899928327959,1068.3063659612349,0.0,Big Max,5,447.6800232907522,medium
+2017-P,1500,144.72239207791586,"Maffessoli, Valter",Lumezzane,Lombardy,Italy,Festa della zucca di sale,unknow,unknow,180.57321309499105,124.09114024533152,9.99456717716004,Connecticut Field,5,65.55924361129588,light
+2016-P,1338,310.62095477641617,"Ivan, Bartoli",Castelfiorentino,Tuscany,Italy,Campionato dello Zuccone,,,232.4926067313301,272.4595552232079,14.724028886140434,Big Moose,5,140.71129251371653,light
+2021-P,700,689.1347915477081,"Schoys, Josef",Wien,Vienna,Austria,Tharinger Meisterschaft,2139 Skonager,2139 Skonager,333.54890245015434,903.245462301335,0.0,Cinderella,5,312.1780605711118,medium
+2016-P,1644,46.664502659196714,"Aininger, Gerald",,Lower Austria,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Atlantic Giant,5,21.13901970461611,light
+2018-P,EXH,497.5357460337467,"Segoni, Eligio",Farigliano,Piedmont,Italy,Pesa la Zucca! Foiano,,,275.0843696213453,,0.0,Champion,5,225.38369295328727,light
+2019-P,598,968.019854024957,"Gruber, Matthias",Kremsmuenster,Upper Austria,Austria,Austrian Weigh-off,460 Kloch,2012 Salvagni,337.9191565296821,977.1097412849356,0.0,Cinderella,5,438.51299387330556,medium
+2016-P,307,1284.4738210948112,"Grabmayer, Manfred",Kreutstetten,Lower Austria,Austria,Europameisterschaft im Kurbiswiegen,1585.5 Werner,1338 Martin,418.9809860755967,1460.472045085971,0.0,Dill's Atlantic,5,581.8666409559495,heavy
+2017-P,714,772.3698736765443,"Daniel, Wonovsky",Bad Voeslau,Lower Austria,Austria,Austrian Weigh-off,Mathias 16,,322.49251200749103,834.6857536500642,0.0,Prizewinner,5,349.8835527754746,medium
+2013-P,1485,94.77622243369836,"Brault, Samuel",,Other,France,Le Potager Extraordinaire,,,0.0,0.0,0.0,Wolf,5,42.93362876246536,light
+2017-P,EXH,320.66865694651483,"Battista, Gregori",Goito,Lombardy,Italy,Sfida degli Zucconi della Brianza,821.2 Petrelli,Open,242.94844433451993,324.72827365395113,5.005257671537219,Atlantic Giant,5,145.26290159677123,light
+2021-P,389,1067.113654490725,"Mazzucchelli, Mario",Capriolo,Lombardy,Italy,Sfida Nazionale della Zucca - Club Maspiano,1025 MUSCAS,2183 MENDI,356.81907975295536,1041.13235966389,0.0,Autumn Gold,5,483.4024854842984,heavy
+2013-P,1181,338.40332697092964,"Jaglarz, Mario",,Other,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Prizewinner,5,153.29670711783112,light
+2015-P,1426,367.51121566769126,"Julien, Bernard",,Other,France,Le Potager Extraordinaire,,,0.0,0.0,0.0,Early Giant,5,166.48258069746416,light
+2014-P,1418,311.2640654468497,"Derouin, Nicolas",,Other,France,Le Potager Extraordinaire,,,232.03257979013995,300.3959448398373,8.562460459072051,Prizewinner,5,141.00262164742293,light
+2019-P,1157,432.2859770824589,"Kurzreiter, Lukas",Buers,Vorarlberg,Austria,Austrian Weigh-off,Rudorfer,,272.2478593351017,428.13797023728773,0.0,Big Moose,5,195.82554761835388,light
+2013-P,1483,99.907976353167,"Archetti, Paolo",Peccioli,Other,Italy,Pesa la Zucca! Foiano,,,162.2955419572768,103.83306076416396,0.0,Howden,5,45.258313287984656,light
+2019-P,847,666.3317001367745,"LFS, Tulln",Tulln,Lower Austria,Austria,Austrian Weigh-off,664.9 Jaglarz 14,551.2 Jaglarz 15,299.1445452312101,761.4938231217898,0.0,Champion,5,301.8482601619589,medium
+2018-P,EXH,216.4651799640255,"Pennati, Federico",Foiano della Chiana,Tuscany,Italy,Pesa la Zucca! Foiano,,,203.60434748941128,185.06726620446696,9.122512039243688,Blue Hubbard,5,98.05872652370356,light
+2015-P,1744,96.08057196712078,"Barrella, Alessio",Foiano della Chiana,Other,Italy,Festa della zucca di sale,,,161.95420223772106,114.75827166023213,0.0,Jack O'Lantern,5,43.52449910110571,light
+2015-P,1434,353.32881975537293,"Bertone, Andrea",,Other,Italy,Pesa la Zucca! Foiano,,,255.05090478449097,376.29895106205134,0.0,Wolf,5,160.05795534918394,light
+2015-P,EXH,1272.733375209314,"Pierre Marie, Paquet",,Other,France,Le Potager Extraordinaire,2102 Meier,,406.84020429380865,1330.6892264419555,0.0,Champion,5,576.5482189698193,heavy
+2015-P,1173,528.9424449054694,"Mathias, Franz",Bad Voeslau,Lower Austria,Austria,Austrian Weigh-off,"1395,5 Lueders 14",self,291.5843770660532,683.694583337195,0.0,Rouge Vif d’Etampes,5,239.61092754217765,medium
+2013-P,1024,421.50448550527904,"Tarcisio, Buffoli",Arezzo,Other,Italy,Pesa la Zucca! Foiano,,,247.48889516240416,360.89333937317974,21.432454864959112,Autumn Gold,5,190.9415319338914,light
+2018-P,EXH,644.5595389267953,"Agnoletti, Mario",Castelfiorentino,Tuscany,Italy,Pesa la Zucca! Foiano,,,309.9434711427625,686.7100897503857,0.0,Champion,5,291.9854711338383,medium
+2019-P,EXH,767.7521788838524,"Tarcisio, Buffoli",Sale Marasino,Lombardy,Italy,Sfida degli Zucconi della Brianza,"1867,3 BiermansJan",Self,301.46949658573755,796.5342966074369,0.0,Blue Hubbard,5,347.7917370343851,medium
+2019-P,DMG,741.3026156961407,"Musso, Stefano",Poggiridenti,Lombardy,Italy,Sfida degli Zucconi della Brianza,"1761,5 Cutrupi",Self,313.4809880145337,668.5023136987546,10.78550911716099,Big Moose,5,335.81008491035175,medium
+2013-P,509,774.4191554310248,"Gauchet, Jean Pierre",,Other,France,Le Potager Extraordinaire,1680 Tanner,,309.0591533146939,708.2013958966267,10.717088570917245,Early Giant,5,350.8118774102542,medium
+2019-P,1193,373.37199869549454,"Laidin, Jean Michel",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,1533 Henkin 18,,,404.1768489740733,0.0,Rouge Vif d’Etampes,5,169.13751540905903,light
+2015-P,1429,369.23616278774807,"Colzani, Enrico",Foiano della Chiana,Other,Italy,Campionato dello Zuccone,1726 Cutrupi,Open,277.1615299904255,405.71823484526846,0.0,Early Giant,5,167.2639817428499,light
+2016-P,1088,585.2686562939506,"Pierre Marie, Paquet",,Other,France,Le Potager Extraordinaire,,,0.0,0.0,0.0,Jack O'Lantern,5,265.12670130115964,medium
+2020-P,873,559.4458943518803,"Karl Forster, LGS Kremsmuenster",,Styria,Austria,Austrian Weigh-off,Melka,,289.9496561803726,493.0533437008083,3.999450664079867,Big Max,5,253.42899014140178,medium
+2019-P,572,915.9592653460136,"Joebstl, Waltraud",,Upper Austria,Austria,Austrian Weigh-off,1861.8 Cutrupi,,361.8041902190485,947.4285134313176,0.0,Rouge Vif d’Etampes,5,414.9295472017442,medium
+2016-P,EXH,549.2568764134724,"Guitton, Hugues",,Other,France,Le Potager Extraordinaire,,,0.0,0.0,0.0,Howden,5,248.813365015303,medium
+2018-P,524,975.3142847056318,"Squitieri, Danilo",Sale Marasino,Lombardy,Italy,Sfida degli Zucconi della Brianza,"2016,60 Boonenherman",Self,354.77693899120584,892.6317255137732,4.9144839598174785,Rouge Vif d’Etampes,5,441.81737097165126,medium
+2019-P,633,890.4306997700788,"Schoffnegger, Armin",Riederberg,Vienna,Austria,Tharinger Meisterschaft,1527 Melka,2230 Wallace,374.0243168622512,1032.4708069232324,0.0,Blue Hubbard,5,403.36510699584574,medium
+2018-P,584,979.0084031078025,"Burgsteiner, Helmut",Gross Gerungs,Lower Austria,Austria,Europameisterschaft im Kurbiswiegen,1844 Holub,1807 Holub,338.42199248489976,1079.1200912886927,0.0,Big Moose,5,443.49080660783454,medium
+2015-P,1373,382.72086470501455,"Riegebauer, Thomas",Ernstbrunn,Lower Austria,Austria,Austrian Weigh-off,1395.5 Lueders 14,,0.0,0.0,0.0,Connecticut Field,5,173.37255171137159,light
+2020-P,EXH,427.9926358936646,"Agnelli, Vasco",Castiglion Fiorentino,Tuscany,Italy,Pesa la Zucca! Foiano,,,279.13280959963083,412.921681477408,0.0,Rouge Vif d’Etampes,5,193.88066405983008,light
+2013-P,1142,333.2183187110423,"ivan, bartoli",,Other,Italy,Pesa la Zucca! Foiano,,,235.49776860974737,327.8182361781387,0.9785691106803271,Casper,5,150.94789837610216,light
+2018-P,896,717.6182053851845,"Nicole, BUREAU",Spay,Other,France,Le Potager Extraordinaire,,,302.8784411041341,550.4648989383811,27.6628231166169,Rouge Vif d’Etampes,5,325.0810470394886,medium
+2016-P,1156,509.9077891904834,"Greta e Paolo, Team",,Lombardy,Italy,Pesa la Zucca! Foiano,,,279.09582799482683,483.24483718948613,5.971821610159958,Atlantic Giant,5,230.98822850328898,medium
+2015-P,995,684.9765908926784,"Rosati, Loris",,Other,Italy,Campionato dello Zuccone,1488 Cutrupi est-dmg,Open,303.7877947838487,650.0566911908589,7.863309837464851,Jack O'Lantern,5,310.2943956743833,medium
+2013-P,1325,216.68571760483567,"Fantoni, Marco",,Other,Italy,Festa della zucca di sale,,,199.79963752124576,210.24125084656075,3.929841800806928,Connecticut Field,5,98.15863007499057,light
+2018-P,1139,563.5849872631084,"Unger, Michael",Pruggern,Styria,Austria,Austrian Weigh-off,1072 Klein 15,open,0.0,0.0,0.0,Rouge Vif d’Etampes,5,255.30399923018808,medium
+2017-P,1524,112.52880953796296,"Lehner, Elisabeth",Baerndorf,Lower Austria,Austria,Austrian Weigh-off,,,0.0,,0.0,Prizewinner,5,50.97555072069722,light
+2015-P,1677,151.55502946042915,"Mathias, Franz",Kleinhadersdorf,Lower Austria,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Rouge Vif d’Etampes,5,68.6544283455744,light
+2014-P,346,1239.2397678499974,"Romoli, Siria",Arezzo,Other,Italy,Pesa la Zucca! Foiano,2032 Mathison,,412.0718693889513,1442.7671875982,0.0,Jack O'Lantern,5,561.3756148360488,heavy
+2017-P,1436,208.60162912697717,"Mercandelli, Gregorio",,Lombardy,Italy,Sfida degli Zucconi della Brianza,unknow,unknow,196.0064171580023,201.86624413263257,5.907591626593883,Big Moose,5,94.49653799452066,light
+2016-P,1502,182.0292480441053,"Ferretti, Giulio",Radda in Chianti,Tuscany,Italy,Pesa la Zucca! Foiano,,,210.75949000732567,244.392719962848,0.0,Spirit,5,82.4592493639797,light
+2017-P,1013,576.2906081763053,"Prandi, Giuseppe",Viarigi,Piedmont,Italy,Pesa la Zucca! Foiano,,,307.0888580066667,644.2752678002264,0.0,Cinderella,5,261.0596455038663,medium
+2020-P,DMG,826.453251289646,"Forino, Salvatore",Foiano della Chiana,Tuscany,Italy,Campionato dello Zuccone,2416.5 Haist,Self,329.6486377764774,736.7564446784623,14.717651484896178,Atlantic Giant,5,374.38332283420965,medium
+2020-P,619,819.6414414177838,"Cutrupi, Stefano",Radda in Chianti,Tuscany,Italy,Pesa la Zucca! Foiano,,,331.4485511814995,762.0527997075644,6.7927357749254496,Early Giant,5,371.2975729622561,medium
+2019-P,591,908.6674252012932,"Colzani, Enrico",Raddi in Chianti,Tuscany,Italy,Campionato dello Zuccone,2012 Salvagni,Open,354.2865290873703,944.5288026419016,0.0,Prizewinner,5,411.62634361618586,medium
+2014-P,949,665.4420191618275,"Boschi, Valerio",Arezzo,Other,Italy,Campionato dello Zuccone,829 Cutrupi,1490 Cutrupi,290.2741528740578,702.7354906130988,,Wolf,5,301.44523468030786,medium
+2020-P,1197,229.77470809710877,"Lacina, Martin",,Lower Austria,Austria,Leiserberge Weigh-off,,,0.0,0.0,0.0,Cinderella,5,104.08794276799027,light
+2018-P,1000,614.7086044851583,"Bertone, Andrea",Castello Brianza,Lombardy,Italy,Festa della zucca di sale,2009 wallace cross,1945 stelt,290.1716904350545,575.6846784713588,6.070323359795082,Jack O'Lantern,5,278.4629978317767,medium
+2019-P,603,848.3911472109896,"Spreafico, Luca",Sirtori,Lombardy,Italy,Pesa la Zucca! Foiano,,,336.7446382841371,796.7573527843485,9.90113175475144,Atlantic Giant,5,384.3211896865783,medium
+2019-P,1180,400.11644963369224,"Cassioli, Rita",Castelfiorentino,Tuscany,Italy,Pesa la Zucca! Foiano,,,255.4838336951677,371.3534524455105,4.069009402049738,Champion,5,181.2527516840626,light
+2016-P,1156,496.8847344918202,"Galien, Simone",Lumezzane,Lombardy,Italy,Pesa la Zucca! Foiano,,,269.07263057734633,448.26470296349447,6.370222632937828,Howden,5,225.08878472479455,light
+2019-P,EXH,214.8359472138328,"Liberatori, Lido",Goito,Lombardy,Italy,Sfida degli Zucconi della Brianza,"1257,7 Petrelli",Self,201.9837706447883,218.57968807343929,0.0,Big Max,5,97.32068408786627,light
+2019-P,598,924.3138321317324,"LFS, Tulln",Kremsmuenster,Upper Austria,Austria,Austrian Weigh-off,460 Kloch,,345.83490228674333,970.5861873143996,0.0,Wolf,5,418.7141659556748,medium
+2013-P,517,830.4700279050647,"Matteo, Tosoni",Dragoni,Other,Italy,Pesa la Zucca! Foiano,,,330.10919514636,952.3488670235588,0.0,Champion,5,376.20292264099436,medium
+2014-P,1289,429.61316788764793,"Zucchelli, Michael",Pontedera,Tuscany,Italy,Campionato dello Zuccone,1052 Ferretti,952 Bartoli,266.2940741059317,431.0216791617235,0.0,Casper,5,194.61476505310452,light
+2016-P,1175,516.4128163946264,"Joseph, HUBERT",,Other,France,Le Potager Extraordinaire,,,0.0,0.0,0.0,Early Giant,5,233.93500582676575,medium
+2019-P,498,1075.7389514950703,"Stefano, Musso",Dragoni,Campania,Italy,Campionato dello Zuccone,1911 Urena,Self,365.0020601530003,1067.7545726719677,0.0,Early Giant,5,487.30974502726684,heavy
+2014-P,1475,266.5922707562644,"Palatresi, Carla",Reggio Emilia,Other,Italy,Festa della zucca di sale,,,218.04554976341717,254.1547465461857,3.145961280435042,Blue Hubbard,5,120.76629865258776,light
+2019-P,1287,314.86279414411445,"Schieder, Christoph",Oberkreuzstetten,Lower Austria,Austria,Gartenbauschule Langenlois,1080.9 Melka,,241.3594713134777,339.4426681467717,,Cinderella,5,142.63284574728385,light
+2019-P,1567,139.43316488694057,"Ciancagli, Vasco",Novellara,Emilia-Romagna,Italy,Campionato dello Zuccone,165 Wild,Open,0.0,0.0,0.0,Early Giant,5,63.16322369378408,light
+2021-P,740,683.5563109785835,"Falchi, Brunero",Teglio,Lombardy,Italy,Sfida Nazionale della Zucca - Club Maspiano,1455 PETRELLI,1455 PETRELLI,311.44907731964605,654.33870830281,3.9961620054860982,Blue Hubbard,5,309.65100887329834,medium
+2020-P,873,581.9343890295636,"Markl, Michael",,Styria,Austria,Austrian Weigh-off,Melka,,303.47986217444577,523.3597864543235,3.9674497244447,Wolf,5,263.6162782303923,medium
+2020-P,364,1158.5279272348723,"Arigucci, Gabriele",Marone,Lombardy,Italy,Sfida Nazionale della Zucca - Club Maspiano,1025.1 Muscas,Self,362.1194729466931,1208.2462147853191,0.0,Autumn Gold,5,524.8131510373972,heavy
+2019-P,1643,78.01045758649047,"Fellner, Herbert",Ernstbrunn,Lower Austria,Austria,Leiserberge Weigh-off,,,0.0,0.0,0.0,Dill's Atlantic,5,35.338737286680185,light
+2015-P,1645,154.56857252095853,"Gabriele and Sauro, Bartoli",Castelfiorentino,Tuscany,Italy,Campionato dello Zuccone,1254 Bartoli,Open,202.5693583777837,173.1949208764309,0.0,Autumn Gold,5,70.01956335199421,light
+2013-P,841,545.7663813458383,"Salvagni, Augusto",Arezzo,Other,Italy,Pesa la Zucca! Foiano,,,273.69413633251213,501.424698810653,8.050357558381386,Autumn Gold,5,247.2321707496648,medium
+2014-P,1345,377.824111193768,"Daho, Marcelle",,Other,France,Le Potager Extraordinaire,404 Brault,,247.54234827329205,365.9559137616624,5.03951267183245,Jack O'Lantern,5,171.1543223707769,light
+2020-P,553,938.4365076872074,"Schodl, Zwillinge",Wien,Vienna,Austria,Leiserberge Weigh-off,1080 Melka,1594 Melka,362.52451249660714,937.4923241139312,0.0,Early Giant,5,425.11173798230493,medium
+2013-P,976,443.7102030508352,"Plebani, Cristian",Arezzo,Other,Italy,Pesa la Zucca! Foiano,,,251.6701211639024,387.39084607198,13.960151041593695,Casper,5,201.00072198202835,light
+2015-P,1418,380.1564573364358,"Freddy, Rousseau",,Other,France,Le Potager Extraordinaire,"1395,5 Luclerc 2015",,245.09041100230667,421.26028116105533,0.0,Casper,5,172.2108751734054,light
+2021-P,1224,183.79498391379863,"Joebstl, Horst",Kleinhadersdorf,Lower Austria,Austria,Austrian Weigh-off,,,217.8321087502938,221.6171785538833,0.0,Connecticut Field,5,83.25912771295079,light
+2018-P,1083,533.965013878774,"Aininger, Gerald",Schiltern,Lower Austria,Austria,Austrian Weigh-off,Mathias,,0.0,0.0,0.0,Champion,5,241.88615128708463,medium
+2014-P,730,793.352417424915,"Salvagni, Augusto",,Other,Italy,Pesa la Zucca! Foiano,,,299.4291027345308,666.154765687222,19.942604349953484,Connecticut Field,5,359.3886450934865,medium
+2014-P,921,662.9405127321722,"luigino, guerra",,Other,Italy,Pesa la Zucca! Foiano,,,311.4992293526598,663.2566684205705,4.0215580311072365,Autumn Gold,5,300.312052267674,medium
+2019-P,1359,255.55229426871065,"Hammerl, Joachim",Haag,Lower Austria,Austria,Gartenbauschule Langenlois,Blaimschein 2017,,225.3419230639151,257.71118403760534,0.0,Rouge Vif d’Etampes,5,115.76518930372593,light
+2015-P,1702,133.5011711766184,"Felappi, Lorenzo",Dragoni,Other,Italy,Campionato dello Zuccone,,Open,,126.5066006578688,3.0618450941520647,Casper,5,60.47603054300814,light
+2014-P,930,629.0399207578629,Vincenzo Italiano,Arezzo,Other,Italy,Festa della zucca di sale,,,317.86383454421247,764.2528682091443,0.0,Howden,5,284.9550841033119,medium
+2014-P,995,630.5939744213555,"Hoefler, Norbert",Gols,Burgenland,Austria,Austrian Weigh-off,,,301.5036993696964,658.8299930353649,4.9277995652635145,Cinderella,5,285.65907041287403,medium
+2021-P,211,1347.6093037474905,"Reischer, JZB Kindergruppe",Ernstbrunn,Lower Austria,Austria,Retzer Land Weigh-off,1911 Urena 17,2226.7 DMG BoonenHerman 18,409.0615759115518,1432.8551872995486,0.0,Early Giant,5,610.4670145976132,heavy
+2021-P,932,489.8473254359457,"Melka, Friedrich",Seefeld,Lower Austria,Austria,Austrian Weigh-off,1594.4 Melka,,290.69630430112716,457.659832563017,0.0,Champion,5,221.90083842248342,light
+2014-P,414,1111.8818889978138,"Gauchet , Jean Pierre",,Other,France,Le Potager Extraordinaire,1579 Wallace,,399.57660927739545,1030.2258983628574,6.162396166130138,Champion,5,503.68249571600967,heavy
+2019-P,424,1154.4001850259865,"Pascal, Guin",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,,,373.14213525850386,1151.3357160853786,0.0,Connecticut Field,5,522.9432838167719,heavy
+2014-P,959,626.3636681730273,"Sailer, Ernst",,Other,Austria,Austrian Weigh-off,934 Schieder,,286.808783650676,627.0968268347476,2.9855832388221364,Rouge Vif d’Etampes,5,283.7427416823814,medium
+2021-P,713,703.418292434284,"Baresi, Simone",Spinoso,Basilicata,Italy,Campionato dello Zuccone,1131 Chiti,Self,291.9447292594697,660.3929421095305,10.10585463056538,Early Giant,5,318.64848647273067,medium
+2015-P,590,1072.9436579785438,"Rosati, Loris",Arezzo,Other,Italy,Festa della zucca di sale,,,356.8113197714999,998.2389904163688,1.988054122683209,Champion,5,486.04347706428035,heavy
+2018-P,1727,52.16610240639555,"Hammerl, Joachim",,Other,Austria,Austrian Weigh-off,31 Teichmann 17 UOW,,0.0,0.0,0.0,Spirit,5,23.631244390097187,light
+2013-P,1373,173.86145291030985,"Boschi, Valerio",Perugia,Other,Italy,Campionato dello Zuccone,899 Cutrupi,Open,0.0,0.0,0.0,Big Max,5,78.75923816837036,light
+2013-P,892,519.997024393147,"Gregori, Stefano",Arezzo,Other,Italy,Campionato dello Zuccone,899 Cutrupi,,280.3387754565696,561.8415749823073,0.0,Howden,5,235.55865205009556,medium
+2014-P,1048,544.4783228572802,"Barreca, Alessandro",,Other,Italy,Pesa la Zucca! Foiano,,,297.3141422917756,582.0687726880456,0.0,Howden,5,246.64868025434794,medium
+2020-P,968,464.528578940456,"Mitra, Marco",Terricciola,Tuscany,Italy,Pesa la Zucca! Foiano,,,265.2180137066215,457.0504576505499,2.026388793954126,Prizewinner,5,210.43144626002658,light
+2016-P,1448,228.6395444604455,"Gregori, Stefano",Lamporecchio,Tuscany,Italy,Pesa la Zucca! Foiano,,,212.0876637906852,256.42704460598065,0.0,Autumn Gold,5,103.57371364058181,light
+2013-P,509,854.8573595832244,"Berthelot, Tom",,Other,France,Le Potager Extraordinaire,1680 Tanner,,319.39029531829925,794.5526217115363,11.4926106832823,Cinderella,5,387.25038389120067,medium
+2014-P,346,1178.6958075314742,"ivan, bartoli",,Other,Italy,Pesa la Zucca! Foiano,2032 Mathison,,388.6800170867013,1354.9862891478472,0.0,Spirit,5,533.9492008117578,heavy
+2019-P,1227,386.3176377744037,"Melka, Friedrich",Tulln,Lower Austria,Austria,Gartenbauschule Langenlois,,,275.0046913411521,387.6762660529823,0.0,Champion,5,175.00188991180488,light
+2013-P,1046,427.1260864492834,"Laurent, FILLIAUDEAU",,Other,France,Le Potager Extraordinaire,1680 Tanner,1338 Boudyo,250.36640007383,333.0828788921479,21.40863213984463,Casper,5,193.48811716152537,light
+2021-P,1323,83.21550073330397,"Puchner, Thomas",Schiltern,Lower Austria,Austria,Austrian Weigh-off,Skonager,,155.60927695867687,78.21591799308224,0.0,Atlantic Giant,5,37.6966218321867,light
+2021-P,487,1024.1551164492696,"Fellner, Herbert",,Lower Austria,Austria,Europameisterschaft im Kurbiswiegen,1911 Urena 2017,2226.7 Boonen 2018,344.51685159607206,1014.0286552754968,1.9434976398463164,Dill's Atlantic,5,463.9422677515191,heavy
+2014-P,1338,386.93150015733374,"Renaud, Philippe",,Other,France,Le Potager Extraordinaire,,,256.49428671204356,372.71160710770766,6.184373187328854,Blue Hubbard,5,175.2799695712722,light
+2018-P,320,1246.1936850206157,"matteo, tosoni",Castiglion Fiorentino,Tuscany,Italy,Pesa la Zucca! Foiano,,,349.94471856723027,1073.8399312191602,24.751825854667658,Big Max,5,564.5257393143389,heavy
+2016-P,1344,349.1042417368137,"Nardi, Enzo",Niella Belbo,Piedmont,Italy,Festa della zucca di sale,,,260.30899653735804,365.021681290432,0.0,Rouge Vif d’Etampes,5,158.14422150677663,light
+2020-P,630,792.3128814369932,"Schodl, Zwillinge",Riederberg,Lower Austria,Austria,Leiserberge Weigh-off,368 Joebstl,1369 Arsens,339.8461137666505,917.8174268005722,0.0,Spirit,5,358.9177352909579,medium
+2013-P,1477,107.42615813868424,"Zecchini, Fernando",Arezzo,Other,Italy,Pesa la Zucca! Foiano,,,174.0499077289764,128.22588008749432,0.0,Blue Hubbard,5,48.66404963682396,light
+2015-P,23,1961.1793325537471,"Giuseppina, Monceri",Lamporecchio,Tuscany,Italy,Europameisterschaft im Kurbiswiegen,1726 Cutrupi 14,2323 Meier 14,489.066671886504,1833.8608749143536,0.0,Cinderella,5,888.4142376468475,heavy
+2018-P,EXH,556.5443731539866,"Giuseppina, Monceri",,Lombardy,Italy,Festa della zucca di sale,,,285.06249454564403,628.591803838598,0.0,Blue Hubbard,5,252.11460103875595,medium
+2017-P,1051,512.2812028443335,"Tarcisio, Buffoli",Chiari,Lombardy,Italy,Festa della zucca di sale,unknow,unknow,282.1206363811182,512.3560659620526,1.0050984279266757,Atlantic Giant,5,232.06338488848309,medium
+2016-P,EXH,1226.666898359693,"Bella, Flavio",Rimini,Emilia-Romagna,Italy,Pesa la Zucca! Foiano,,,415.01733093294143,1401.5918314179196,0.0,Howden,5,555.680104956941,heavy
+2019-P,1161,444.7457421193712,"coltellini, Ivano",,Lombardy,Italy,Sfida degli Zucconi della Brianza,"1742,8 Vanheuckelom",Self,273.21946404300206,430.1198113540547,2.0216879020677836,Big Moose,5,201.46982118007514,light
+2016-P,375,1258.7267746043208,"Bella, Flavio",,Other,Italy,Festa della zucca di sale,1872.8 willemisns'is,1982 miller,386.3224921661154,1321.5752552241208,0.0,Rouge Vif d’Etampes,5,570.2032288957573,heavy
+2020-P,1111,301.75887701224156,"Moretti, Sergio e Davide",Foiano della Chiana,Tuscany,Italy,Pesa la Zucca! Foiano,,,244.99662988776015,334.74586813045937,0.0,Early Giant,5,136.69677128654544,light
+2019-P,1060,497.3750491936426,"Jaglarz, Mario",,Lower Austria,Austria,Leiserberge Weigh-off,1211 Ailts,1297.5 Young,294.84835121449726,489.1411187697957,0.0,Blue Hubbard,5,225.3108972847201,light
+2018-P,524,1107.2579485355106,"Arigucci, Gabriele",Castello Brianza,Lombardy,Italy,Sfida degli Zucconi della Brianza,"2016,60 Boonenherman",Self,340.44442134315693,983.231239902667,4.937109155518088,Spirit,5,501.58785068658636,heavy
+2017-P,EXH,291.33899719960556,"Jean Philippe, Marand",,Other,France,Le Potager Extraordinaire,,,225.1579562797121,280.8310036776418,2.935569740839023,Autumn Gold,5,131.97656573142132,light
+2020-P,23,2144.4804135025124,"Ricci, Giulio and Francesco",Foiano della chiana,Tuscany,Italy,Campionato dello Zuccone,727 Garofano uow,Self,460.9880902111118,2135.3447303677713,0.0,Autumn Gold,5,971.4496273166382,heavy
+2016-P,1386,285.16259307297116,"Agnelli, Vasco",Teglio,Lombardy,Italy,Festa della zucca di sale,,,220.6845634766701,262.4167074143916,8.045038564931478,Howden,5,129.17865466205595,light
+2014-P,373,1153.0566030582845,"Renaud, Gabriel",,Other,France,Le Potager Extraordinaire,2009 Wallace,Self,374.8396434036614,1127.6390274072585,4.092173043527241,Early Giant,5,522.3346411854029,heavy
+2017-P,31,1853.9432089465736,"Caravaggi, Valerio",Semproniano,Tuscany,Italy,Europameisterschaft im Kurbiswiegen,2045 McMullen,sibb,450.8323858364764,1661.3985693870743,2.8793780877238415,Autumn Gold,5,839.8362736527979,heavy
+2013-P,545,812.4100597572068,"Fumi, Lorenzo",Peccioli,Other,Italy,Campionato dello Zuccone,899 Cutrupi,Open,338.24500287368437,854.8638880470083,0.0,Prizewinner,5,368.0217570700147,medium
+2014-P,1486,270.91060876749293,"Stefano, Musso",Castelfiorentino,Other,Italy,Campionato dello Zuccone,952 Bartoli,Open,237.74011425316905,281.42705283114583,0.0,Champion,5,122.7225057716743,light
+2018-P,752,781.5138185497309,"Brault, Samuel",,Other,France,Le Potager Extraordinaire,,,321.1344931519517,835.8293476879455,0.0,Big Moose,5,354.0257598030281,medium
+2021-P,DMG,284.6128486610775,"Mauro, Torelli",Semproniano,Tuscany,Italy,Campionato dello Zuccone,230 Geddes,Self,231.1266914087684,262.6753210231562,4.020930903746768,Spirit,5,128.9296204434681,light
+2019-P,981,541.0956229617883,"Mathias, Franz",Baerndorf,Lower Austria,Austria,Gartenbauschule Langenlois,1297.5 Young,self,300.47734310219533,617.5294343815403,0.0,Big Max,5,245.11631720169012,medium
+2016-P,1373,293.16016544695674,"Loda, Flavio",Quarrata,Tuscany,Italy,Campionato dello Zuccone,,,242.00044513153475,270.6664744200729,7.137641044769878,Casper,5,132.8015549474714,light
+2021-P,493,966.0204390886532,"Aininger, Gerald",Schiltern,Lower Austria,Austria,Austrian Weigh-off,1766.5 Kline,1395.5 Weisshaeupl 18,345.58495661623476,968.3086894106148,0.0,Blue Hubbard,5,437.6072589071599,medium
+2020-P,1011,441.3182294248502,"Langenlois, Gartenbauschule",Tulln,Lower Austria,Austria,Leiserberge Weigh-off,1279 Clementz,,274.9814491284213,437.0857189645228,0.0,Big Moose,5,199.91715792945715,light
+2020-P,550,907.8797062665092,"Moretti, Damiano",Pontedera,Tuscany,Italy,Pesa la Zucca! Foiano,,,349.924473491314,955.3127756897496,0.0,Big Moose,5,411.2695069387287,medium
+2015-P,1221,544.3642127676783,"Petrelli, Team",Radda in Chianti,Tuscany,Italy,Pesa la Zucca! Foiano,,,286.11528263904773,503.9104678326535,3.85234949516676,Champion,5,246.59698838375826,medium
+2017-P,EXH,428.429578916532,"Peebes, Gianni",Foiano della Chiana,Tuscany,Italy,Campionato dello Zuccone,,,272.46139144251197,441.74040380931496,0.0,Casper,5,194.078599249189,light
+2017-P,1321,291.7252206734573,"Fellner, Johanna",Doerfles,Lower Austria,Austria,Austrian Weigh-off,Clementz,,0.0,0.0,0.0,Early Giant,5,132.15152496507613,light
+2020-P,345,1126.0910770858568,"Friedl, Team",,Lower Austria,Austria,Leiserberge Weigh-off,1597 Melka,1542 Urena,368.24474839775246,1213.9172865555684,0.0,Big Moose,5,510.11925791989313,heavy
+2017-P,989,575.1182040507313,"Cutrupi, Stefano",Iseo,Lombardy,Italy,Sfida degli Zucconi della Brianza,"1790,5 Wallace",Open,287.9831872935881,521.755400763976,3.0406394810901367,Early Giant,5,260.52854643498125,medium
+2014-P,1255,463.3739404473636,"Reischer, JZB Kindergruppe",Tulln,Lower Austria,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Wolf,5,209.90839502265572,light
+2017-P,399,1080.7137662602795,"Bartoli, Ivan&William",Umbertide,Umbria,Italy,Pesa la Zucca! Foiano,,,382.14889724766874,1147.9331112770185,0.0,Wolf,5,489.5633361159066,heavy
+2018-P,DMG,401.44684397514607,"Petrelli, Team",Castelfiorentino,Tuscany,Italy,Campionato dello Zuccone,,,297.3818448770148,503.2680428440522,0.0,Atlantic Giant,5,181.85542032074116,light
+2019-P,358,1124.5102413934137,"Ribechini, Alessio",Merate,Lombardy,Italy,Sfida degli Zucconi della Brianza,2012 Salvagni,Self,389.36884933095456,1245.5545687003644,0.0,Early Giant,5,509.40313935121645,heavy
+2021-P,1370,39.334078585271556,"Joebstl, Waltraud",Riederberg,Lower Austria,Austria,Retzer Land Weigh-off,,,120.6892220819188,40.42129898814139,0.0,Dill's Atlantic,5,17.818337599128014,light
+2019-P,594,925.3247302161658,"Joebstl, Horst",Walpersbach,Lower Austria,Austria,Austrian Weigh-off,2020.5 Weishaeupl,,350.1699853453994,924.2077045221888,0.0,Connecticut Field,5,419.1721027879231,medium
+2013-P,1046,420.23637236460235,"Laidin, Jean Michel",,Other,France,Le Potager Extraordinaire,1680 Tanner,1338 Boudyo,247.90794660652432,327.8535985649444,21.126670438884876,Autumn Gold,5,190.36707668116486,light
+2019-P,691,723.4828118786705,"Emmanuel, Bilien",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,,,310.68709418555164,764.1355989096492,0.0,Autumn Gold,5,327.73771378103777,medium
+2015-P,1223,489.6581836577563,"Vanneschi, Massimo",Novellara,Other,Italy,Campionato dello Zuccone,935 Ferretti,2102 Meier,283.7321538083958,533.029578003671,0.0,Dill's Atlantic,5,221.8151571969636,light
+2017-P,143,1549.350482173805,"Markl, Michael",,Lower Austria,Austria,Austrian Weigh-off,2230 Wallace,2095 Willemijns,408.6275424499456,1598.3735091762496,0.0,Early Giant,5,701.8557684247337,heavy
+2015-P,524,1075.9253444644453,"Bertolaso, Jacopo",,Other,Italy,Festa della zucca di sale,,,381.7033465396258,1113.1453128089202,0.0,Spirit,5,487.3941810423937,heavy
+2018-P,1098,574.5276472284123,"Milani, Joele",Farigliano,Piedmont,Italy,Festa della zucca di sale,Mix,mix,296.7760393724882,564.5751982847197,0.0,Cinderella,5,260.2610241944708,medium
+2016-P,513,1074.0981872108732,"Renaud, Gabriel",,Other,France,Le Potager Extraordinaire,1625 Gantner,Self,326.9563929698528,909.8563976975316,24.76688626036428,Wolf,5,486.5664788065256,heavy
+2019-P,DMG,545.0802629733089,"Maffessoli, Valter",Foiano della Chiana,Tuscany,Italy,Campionato dello Zuccone,1911,,267.2728583201674,475.697352582269,22.902587320180135,Spirit,5,246.92135912690892,medium
+2014-P,930,663.9723148311598,"Bartoli, Ivan e William",S.Marco d'Alunzio,Other,Italy,Festa della zucca di sale,,,318.41901345758197,746.3479060609826,0.0,Early Giant,5,300.7794586185154,medium
+2013-P,500,854.9932698565423,"Puchner, Thomas",,Other,Austria,Austrian Weigh-off,934 Schieder 11,,341.4592215055023,917.6108065499284,0.0,Spirit,5,387.3119512450137,medium
+2021-P,100,1621.3095857731155,"Dorner, Martin",Berndorf,Lower Austria,Austria,Leiserberge Weigh-off,2226.7 Boonen,1911 Urena,408.60287511666263,1691.8352036918852,0.0,Dill's Atlantic,5,734.4532423552214,heavy
+2016-P,1035,623.1255554803599,"Ondelli, Franco",Goito,Lombardy,Italy,Festa della zucca di sale,1813 northrup,,287.68440718389303,491.49385557986744,17.37691166857033,Casper,5,282.27587663260306,medium
+2015-P,1288,443.3825508118902,"Malentacchi, Claudio",,Other,Italy,Festa della zucca di sale,,,261.2714981060359,398.3073178320983,8.090587907628041,Jack O'Lantern,5,200.85229551778627,light
+2013-P,309,1072.2471465516237,"Cutrupi, Stefano",Novellara,Emilia-Romagna,Italy,Campionato dello Zuccone,1342 Cutrupi UOW DMG,1554 Rose,358.04446494638586,1042.4440448341284,5.006598568997943,Big Moose,5,485.72795738788557,heavy
+2019-P,654,868.7899745660885,"Joseph, HUBERT",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,,,354.6717909392668,998.6248884175664,0.0,Wolf,5,393.5618584784381,medium
+2013-P,DMG,277.82257888922675,"Fernando, Zecchini",Siena,Other,Italy,Pesa la Zucca! Foiano,,,232.4615784883786,,0.0,Atlantic Giant,5,125.85362823681972,light
+2014-P,1626,130.00789452546604,"Melka, Friedrich",,Other,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Howden,5,58.89357622003612,light
+2014-P,1274,417.8849869239619,"Mercandelli, Gregorio",Castelfiorentino,Other,Italy,Campionato dello Zuccone,952 Bartoli,Open,261.8205794847835,405.8586443615557,3.0079729158071515,Dill's Atlantic,5,189.30189907655475,light
+2017-P,1339,287.32629243584734,"Unger, Hermann",St. Michael,Carinthia,Austria,Austrian Weigh-off,Joebstl,,0.0,0.0,0.0,Dill's Atlantic,5,130.15881047343885,light
+2018-P,926,692.7870006664768,"Tosoni, Matteo",Terricciola,Tuscany,Italy,Pesa la Zucca! Foiano,,,330.1091905754581,783.511153181325,0.0,Champion,5,313.832511301914,medium
+2016-P,DMG,890.9305534741875,"Martin, Lacina",Regau,Vienna,Austria,Austrian Weigh-off,Harnica,,357.223882204287,899.4445369168654,0.0,Jack O'Lantern,5,403.59154072380693,medium
+2017-P,700,809.8310828357013,"Eder, Reinhard",St. Michael,Carinthia,Austria,Austrian Weigh-off,Mathias,,323.98520778313264,893.8230564922007,0.0,Big Moose,5,366.8534805245727,medium
+2017-P,514,892.0704929635303,"Comanducci, .",Foiano della chiana,Tuscany,Italy,Campionato dello Zuccone,1333 Garofano,Open,331.79911160998347,953.1950172503804,1.0083233548693515,Rouge Vif d’Etampes,5,404.10793331247925,medium
+2021-P,229,1392.86175292944,"Moretti, Damiano",Calcio,Lombardy,Italy,Sfida degli Zucconi della Brianza,"2060,2 Paton '20",2416.5 Haist '18,392.6363811396789,1495.6435309248654,0.0,Cinderella,5,630.9663740770363,heavy
+2021-P,675,755.4454606854883,"Lacina, Martin",Riederberg,Vienna,Austria,Retzer Land Weigh-off,1126.6 Melka 18,1911 Urena 17,313.48857134861123,728.7354513545695,2.068540384299584,Wolf,5,342.21679369052623,medium
+2021-P,884,472.2325533403023,"Guitton, Hugues",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,,,262.77224965916093,420.955963829493,7.01293919409234,Prizewinner,5,213.92134666315692,light
+2017-P,DMG,616.9387269997759,"Ribechini, Renato",Farigliano,Piedmont,Italy,Campionato dello Zuccone,1297 Young,1111.5 Berard,303.0624326190183,770.4947120426542,0.0,Dill's Atlantic,5,279.47324333089847,medium
+2016-P,1553,139.1850678952753,"Marta, Gervasoni",,Lombardy,Italy,Festa della zucca di sale,,,186.8242387398483,139.45581521635748,3.034723680868522,Connecticut Field,5,63.050835756559714,light
+2015-P,984,664.9585765845824,"Gangl, Markus",St. Marien,Upper Austria,Austria,Austrian Weigh-off,1033 Fischer 14,,321.83768326809405,761.4094335178488,0.0,Rouge Vif d’Etampes,5,301.2262351928158,medium
+2015-P,428,1114.526518168551,"Nicole, BUREAU",,Other,France,Le Potager Extraordinaire,,,373.2858386391408,1082.8863905850294,8.125409973359767,Dill's Atlantic,5,504.88051273035364,heavy
+2018-P,926,618.1388624155388,"Bracchi, Rosangela",Foiano della chiana,Tuscany,Italy,Pesa la Zucca! Foiano,,,307.7237937972368,661.3842168285272,0.0,Jack O'Lantern,5,280.0169046742391,medium
+2017-P,1029,573.1570149528415,"Galieni, Simone",Trento,Other,Italy,Festa della zucca di sale,Cutrupi 2015 (2096 Meier x 2102),unknow,285.8773665591206,599.8863684643139,0.0,Prizewinner,5,259.6401277736372,medium
+2021-P,1370,39.37337622116284,"Gruber, Niklas",Leitzersdorf,Lower Austria,Austria,Retzer Land Weigh-off,,,116.66019122670583,,0.0,Jack O'Lantern,5,17.83613942818677,light
+2013-P,1157,313.85154089754053,"Matteo Gabriele, Bernardini Arrigucci",Arezzo,Other,Italy,Festa della zucca di sale,,1163 Cutrupi,223.24026205163008,268.536048628527,26.844545373952773,Early Giant,5,142.17474802658586,light
+2018-P,757,921.0740705946108,"Rodler, Bernd",Baerndorf,Lower Austria,Austria,Austrian Weigh-off,JZB 17,,359.86565081231686,896.2206557856102,0.0,Howden,5,417.24655397935874,medium
+2017-P,939,621.4768144950028,"Bertone, Andrea",Foiano della chiana,Tuscany,Italy,Festa della zucca di sale,1395.50 Ruedens,1790.50 Wallace,317.9748078771142,735.1462052411367,0.0,Prizewinner,5,281.52899696623626,medium
+2019-P,785,730.1333255368813,"Edinger, Christian",Ernstbrunn,Lower Austria,Austria,Austrian Weigh-off,1944 Conolly,,332.95122585264284,701.0919563687186,1.0213664638713853,Dill's Atlantic,5,330.75039646820727,medium
+2014-P,273,1392.2623847821733,"Topini, Giuseppe",,Other,Italy,Pesa la Zucca! Foiano,1874.5 Mathison,1625 Ganter,427.5231149771911,1401.161258427223,0.0,Prizewinner,5,630.6948603063245,heavy
+2015-P,1339,453.8076207636236,"Bartoli, Ivan e William",,Other,Italy,Pesa la Zucca! Foiano,,,249.53802753973736,405.874404097706,11.783042282858332,Big Moose,5,205.5748522059215,light
+2019-P,970,571.3567630938808,"Team, Jugendzentrum Berndorf",Achau,Lower Austria,Austria,Austrian Weigh-off,1311.1 Mathias 17,sibb,332.8086589825346,754.749355009748,0.0,Connecticut Field,5,258.824613681528,medium
+2015-P,1337,437.3139538456951,"Puchner, Thomas",Riederberg,Lower Austria,Austria,Austrian Weigh-off,2102 Meier 14,,0.0,0.0,0.0,Wolf,5,198.1032210920999,light
+2017-P,1173,425.795088400763,"Joebstl, Horst",Pichl,Upper Austria,Austria,OO Landesgartenschau 2017 Kremsmunster,,,0.0,0.0,0.0,Big Max,5,192.88517504554565,light
+2015-P,21,2001.49547678652,"Prandi, Giuseppe",Castelfiorentino,Tuscany,Italy,Campionato dello Zuccone,2096 Meier,2102 Meier,466.54353669308426,1812.833556087527,8.163695926475553,Big Moose,5,906.6774509842935,heavy
+2017-P,533,940.7063534123844,"Melka, Friedrich",St. Marien,Upper Austria,Austria,OO Landesgartenschau 2017 Kremsmunster,"2095,5 Willemijns",,0.0,0.0,0.0,Big Max,5,426.13997809581014,medium
+2015-P,1636,193.7267923344635,"Battista, Gregori",Arezzo,Other,Italy,Pesa la Zucca! Foiano,,,204.59176245040868,213.56683908426984,0.0,Rouge Vif d’Etampes,5,87.75823692751197,light
+2019-P,43,1847.8050367437336,"Ardenti, Mario",Foiano della chiana,Tuscany,Italy,Europameisterschaft im Kurbiswiegen,1911 Urena,2096 Meier,441.38820827860064,1959.7551676727876,0.0,Spirit,5,837.0556816449114,heavy
+2013-P,926,469.76531081595755,"Valentini, Berenice",Rosignano Marittima,Other,Italy,Pesa la Zucca! Foiano,,,272.2537959301262,421.07864623435665,18.4239192833705,Connecticut Field,5,212.80368579962877,light
+2019-P,1161,428.4652557517559,"Baresi, Simone",Sale Marasino,Lombardy,Italy,Sfida degli Zucconi della Brianza,"1742,8 Vanheuckelom",Self,279.2608010003747,423.2189815526086,1.978948667865964,Dill's Atlantic,5,194.09476085554542,light
+2019-P,881,676.5226645370262,"Gruber, Niklas",Au,Lower Austria,Austria,Austrian Weigh-off,2043 Clementz,1527.5 Melka,330.49824843673565,759.8302449066856,0.0,Spirit,5,306.46476703527287,medium
+2016-P,1409,256.24820181728546,"Wittmann, Franz",Eggendorf,Lower Austria,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Cinderella,5,116.08043542323031,light
+2013-P,693,654.7279847442014,"Spreafico, Luca",Siena,Other,Italy,Festa della zucca di sale,1279 Bartoli,1420 Cutrupi,302.6532842355245,647.3301207385972,0.0,Blue Hubbard,5,296.59177708912324,medium
+2016-P,1128,506.217035364292,"Tosoni, Matteo",Marone,Lombardy,Italy,Festa della zucca di sale,,,273.01119220804316,514.1590076415899,7.891908923049753,Atlantic Giant,5,229.31631702002426,medium
+2013-P,309,1019.9974914033696,"Moretti, Sergio e Davide",Novellara,Emilia-Romagna,Italy,Campionato dello Zuccone,1342 Cutrupi UOW DMG,1554 Rose,350.08136085500297,921.2135131717712,5.00484339449093,Early Giant,5,462.05886360572646,heavy
+2020-P,587,836.3946296792038,"Schoffnegger, Armin",Haag,Lower Austria,Austria,Austrian Weigh-off,2138 Biermans,,328.05113017561916,891.751030074366,1.0042542370897358,Wolf,5,378.88676724467933,medium
+2016-P,DMG,1322.7490348659478,"Romoli, Siria",Quarrata,Tuscany,Italy,Pesa la Zucca! Foiano,,,412.31386728264863,1396.6998760329957,0.0,Cinderella,5,599.2053127942744,heavy
+2018-P,773,803.1412597403702,"Puchner, Thomas",St. Michael,Carinthia,Austria,Austrian Weigh-off,1527 Melka,,309.69760163870944,838.8002966654922,0.0,Casper,5,363.8229906623877,medium
+2020-P,EXH,296.07004855400254,"Felappi, Lorenzo",Pontremoli,Tuscany,Italy,Pesa la Zucca! Foiano,,,251.67566934209023,353.76429532475544,0.0,Jack O'Lantern,5,134.11973199496316,light
+2014-P,1374,358.74422336166276,"Italiano, Vincenzo",Grosseto,Other,Italy,Campionato dello Zuccone,1382 Cutrupi,Open,240.3986576989402,340.321079305477,1.9706087843850235,Jack O'Lantern,5,162.51113318283325,light
+2015-P,1773,51.824170433333435,"Marco, Rosati",Piancamuno,Other,Italy,Pesa la Zucca! Foiano,,,133.30950459878173,70.08047200009456,0.0,Spirit,5,23.476349206300046,light
+2016-P,832,741.7969439724801,"Joebstl, Horst",Schiltern,Lower Austria,Austria,Austrian Weigh-off,1159 Puchner,,319.7012749555282,811.3203071264961,0.0,Big Moose,5,336.0340156195335,medium
+2013-P,949,451.0776836765737,"Nittnaus, Wolfgang",,Other,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Prizewinner,5,204.3381907054879,light
+2018-P,1098,573.9143836044129,"Alfani, Fabio",Viarigi,Piedmont,Italy,Festa della zucca di sale,Mix,mix,301.2655361846077,547.8858388708322,0.0,Big Moose,5,259.98321577279904,medium
+2017-P,1500,140.05257176629158,"., Francesco",,Lombardy,Italy,Festa della zucca di sale,unknow,unknow,171.06682613284906,131.7322807876645,10.101101051143004,Big Moose,5,63.44381501013009,light
+2019-P,1359,250.93349326166225,"Schieder, Christoph",,Lower Austria,Austria,Gartenbauschule Langenlois,Blaimschein 2017,,231.0218114291152,253.37530316431244,0.0,Atlantic Giant,5,113.672872447533,light
+2017-P,EXH,597.0206485363495,"Turla, Antonio",Bucine,Tuscany,Italy,Campionato dello Zuccone,,,303.20874221112535,583.7367352228136,0.0,Casper,5,270.45035378696633,medium
+2016-P,EXH,1242.12000926293,"Parafioriti, Salvatore",Novellara,Emilia-Romagna,Italy,Pesa la Zucca! Foiano,,,403.3035391771936,1312.6067413893772,0.0,Atlantic Giant,5,562.6803641961072,heavy
+2018-P,446,1025.6465998641218,"Pascal, Denis",,Other,France,Le Potager Extraordinaire,2016.6 Boonen Herman 2017,,352.5508483563189,1057.5330350876443,1.9311802031115048,Autumn Gold,5,464.61790973844717,heavy
+2019-P,1533,162.45896458022148,"Nittnaus, Wolfgang",Langenlois,Lower Austria,Austria,Gartenbauschule Langenlois,1311.1 Matthias,sibb,209.2793728282399,243.4811535511743,0.0,Wolf,5,73.59391095484033,light
+2016-P,764,798.5969901035638,"Joebstl, Horst",,Lower Austria,Austria,Austrian Weigh-off,1752 Lovse,,327.9030494854635,817.2609046429517,0.0,Blue Hubbard,5,361.76443651691443,medium
+2016-P,EXH,357.4294750128501,"Seri, Remo",Ambra,Tuscany,Italy,Campionato dello Zuccone,,,261.4689090849363,375.0285043866561,0.0,Rouge Vif d’Etampes,5,161.9155521808211,light
+2013-P,1181,309.88836623130123,"Thumfort, Daniel",,Other,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Spirit,5,140.37942990277946,light
+2019-P,232,1380.1446059012674,Vincenzo Italiano,Radda in Chianti,Tuscany,Italy,Pesa la Zucca! Foiano,,,384.65952652264906,1363.498173671668,1.0296576378589732,Howden,5,625.2055064732741,heavy
+2020-P,1111,325.13433599848474,"Giozet, Gabriele",Pontedera,Tuscany,Italy,Pesa la Zucca! Foiano,,,247.1930114719501,370.6443434008664,0.0,Wolf,5,147.2858542073136,light
+2014-P,841,733.7794281369148,"Pastorelli, Bruna",Buja,Other,Italy,Campionato dello Zuccone,1382 Cutrupi,Self,328.81291729486594,652.6958293054686,1.907375203571919,Early Giant,5,332.4020809460224,medium
+2019-P,EXH,134.57196653509632,"Pierre Marie, Paquet",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,,,205.7401818199027,229.27299750633725,0.0,Connecticut Field,5,60.961100840398636,light
+2021-P,402,1046.3519842398232,"Team, Bauhof Tulln",Gols,Burgenland,Austria,Austrian Weigh-off,1230 Schieder 20,,378.637191268058,1137.602104918844,0.0,Prizewinner,5,473.9974488606399,heavy
+2020-P,817,623.8287234398797,"Turmolli, Andrea, Anna and Pato",Umbertide,Umbria,Italy,Pesa la Zucca! Foiano,,,326.6436709054133,656.1283386671629,0.9850831303437366,Howden,5,282.5944117182655,medium
+2020-P,78,1640.7310444239235,"Tosoni, Matteo",Poggiridenti,Lombardy,Italy,Sfida degli Zucconi della Brianza,2416.5 Haist,2145 Mcmullen,401.812738559141,1521.0044208804627,9.917621346702465,Big Moose,5,743.2511631240374,heavy
+2015-P,1434,336.09702490836946,"Dusan, Giorgio",,Other,Italy,Pesa la Zucca! Foiano,,,243.13282274763336,356.6591028182954,0.0,Champion,5,152.25195228349136,light
+2020-P,1087,341.4409612791674,"Melka, Friedrich",Riederberg,Vienna,Austria,Leiserberge Weigh-off,487 Jaglarz 19,self,229.62513423592245,399.0512658476729,0.0,Big Moose,5,154.67275545946285,light
+2016-P,764,899.3548853255771,"Teichmann, Erik",Gross Gerungs,Lower Austria,Austria,Austrian Weigh-off,1752 Lovse,,372.664025863416,941.3751752288572,0.0,Wolf,5,407.4077630524865,medium
+2014-P,1374,390.124598674422,"Turmolli, Andrea",,Other,Italy,Campionato dello Zuccone,1382 Cutrupi,Open,263.3881962534797,358.4933141925236,1.92317435851826,Big Moose,5,176.72644319951317,light
+2014-P,1051,586.0887750674451,"Romoli, Siria",Cologne,Other,Italy,Pesa la Zucca! Foiano,,,293.84287321574305,662.1055802125089,0.0,Big Moose,5,265.4982151055526,medium
+2019-P,1018,574.195671186501,"Kittenberger, Christian und Dominik",,Lower Austria,Austria,Austrian Weigh-off,Matthias 18,,308.0273533304255,629.0071885543518,0.0,Rouge Vif d’Etampes,5,260.110639047485,medium
+2020-P,EXH,209.2555608722181,"Prandi, Giuseppe",Foiano della chiana,Tuscany,Italy,Pesa la Zucca! Foiano,,,199.7334921812443,190.8618628174586,11.012881579908578,Atlantic Giant,5,94.7927690751148,light
+2013-P,EXH,477.5358104265894,"Teichmann, Erik",Bad Voeslau,Lower Austria,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Connecticut Field,5,216.323722123245,light
+2014-P,1333,392.50428057178254,"Gauchet, Jean Pierre",,Other,France,Le Potager Extraordinaire,,,262.7732146503725,513.2290074300352,0.0,Rouge Vif d’Etampes,5,177.8044390990175,light
+2017-P,1157,449.75675220851826,"Yoann, BRARD",,Other,France,Le Potager Extraordinaire,,,255.62232572768264,366.4388132783295,26.68174272526165,Blue Hubbard,5,203.7398087504588,light
+2013-P,991,471.971489754454,"Kohl, Beatrice",,Other,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Spirit,5,213.80308485876768,light
+2019-P,1437,209.0363627681389,"Chinazzo, Alfredo",Sirtori,Lombardy,Italy,Sfida degli Zucconi della Brianza,1685 Larue,Self,214.26000489876515,212.2942712757319,3.870373690809127,Autumn Gold,5,94.69347233396692,light
+2015-P,1773,54.96978281833739,"Topini, Giuseppe",Siena,Other,Italy,Pesa la Zucca! Foiano,,,140.67898723485064,71.79311432482481,0.0,Prizewinner,5,24.90131161670684,light
+2015-P,511,1081.0436592717986,"Zucconi, Club degli",,Other,Italy,Pesa la Zucca! Foiano,,,356.8588942909349,1107.177032693511,0.0,Spirit,5,489.71277765012474,heavy
+2015-P,1229,536.9519418482795,"Acquisto, Oriana",Peccioli,Other,Italy,Pesa la Zucca! Foiano,,,280.0957218124878,526.8144114402969,0.0,Prizewinner,5,243.2392296572706,medium
+2021-P,EXH,221.51785328184252,"Grabmayer, Manfred",,Lower Austria,Austria,Retzer Land Weigh-off,2021.5 Sperry 20,1965 Jutras 19,209.702811759537,215.82390103774745,1.002756641766595,Autumn Gold,5,100.34758753667467,light
+2015-P,1418,371.66770058976914,"Renaud, Gabriel",,Other,France,Le Potager Extraordinaire,"1395,5 Luclerc 2015",,267.8659509302478,402.0232262408653,0.0,Autumn Gold,5,168.36546836716542,light
+2017-P,854,671.5550293335909,"Melka, Friedrich",St. Marien,Upper Austria,Austria,OO Landesgartenschau 2017 Kremsmunster,,,0.0,0.0,0.0,Big Moose,5,304.2144282881167,medium
+2014-P,1599,152.92284667042253,"Pogna, Lorena",Artogne,Other,Italy,Festa della zucca di sale,,,191.9962984893566,167.99029104072886,0.0,Autumn Gold,5,69.2740495417014,light
+2014-P,1674,98.34550516101908,"Battista, Gregori",Arezzo,Other,Italy,Pesa la Zucca! Foiano,,,171.1401968072842,127.80668186897084,0.0,Atlantic Giant,5,44.550513837941644,light
+2019-P,1088,448.8786981371213,"Daho, Marcelle",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,141 kg Berthelot 18,,280.89948158248006,485.2120756546405,0.0,Autumn Gold,5,203.34205025611595,light
+2020-P,262,1384.9809320206616,"Priglhofer, Wolfgang",,Lower Austria,Austria,Austrian Weigh-off,2226 Boonen DMG,2016 Boonen,404.000576121153,1487.719084066376,0.0,Wolf,5,627.3963622053598,heavy
+2017-P,1289,297.75250044061437,"Turmolli, Andrea",Malonno,Lombardy,Italy,Sfida degli Zucconi della Brianza,821.2 Petrelli,Open,225.4234430991768,318.0564044136805,0.0,Spirit,5,134.88188269959832,light
+2014-P,775,740.7235661572187,"Lizzi, Denis",Corazzano,Other,Italy,Pesa la Zucca! Foiano,,,315.4106791280823,768.8293816494781,5.9230958968131215,Rouge Vif d’Etampes,5,335.5477754692201,medium
+2019-P,591,960.4882434823312,"Bernardini, Matteo",Terricciola,Tuscany,Italy,Campionato dello Zuccone,2012 Salvagni,Open,352.7177004068315,1004.5596539780732,0.0,Wolf,5,435.1011742974961,medium
+2016-P,DMG,593.0907578473546,"Del Petriccio, .",Collevecchio,Lazio,Italy,Campionato dello Zuccone,,,291.9179351955463,594.3097899368092,0.0,Atlantic Giant,5,268.6701133048516,medium
+2014-P,478,1094.8102610282947,"Pascal, Denis",,Other,France,Le Potager Extraordinaire,,,382.0911768634063,1336.3751813882695,0.0,Casper,5,495.9490482458175,heavy
+2018-P,EXH,546.0328216416183,"Ferraris, Giustino",Viarigi,Piedmont,Italy,Pesa la Zucca! Foiano,,,293.65488808736694,562.2057834643508,0.0,Dill's Atlantic,5,247.3528682036531,medium
+2014-P,1449,299.0567085644517,"Brault, Samuel",,Other,France,Le Potager Extraordinaire,,,234.07835402495573,273.06636809205213,7.914498015946449,Big Max,5,135.4726889796966,light
+2020-P,1220,210.572528721013,"giovanni, tinteri",Capriolo,Lombardy,Italy,Sfida degli Zucconi della Brianza,"1997,4 BOONEN HERMAN",self,208.30737546633225,207.4395589200815,2.0465260007828765,Rouge Vif d’Etampes,5,95.38935551061888,light
+2018-P,EXH,499.8750153107974,"Nittnaus, Wolfgang",Tulln,Lower Austria,Austria,Austrian Weigh-off,2004 Vanderwielen 16,1871 Cutrupi 17,292.9973301479427,598.5829388888405,0.0,Blue Hubbard,5,226.44338193579122,light
+2017-P,320,1171.7324123939811,"Ondelli, Franco",Sirtori,Lombardy,Italy,Festa della zucca di sale,Garofano 1333,Vandervielen 2004,378.16290849418624,1186.6237025876078,0.0,Howden,5,530.7947828144735,heavy
+2015-P,977,654.4356085521122,"Mathias, Franz",Gr. Gerungs,Lower Austria,Austria,Austrian Weigh-off,1751 Lovse 14,,330.4354510672157,760.351487192194,0.0,Atlantic Giant,5,296.4593306741068,medium
+2013-P,394,1007.9374579741648,"Klein, Martin",Dietmans 19,Lower Austria,Austria,Austrian Weigh-off,934 Schieder 11,1325 Sperry 11,350.6696538729687,940.032564510762,1.9758872479893264,Howden,5,456.59566846229666,heavy
+2016-P,1035,560.816386762598,"Fantoni, Marco",,Lombardy,Italy,Festa della zucca di sale,1813 northrup,,269.57585692807226,494.26842092319015,17.432673716219494,Rouge Vif d’Etampes,5,254.0498232034569,medium
+2014-P,203,1404.8198284095113,"Ferraris, Giustino",,Other,Italy,Festa della zucca di sale,1749 hanfchman,1625 gantner,398.8369213663575,1401.878570475087,2.9216469366364746,Rouge Vif d’Etampes,5,636.3833822695086,heavy
+2017-P,EXH,1427.895598747063,"Zucchelli, Michael",Marone,Lombardy,Italy,Sfida degli Zucconi della Brianza,2095 Willemijns,2145 McMullen,384.8099668742464,1357.0726255526758,3.0433958983076987,Rouge Vif d’Etampes,5,646.8367062324196,heavy
+2014-P,99,1564.796948137508,"Turmolli, Andrea, Anna and Pato",Arezzo,Other,Italy,Festa della zucca di sale,1623 wallace,1495 stelt,433.6562585330284,1638.553600617058,0.0,Wolf,5,708.8530175062912,heavy
+2015-P,689,829.4384339523659,"Salvagni, Augusto",Garlate,Lombardy,Italy,Pesa la Zucca! Foiano,,,360.543728812221,899.3486633147741,0.0,Blue Hubbard,5,375.7356105804218,medium
+2020-P,1222,204.3605893309764,"Topini, Giuseppe",Poggiridenti,Lombardy,Italy,Sfida degli Zucconi della Brianza,,,215.1867979738336,221.7768730037532,0.0,Blue Hubbard,5,92.57534696693232,light
+2019-P,948,550.7471346753975,"Markl, Michael",Kreutstetten,Lower Austria,Austria,Leiserberge Weigh-off,2034 Barlow,self,0.0,0.0,0.0,Atlantic Giant,5,249.4884520079551,medium
+2019-P,772,752.7536804516878,"Kurzreiter, Lukas",Riederberg,Lower Austria,Austria,Leiserberge Weigh-off,1443.6 Mathias 2018,,330.01862309987945,860.7149388984142,0.0,Big Max,5,340.9974172446146,medium
+2019-P,443,1111.681065286273,"Mitra, Marco",Caiazzo,Campania,Italy,Campionato dello Zuccone,2012 Salvagni,1911 Urena,374.22391890454224,1171.7782439136988,0.0,Cinderella,5,503.5915225746817,heavy
+2020-P,763,697.5981488400931,"Boeck, Alexander",Baerndorf,Lower Austria,Austria,Austrian Weigh-off,793.7 Dorner 19,,328.20514863986716,726.4205778362422,0.0,Rouge Vif d’Etampes,5,316.0119614245622,medium
+2018-P,850,745.7632280750668,"brault, Melissa",,Other,France,Le Potager Extraordinaire,,,322.9081997549027,699.3526044706929,1.0530565963745009,Cinderella,5,337.83074231800526,medium
+2014-P,863,735.2735423963682,"Lehner, Elisabeth",,Other,Austria,Austrian Weigh-off,934 Schieder,,333.09472717456276,801.7094791594245,0.0,Casper,5,333.0789147055548,medium
+2018-P,143,1511.2286123373344,"Poilane, Romaric",,Other,France,Le Potager Extraordinaire,1824 Shenoa,,0.0,0.0,0.0,Spirit,5,684.5865613888125,heavy
+2015-P,1354,418.39474421985466,"Kurzreiter, Lukas",Gnas,Other,Austria,Austrian Weigh-off,1085 Wuersching 11,,0.0,0.0,0.0,Champion,5,189.53281913159415,light
+2015-P,EXH,399.9499381222744,"Brault, Samuel",,Other,France,Le Potager Extraordinaire,,,254.7117810118193,352.5347332647178,9.011429062280731,Rouge Vif d’Etampes,5,181.1773219693903,light
+2021-P,12,2071.919366993893,"Filliaudeau, laurent",,Other,France,Europameisterschaft im Kurbiswiegen,2183.7 Mendi 2019,2183.7 Mendi 2019,448.3014717241808,1997.827618394591,6.261672976267757,Autumn Gold,5,938.5794732482336,heavy
+2013-P,603,834.838189034927,"Zeller, Christoph",St. Michael,Carinthia,Austria,Austrian Weigh-off,,,326.3956146014778,938.63901390666,0.0,Big Moose,5,378.18169963282196,medium
+2018-P,EXH,555.7246415686305,"Alice, Mora",,Lombardy,Italy,Festa della zucca di sale,,,299.98554422282405,560.0665856524527,0.0,Rouge Vif d’Etampes,5,251.74326263058964,medium
+2020-P,1313,108.29731464706607,"Jean Pierre, Gauchet",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,,,171.0712643420322,148.11061830377832,0.0,Rouge Vif d’Etampes,5,49.058683535120934,light
+2018-P,1098,573.6830033182924,"Parafioriti, Salvatore",Farigliano,Piedmont,Italy,Festa della zucca di sale,Mix,mix,295.6753807014924,578.0829162707277,0.0,Jack O'Lantern,5,259.87840050318647,medium
+2021-P,1224,198.72781060227155,"Team, Donauland Kompost",Tulln,Lower Austria,Austria,Austrian Weigh-off,,,218.66554927345192,217.83431586271593,,Atlantic Giant,5,90.02369820282901,light
+2014-P,1237,414.712224452105,"Andreoli, Gianfranco",,Other,Italy,Pesa la Zucca! Foiano,,,263.04177094236775,422.2664729416864,0.0,Early Giant,5,187.86463767680357,light
+2015-P,935,681.0019128946464,"Samuel, Brault",,Other,France,Le Potager Extraordinaire,1231lbs Daho 2012,,317.53787197070216,734.6223009080904,0.0,Prizewinner,5,308.4938665412748,medium
+2013-P,456,885.1837543170913,"Pezza, Davide",Artogne,Other,Italy,Festa della zucca di sale,948 Young,1321 Checkon,332.76607056721025,,8.903150877152589,Prizewinner,5,400.98824070564234,medium
+2013-P,EXH,934.5169746056812,"Guttmann, Johann",Langenlois,Lower Austria,Austria,Austrian Weigh-off,1325 Sperry 11,934 Schieder 11,332.2325477265697,776.6396127537437,12.34454713336373,Blue Hubbard,5,423.3361894963736,medium
+2019-P,1447,211.9234200993405,"Aurelien, Fayola",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,,,212.20451196232503,241.17689545140743,0.0,Autumn Gold,5,96.00130930500124,light
+2019-P,EXH,751.9475237631998,"Cutrupi, Stefano",Semproniano,Tuscany,Italy,Campionato dello Zuccone,,,320.42930803688733,743.415660066851,8.02110921040193,Connecticut Field,5,340.6322282647295,medium
+2015-P,1221,546.4228458630187,"Italiano, Vincenzo",Radda in Chianti,Tuscany,Italy,Pesa la Zucca! Foiano,,,284.94854467171484,494.6563974491569,3.943411352040188,Connecticut Field,5,247.52954917594747,medium
+2020-P,501,1032.2275814994566,"Aurelien, Fayola",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,,,355.49935655403596,1000.3928049295168,4.172440289879635,Spirit,5,467.59909441925384,heavy
+2015-P,1705,116.21966504017192,"Bartoli, Ivan&William",Arezzo,Other,Italy,Festa della zucca di sale,,,166.73165047523443,110.2158457395191,2.923434909500493,Rouge Vif d’Etampes,5,52.64750826319788,light
+2016-P,1390,287.8280193184516,"Falchi, Brunero",Foiano della Chiana,Other,Italy,Festa della zucca di sale,,,233.58712894836611,297.4161500440273,0.0,Howden,5,130.3860927512586,light
+2013-P,603,741.8670370220418,Team Schaugarten Kittenberger Erlebnisgaertnen,St. Michael,Carinthia,Austria,Austrian Weigh-off,,,328.4996910499169,772.9269100140485,0.0,Connecticut Field,5,336.06576777098496,medium
+2018-P,1580,171.81551880921245,"Niccolai, Giacomo",Terricciola,Tuscany,Italy,Pesa la Zucca! Foiano,,,202.33109738048904,166.19395126898814,0.0,Big Max,5,77.83243002057324,light
+2015-P,882,823.9563251946171,"Liberatori, Lido",Arezzo,Other,Italy,Festa della zucca di sale,,,308.46242495950065,783.9900139175464,3.0831812165314503,Cinderella,5,373.25221531316157,medium
+2021-P,69,1750.8219259565944,"Mandorlini, Franco",Malonno,Lombardy,Italy,Sfida Nazionale della Zucca - Club Maspiano,2469 DALETAS,2469 DALETAS,449.0653208162035,1759.1064624782148,1.971680496220655,Cinderella,5,793.1223324583373,heavy
+2018-P,983,664.6985403860806,"Bauhof Tulln, Team",Gols,Burgenland,Austria,Austrian Weigh-off,2307 Wallace DMG,1835 Werner,0.0,0.0,0.0,Prizewinner,5,301.10843879489454,medium
+2013-P,482,939.7788364690192,"Laurent, FILLIAUDEAU",,Other,France,Le Potager Extraordinaire,1338 Boudyo,,366.70865920789424,1143.9518767308973,0.0,Cinderella,5,425.7198129204657,medium
+2017-P,999,553.0907118492926,"Petrelli, Team",Goito,Lombardy,Italy,Festa della zucca di sale,Turmolli,Self,303.2062386222184,584.4736492474616,0.0,Connecticut Field,5,250.55009246772954,medium
+2020-P,EXH,1843.4455288629672,"Colzani, Enrico",Vinci,Tuscany,Italy,Campionato dello Zuccone,2226 Boonen,Self,442.7283138516147,1825.9944422593785,7.184809401160043,Cinderella,5,835.0808245749241,heavy
+2013-P,1050,381.8319490710114,"Cutrupi, Stefano",Dragoni,Other,Italy,Campionato dello Zuccone,1278 Bartoli,Open,244.40600058844672,356.6513864064377,7.102690300158119,Spirit,5,172.9698729291682,light
+2019-P,1728,18.60027886532332,"Dorner, Martin",Kleinhadersdorf,Lower Austria,Austria,Leiserberge Weigh-off,,,0.0,0.0,0.0,Champion,5,8.425926325991465,light
+2015-P,1721,118.49305995506026,"Cassella, Salvatore",,Other,Italy,Festa della zucca di sale,,,0.0,0.0,0.0,Big Moose,5,53.6773561596423,light
+2020-P,1220,203.60325418620744,"Arrigucci, Gabriele",Sirtori,Lombardy,Italy,Sfida degli Zucconi della Brianza,"1997,4 BOONEN HERMAN",self,204.4502248849624,211.0760513271962,2.0340196690733032,Autumn Gold,5,92.23227414635197,light
+2020-P,DMG,844.2945622920715,"Legena, Ivano",Castelfiorentino,Tuscany,Italy,Campionato dello Zuccone,2416.5 Haist,Self,319.95514895920974,730.4890034450598,14.8444799184035,Champion,5,382.4654367183084,medium
+2015-P,1164,550.7152202047411,"Asta, Carmelo",Siena,Other,Italy,Pesa la Zucca! Foiano,,,295.5572361474307,515.165227747944,9.745857681661526,Casper,5,249.4739947527477,medium
+2017-P,1321,350.22155492780263,"Kinast, Berhard",Ernstbrunn,Lower Austria,Austria,Austrian Weigh-off,Clementz,,0.0,0.0,0.0,Big Moose,5,158.65036438229458,light
+2020-P,1277,154.8177265985412,"Ribechini, Renato",Goito,Lombardy,Italy,Sfida degli Zucconi della Brianza,"1177,3 GOELL 19",self,189.7077611558534,163.71513432883785,0.0,Howden,5,70.13243014913917,light
+2013-P,1328,222.8011291830188,"Boioni, Emidio",,Other,Italy,Festa della zucca di sale,,,199.59287544993043,207.26623362585508,4.971552119061862,Jack O'Lantern,5,100.92891151990752,light
+2019-P,881,625.8194318072382,"Klein, Martin",Dietmans 19,Lower Austria,Austria,Austrian Weigh-off,2043 Clementz,1527.5 Melka,327.3689930805452,724.3380777255879,0.0,Autumn Gold,5,283.4962026086789,medium
+2019-P,EXH,580.9086324360715,"Jaglarz, Mario",Retz,Lower Austria,Austria,Austrian Weigh-off,1944 Conolly,,306.27440829739277,682.8944467127736,0.0,Spirit,5,263.1516104935404,medium
+2017-P,1070,505.4573852766863,"Guin , Emilie",,Other,France,Le Potager Extraordinaire,691 Ludwig,,268.587559335887,471.167048438332,1.9392753951155488,Spirit,5,228.9721955303389,medium
+2021-P,499,891.0704867044865,"Milani, Joele",Viarigi,Piedmont,Italy,Campionato dello Zuccone,2174 Daletas,Self,352.9312878963658,1036.699745562228,0.0,Prizewinner,5,403.6549304771324,medium
+2014-P,933,681.5527095318546,"Unger, Hermann",,Lower Austria,Austria,Austrian Weigh-off,2032 Mathison,open,311.6814301072142,731.1046690470431,0.0,Prizewinner,5,308.74337741793016,medium
+2019-P,1419,221.0978458496106,"Cristian, Danesi",Monteisola,Lombardy,Italy,Sfida Nazionale della Zucca - Club Maspiano,Salvagni 2017,Open,207.4437198372025,219.7067220288922,7.101077935696144,Champion,5,100.1573241698736,light
+2013-P,1309,223.22800508943155,"Salvagni, Augusto",,Other,Italy,Pesa la Zucca! Foiano,,,204.62291514052865,201.3617415780116,8.263736930746239,Connecticut Field,5,101.12228630551249,light
+2019-P,1193,405.61650128007307,"Gentillau, Philippe",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,1533 Henkin 18,,268.00026471384166,418.0940795927653,0.0,Atlantic Giant,5,183.7442750798731,light
+2013-P,EXH,1162.9316512987873,"Tosoni, Matteo",Radda in Chianti,Tuscany,Italy,Campionato dello Zuccone,1342 Cutrupi,1789 Wallace,364.5453997421753,1245.0296916513375,0.0,Howden,5,526.8080380383507,heavy
+2014-P,99,1535.3731300005556,"Boioni, Emidio",Chivasso,Other,Italy,Festa della zucca di sale,1623 wallace,1495 stelt,421.5445222082449,1495.3603404092185,0.0,Wolf,5,695.5240278902518,heavy
+2018-P,859,761.4930572278411,"Gartenschau, DIE GARTEN TULLN",Buchkirchen,Upper Austria,Austria,Austrian Weigh-off,793.6 Melka,695 Kaar 17,0.0,0.0,0.0,Connecticut Field,5,344.956354924212,medium
+2018-P,EXH,489.279812022062,"Marco, Rosati",Viarigi,Piedmont,Italy,Pesa la Zucca! Foiano,,,275.31605055807205,536.365025267183,0.0,Big Moose,5,221.6437548459941,light
+2016-P,1409,256.8123090810219,"Burgsteiner, Helmut",Ernstbrunn,Lower Austria,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Dill's Atlantic,5,116.33597601370293,light
+2013-P,1279,241.5881007168323,"Falchi, Brunero",,Other,Italy,Festa della zucca di sale,,,213.20789915765968,228.3162859767166,3.099901811509353,Jack O'Lantern,5,109.43940962472503,light
+2020-P,EXH,208.60162473531273,"Topini, Giuseppe",Valiano di Montepulciano,Tuscany,Italy,Pesa la Zucca! Foiano,,,205.6026083414795,179.7457080650608,10.5800045186753,Casper,5,94.49653600509667,light
+2015-P,583,1011.31050532253,"Hausgarten, Team",,Other,Austria,Austrian Weigh-off,1751 Lovse 14,,356.4823381866704,1080.492033350618,0.0,Champion,5,458.12365891110613,heavy
+2013-P,1085,361.5491000450572,"Petrelli, Francesco",Artogne,Other,Italy,Pesa la Zucca! Foiano,,,203.14743606050243,233.24442328550177,61.82376830375892,Champion,5,163.7817423204109,light
+2016-P,DMG,1082.6849159756982,"Eichinger, Thomas",,Vienna,Austria,Austrian Weigh-off,1840 Ghaye,,384.073636488975,1024.846599423345,0.0,Autumn Gold,5,490.4562669369913,heavy
+2018-P,656,912.1064593901516,"Marroni, Nazzareno",Marone,Other,Italy,Pesa la Zucca! Foiano,,,330.7595954811692,835.0221183820604,0.9887668725114844,Atlantic Giant,5,413.1842261037387,medium
+2017-P,1157,455.8619888879864,"David, Fau",,Other,France,Le Potager Extraordinaire,,,238.37387002456623,345.0684005982332,26.610743232033613,Big Moose,5,206.50548096625784,light
+2015-P,1548,224.8263305912938,"Romoli, Syria",,Other,Italy,Festa della zucca di sale,,,206.72956861196184,211.06519409836,11.210363185612314,Big Moose,5,101.8463277578561,light
+2019-P,DMG,598.2889086811581,"Fuchs, Daniel",Tulln,Lower Austria,Austria,Gartenbauschule Langenlois,1311.1 Matthias,sibb,317.5195249120209,779.2026875449029,0.0,Jack O'Lantern,5,271.0248756325646,medium
+2016-P,1293,364.2046004791873,"Migliorini, Roberto",Coccaglio,Lombardy,Italy,Festa della zucca di sale,,,254.9850501856872,369.2727915289703,0.0,Connecticut Field,5,164.98468401707186,light
+2016-P,1386,302.3260527487783,"Turmolli, Andrea",Niardo,Lombardy,Italy,Festa della zucca di sale,,,230.15244537922473,269.7334424741836,7.753753834616382,Connecticut Field,5,136.95370189519656,light
+2015-P,1744,92.57957022579603,"Ivan, Bartoli",,Other,Italy,Festa della zucca di sale,,,158.07806275567043,103.17452329595564,0.0,Prizewinner,5,41.938545312285605,light
+2020-P,1077,335.0431806734064,"Kienast, Julia",Gr. Gerungs,Lower Austria,Austria,Leiserberge Weigh-off,,,0.0,0.0,0.0,Champion,5,151.77456084505312,light
+2013-P,949,505.9122056902028,"Aininger, Gerald",,Other,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Big Max,5,229.17822917766188,medium
+2014-P,1431,272.3187665877903,"Turmolli, Andrea",Goito,Lombardy,Italy,Festa della zucca di sale,1770 lieber,1756 lancaster,217.48225497687275,254.2051520415669,7.005589661095547,Wolf,5,123.36040126426902,light
+2015-P,1247,519.4440204152102,"Priglhofer, Wolfgang",Ulrichsberg,Other,Austria,Austrian Weigh-off,1391 Wuersching,,281.4880909139395,514.4744799262413,0.0,Dill's Atlantic,5,235.3081412480902,medium
+2016-P,808,844.5347972391562,"Aininger, Gerald",Neustift,Styria,Austria,Austrian Weigh-off,1916 Carter,Lueders,366.6775651017377,976.92279499201,0.0,Big Max,5,382.57426314933775,medium
+2014-P,489,1074.8341442291194,"Martin, Lacina",,Other,Austria,Austrian Weigh-off,1678 Delaney,,389.8792824721512,1114.158586809307,0.0,Howden,5,486.8998673357911,heavy
+2017-P,EXH,1079.7953982475574,"Team, Die Garten Tulln",,Lower Austria,Austria,Austrian Weigh-off,2095 Willemijns 16,2095 Willemijns 16,339.92412676730936,865.5661504158805,23.011644907619782,Champion,5,489.1473154061435,heavy
+2014-P,EXH,105.00195622061166,"Tom, Brault",,Other,France,Le Potager Extraordinaire,,,177.08810670357647,140.86266091495233,0.0,Big Moose,5,47.56588616793708,light
+2013-P,1140,309.38866541029995,"Chiatti, Carla",,Other,Italy,Pesa la Zucca! Foiano,,,228.71723229436068,278.50833115595736,15.658810716279929,Dill's Atlantic,5,140.1530654308659,light
+2015-P,734,889.8979158852048,"Barreca, Alessandro",,Other,Italy,Festa della zucca di sale,,,319.0594069689072,854.1923584732688,8.311417493809154,Casper,5,403.1237558959978,medium
+2018-P,542,973.165074313831,"Kittenberger, Christian und Dominik",Wien,Vienna,Austria,Tharinger Meisterschaft,2095 Willemijns,2145 MC Mullen,390.7481453466968,1177.32865993759,0.0,Rouge Vif d’Etampes,5,440.8437786641655,medium
+2013-P,1516,57.02771499554209,"Mitra, Marco",Siena,Other,Italy,Pesa la Zucca! Foiano,,,134.80933492247988,70.36143708106694,0.0,Casper,5,25.83355489298057,light
+2019-P,1596,125.90950231736925,"Mandorlini, Franco",,Lombardy,Italy,Sfida degli Zucconi della Brianza,1867.3 BiermansJan,Self,,107.328703029987,,Prizewinner,5,57.03700454976827,light
+2013-P,1050,423.662675601771,"Agnelli, Vasco",,Other,Italy,Campionato dello Zuccone,1278 Bartoli,Open,249.60279565485587,377.8649429463777,6.704155672180358,Connecticut Field,5,191.91919204760228,light
+2020-P,482,1038.8044545059915,"Kurzreiter, Lukas",Kleinhadersdorf,Lower Austria,Austria,Austrian Weigh-off,1080 Melka,1006 Jaglarz,350.8358538053761,1109.0327712143558,8.171363128941223,Atlantic Giant,5,470.5784178912142,heavy
+2016-P,1088,531.2665242990159,"Ouvrad , Jean Michel",,Other,France,Le Potager Extraordinaire,,,0.0,0.0,0.0,Spirit,5,240.66373550745422,medium
+2016-P,1128,518.8671115147871,"Vendepane, Giulio",Goito,Lombardy,Italy,Festa della zucca di sale,,,255.98404117607188,524.2851337727687,7.787348782924573,Jack O'Lantern,5,235.04680151619857,medium
+2017-P,1272,307.9569974620041,"Boudyo , Fabrice",,Other,France,Le Potager Extraordinaire,,,239.1817654061176,311.5600749500499,4.076234416305938,Dill's Atlantic,5,139.50451985028786,light
+2013-P,603,794.8849531481965,"Mathias, Franz",St. Michael,Carinthia,Austria,Austrian Weigh-off,,,335.5240982169915,840.5983017763814,0.0,Big Moose,5,360.08288377613303,medium
+2017-P,1013,554.2773331996742,"Boeck, Alexander",Schiltern,Lower Austria,Austria,Austrian Weigh-off,Blaimschen,Cutrupi,0.0,0.0,0.0,Connecticut Field,5,251.08763193945242,medium
+2017-P,1105,518.8299775750061,"Milivojevic, Slavogub",Eggendorf,Lower Austria,Austria,Austrian Weigh-off,Cutrupi,Blaimschein,0.0,0.0,0.0,Big Moose,5,235.02997984147777,medium
+2020-P,1303,128.98645269493596,"Buechele, Franz",Wien,Lower Austria,Austria,Retzer Land Weigh-off,,,0.0,0.0,0.0,Champion,5,58.43086307080599,light
+2013-P,1181,325.69972446110216,"Schodl, Zwillinge",,Other,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Dill's Atlantic,5,147.5419751808793,light
+2021-P,817,611.2786403468733,"Schoys, Josef",Riederberg,Lower Austria,Austria,Leiserberge Weigh-off,,,304.8384072057995,647.2168775853887,0.0,Autumn Gold,5,276.9092240771336,medium
+2020-P,711,699.8495421572895,"Tosoni, Matteo",Ambra,Tuscany,Italy,Campionato dello Zuccone,923.7 Asta,Open,326.8889309316094,693.5349907881038,0.0,Champion,5,317.0318425972522,medium
+2013-P,949,474.9057321272258,"Bauhof Tulln, Team",,Other,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Big Max,5,215.1322966536333,light
+2019-P,1227,392.178206194864,"Jaglarz, Mario",Tulln,Lower Austria,Austria,Gartenbauschule Langenlois,,,280.1224952191181,417.10206071435306,0.0,Champion,5,177.6567274062734,light
+2014-P,1449,283.9157623290614,"Meslier, Robert",,Other,France,Le Potager Extraordinaire,,,224.4667066933314,272.7939474465891,7.898087649719781,Atlantic Giant,5,128.61384033506482,light
+2019-P,1437,245.86182490701944,"Tiezzi, Mauro",Merate,Lombardy,Italy,Sfida degli Zucconi della Brianza,1685 Larue,Self,206.35657370284363,227.04918606991905,3.98532380716126,Spirit,5,111.37540668287981,light
+2014-P,730,731.9971455998418,"Chiatti, Carla",Grosseto,Other,Italy,Pesa la Zucca! Foiano,,,297.14243266141204,623.9743520915717,20.079252161162948,Howden,5,331.5947069567284,medium
+2020-P,364,1081.310800562006,"Ragosta, Giovanni",Cremnago di Inverigo,Lombardy,Italy,Sfida Nazionale della Zucca - Club Maspiano,1025.1 Muscas,Self,358.62970210032483,1116.3608392252952,0.0,Jack O'Lantern,5,489.83379265458876,heavy
+2019-P,1721,23.416187028081332,"Guttmann, Johanna",Tulbing,Lower Austria,Austria,Leiserberge Weigh-off,,,0.0,0.0,0.0,Big Moose,5,10.607532723720844,light
+2017-P,1472,166.88430429241026,"Bartoli, Ivan",Sulzano,Lombardy,Italy,Festa della zucca di sale,Unknow,Unknow,196.3023194525269,162.94320220422512,0.9865519798639952,Spirit,5,75.59858984446186,light
+2013-P,1024,432.1206596750732,"Bernardini, Matteo",Siena,Other,Italy,Pesa la Zucca! Foiano,,,251.159120573739,363.67598365326967,21.607059517293074,Big Moose,5,195.75065883280817,light
+2013-P,976,446.6088106856995,"Mereo, Egidio",,Other,Italy,Pesa la Zucca! Foiano,,,258.6770448710811,411.045620588803,13.69901038395458,Casper,5,202.31379124062187,light
+2018-P,351,1225.083699134406,"Markl, Michael",Bad Voeslau,Lower Austria,Austria,Austrian Weigh-off,2269 Paton,2145 McMullen,419.9310602508086,1516.6197603489838,0.0,Dill's Atlantic,5,554.9629157078859,heavy
+2021-P,740,702.308095872817,"Moretti, Damiano",Malonno,Lombardy,Italy,Sfida Nazionale della Zucca - Club Maspiano,1455 PETRELLI,1455 PETRELLI,297.45274864555165,650.9598604236907,4.188273437842247,Dill's Atlantic,5,318.1455674303861,medium
+2018-P,DMG,1741.9667909322905,"Boschi, Valerio",Arezzo,Other,Italy,Festa della zucca di sale,1810 werner,1625 gartner,417.53197886062577,1785.5046783808737,0.0,Rouge Vif d’Etampes,5,789.1109562923276,heavy
+2013-P,892,522.0181263906129,"Cassioli, Andrea",Arezzo,Other,Italy,Campionato dello Zuccone,899 Cutrupi,Open,300.59730876802786,588.9174950929088,0.0,Casper,5,236.47421125494765,medium
+2018-P,1419,323.28833722609556,"Jaglarz, Mario",Neustift,Styria,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Wolf,5,146.4496167634213,light
+2021-P,226,1402.157384750962,"Arrigucci, Gabriele",Sirtori,Lombardy,Italy,Sfida Nazionale della Zucca - Club Maspiano,2416 SHAIST,2060.2 PATON,393.0735977729766,1349.0931511117506,6.893177272531895,Early Giant,5,635.1772952921858,heavy
+2018-P,1320,393.6321290238886,"brault, Melissa",,Other,France,Le Potager Extraordinaire,,,253.06281316529663,317.132857767893,19.34896078229551,Autumn Gold,5,178.31535444782153,light
+2018-P,835,728.1851406898236,"Yoann, BRARD",,Other,France,Le Potager Extraordinaire,,,0.0,0.0,0.0,Dill's Atlantic,5,329.8678687324901,medium
+2017-P,1276,329.86908131870024,"Obendrauf, Johannes",Waidhofen/Thaya,Lower Austria,Austria,Austrian Weigh-off,951 Mathias 15,,0.0,0.0,0.0,Connecticut Field,5,149.43069383737122,light
+2015-P,443,1175.6572525673623,"Melka, Friedrich",,Other,Austria,Austrian Weigh-off,Ligget,,379.0164707040285,1210.4995681598066,0.0,Dill's Atlantic,5,532.5727354130152,heavy
+2015-P,1645,166.03037287988656,"Squitieri, Danilo",Semproniano,Tuscany,Italy,Campionato dello Zuccone,1254 Bartoli,Open,194.36503557656744,189.3061903850313,0.0,Big Max,5,75.21175891458861,light
+2019-P,561,989.135825545362,"Brault, Samuel",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,1694 HOELKE,,333.5481020630566,951.0859929762368,,Spirit,5,448.07852897204896,medium
+2018-P,807,747.8675193034563,"Edinger, Christian",TUlln,Lower Austria,Austria,Austrian Weigh-off,527 Camparmo 17,open,0.0,0.0,0.0,Jack O'Lantern,5,338.7839862444657,medium
+2015-P,1418,355.70080139739025,"Hugues, Guitton",,Other,France,Le Potager Extraordinaire,"1395,5 Luclerc 2015",,249.48890089808813,398.443534793661,0.0,Prizewinner,5,161.13246303301779,light
+2018-P,1124,597.0309203330813,"Nassi-Pisani, Elena-Francesco",Umbertide,Umbria,Italy,Pesa la Zucca! Foiano,,,306.9672991516908,584.3299633717728,0.0,Champion,5,270.45500691088586,medium
+2018-P,1576,166.79986765725013,"Chiti, Davide",Radda in Chianti,Tuscany,Italy,Pesa la Zucca! Foiano,,,188.39639935879543,147.26385157954664,6.784298219822968,Connecticut Field,5,75.56034004873432,light
+2018-P,835,742.7377770603176,"Filliaudeau, Laurent",,Other,France,Le Potager Extraordinaire,,,0.0,0.0,0.0,Connecticut Field,5,336.4602130083239,medium
+2013-P,921,514.3016549239135,"Melka, Friedrich",,Other,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Atlantic Giant,5,232.9786496805328,medium
+2020-P,274,1158.4993875054497,"Mereo, Egidio",,Lombardy,Italy,Sfida degli Zucconi della Brianza,"1989,5 DALETAS",self,362.6506882355447,1165.362885644142,0.0,Big Max,5,524.8002225399688,heavy
+2020-P,430,1060.9034326039389,"Team, Eichinger",St. Margarethen,Carinthia,Austria,Austrian Weigh-off,1369 Arens,1989 Daletas,369.00064278836606,1042.731353954538,0.0,Spirit,5,480.5892549695843,heavy
+2014-P,730,769.6134241941454,"Asta, Carmelo",,Other,Italy,Pesa la Zucca! Foiano,,,328.01037346867395,823.2039157665198,0.0,Dill's Atlantic,5,348.6348811599479,medium
+2016-P,DMG,685.9951568174044,"Giustarini, Vinicio",Castelvecchio,Lazio,Italy,Campionato dello Zuccone,,,305.6089880842493,660.3540686175104,0.0,Howden,5,310.7558060382842,medium
+2018-P,928,705.2074173786779,"BalestriBina, Marroni Nazzaeno",Calcio,Lombardy,Italy,Sfida degli Zucconi della Brianza,,self,298.92267173803583,686.207600652108,3.9403801828199208,Spirit,5,319.45896007254106,medium
+2015-P,1576,222.0035608330495,"Marcelli, Edoardo e Gianluca",,Other,Italy,Campionato dello Zuccone,1254 Bartoli,Open,212.45547258957967,241.21578249765415,0.0,Early Giant,5,100.56761305737143,light
+2014-P,1486,266.73722995347873,"Topini, Giuseppe",,Other,Italy,Pesa la Zucca! Foiano,,,232.71422671440425,265.0080507876515,3.0568552700349025,Jack O'Lantern,5,120.83196516892586,light
+2017-P,999,543.1363594343693,"Gervasoni, Marta",Lumezzane,Lombardy,Italy,Festa della zucca di sale,Turmolli,Self,293.1287462939483,583.9733869516683,0.0,Autumn Gold,5,246.0407708237693,medium
+2015-P,EXH,399.5260224026146,"Spreafico, Luca",Caiazzo,Campania,Italy,Campionato dello Zuccone,1692 McMullen,Self,0.0,0.0,0.0,Cinderella,5,180.98528814838443,light
+2013-P,1325,212.94788986516335,"Andreoli, Gianfranco",,Other,Italy,Festa della zucca di sale,,,208.20628868795052,208.19298069864257,3.94042069391667,Early Giant,5,96.465394108919,light
+2015-P,935,682.5653536728762,"Kerdal, Laurent",,Other,France,Le Potager Extraordinaire,1231lbs Daho 2012,,320.62739311358825,736.7352257211139,0.0,Prizewinner,5,309.2021052138129,medium
+2016-P,DMG,415.4691355313221,"Bartoli, Ivan e William",Collevecchio,Lazio,Italy,Campionato dello Zuccone,,,244.3620864862088,374.81408857395144,6.169102547781534,Autumn Gold,5,188.2075183956889,light
+2013-P,603,761.9082392670567,"Team, Gemeinde Tulln",St. Margarethen,Carinthia,Austria,Austrian Weigh-off,,,315.80510001446885,784.9680847180066,0.0,Big Moose,5,345.14443238797674,medium
+2017-P,1124,514.2690540982837,"Vendepane, Giulio",Casatenovo,Lombardy,Italy,Sfida degli Zucconi della Brianza,"1790,5 Wallace",self,275.0420865769141,445.7268058543749,3.9755599424902126,Wolf,5,232.96388150652254,medium
+2013-P,1428,137.27625409822176,"Haindl, Werner",Tulln,Lower Austria,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Rouge Vif d’Etampes,5,62.186143106494455,light
+2016-P,1279,407.6230880924759,"Melka, Friedrich",Baerndorf,Lower Austria,Austria,Austrian Weigh-off,Garofano Vuolo 15,,0.0,0.0,0.0,Atlantic Giant,5,184.6532589058916,light
+2013-P,1163,310.34579104470623,"Cutrupi, Stefano",,Other,Italy,Pesa la Zucca! Foiano,,,245.45897056777187,313.62177615009796,,Big Moose,5,140.58664334325192,light
+2016-P,945,666.1580292725064,"Team, Die Garten Tulln",Riederberg,Lower Austria,Austria,Austrian Weigh-off,1790 Wallace,self,334.287782279362,704.7168012274852,0.0,Big Moose,5,301.7695872604454,medium
+2016-P,243,1364.8392899299374,"Melka, Friedrich",Riederberg,Lower Austria,Austria,Austrian Weigh-off,1338 Martin,1575.5 Werner,401.14167747331095,1296.1239697712492,0.0,Early Giant,5,618.2721983382617,heavy
+2021-P,1041,361.85109187546294,"Melka, Friedrich",Retz,Lower Austria,Austria,Leiserberge Weigh-off,520.3 Grabmayer 19,open,261.36760864193815,346.9826818905748,3.9686779775486274,Big Moose,5,163.9185446195847,light
+2015-P,1702,130.42323518581182,"Fumi, Lorenzo",Siena,Other,Italy,Campionato dello Zuccone,1254 Bartoli,Open,166.42736481165483,127.41519499635577,3.0649835802410337,Dill's Atlantic,5,59.08172553917276,light
+2013-P,1198,289.7585758229176,"Briini, Bruno, Tiziano and Gino",Marone,Other,Italy,Pesa la Zucca! Foiano,,,237.45864959681944,291.7786388883394,2.862085687251962,Dill's Atlantic,5,131.26063484778166,light
+2014-P,1285,382.60234111709656,"Salvagni, Augusto",Arezzo,Other,Italy,Pesa la Zucca! Foiano,,,262.2507767984307,347.6105807119343,6.089115280329224,Cinderella,5,173.31886052604474,light
+2013-P,532,775.4713053797637,"Samuel, Brault",,Other,France,Le Potager Extraordinaire,,,321.1293681932832,747.5586987187945,2.006708031377492,Casper,5,351.288501337033,medium
+2021-P,EXH,207.7970852958176,"Bilski, Martin",Leitzersdorf,Lower Austria,Austria,Retzer Land Weigh-off,2021.5 Sperry 20,1965 Jutras 19,201.18044833663544,209.82714075610505,1.026515006693462,Champion,5,94.13207963900537,light
+2020-P,213,1497.9772709095892,"Forster, Karl",Baerndorf,Lower Austria,Austria,Retzer Land Weigh-off,1527 Melka,1594 Melka,430.51501560615577,1456.7264050111105,0.0,Atlantic Giant,5,678.5837037220439,heavy
+2015-P,734,845.1348438461639,"Cutrupi, Stefano",Castelfiorentino,Other,Italy,Festa della zucca di sale,,,340.2348712316267,785.9290513684282,,Wolf,5,382.8460842623123,medium
+2014-P,452,999.1737807440034,"Matteo Gabriele, Bernardini Arrigucci",Arezzo,Other,Italy,Campionato dello Zuccone,1490 Cutrupi,Open,339.45223764178405,1027.7708974869322,3.965845598654376,Early Giant,5,452.62572267703354,medium
+2016-P,EXH,420.6675796704064,"Vanneschi, Massimo",Castelfiorentino,Tuscany,Italy,Campionato dello Zuccone,,,268.56889492629426,415.3917131395323,0.0,Spirit,5,190.5624135906941,light
+2021-P,1000,416.23950459874135,"LFS Tulln, Team",Riederberg,Lower Austria,Austria,Retzer Land Weigh-off,421.1 Team Bauhof  20,self,285.3907579756541,476.6071121620568,0.0,Rouge Vif d’Etampes,5,188.55649558322983,light
+2019-P,1131,417.73613238344143,"Boudyo , Fabrice",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,119 kg Berthelot 17,,264.00138357361305,362.378906441098,13.27698618579906,Autumn Gold,5,189.23446796969898,light
+2015-P,1325,443.75566691924985,"Baptiste, Grilleau",,Other,France,Le Potager Extraordinaire,"1425,3lbs Daho 2013",,296.7840595739213,527.1878314935838,0.0,Big Moose,5,201.02131711442019,light
+2019-P,EXH,193.74262882580663,"Chiatti, Carla",Capriolo,Lombardy,Italy,Sfida degli Zucconi della Brianza,"1257,7 Petrelli",Self,207.67378750822397,224.0238197849511,0.0,Big Moose,5,87.7654108580904,light
+2019-P,951,618.976942502113,"Gabriele, Rosso",,Lombardy,Italy,Sfida Nazionale della Zucca - Club Maspiano,Unknow,Self,309.97821954714743,592.9428046606304,0.0,Connecticut Field,5,280.3965549534572,medium
+2018-P,1727,55.65126044008192,"Joebstl, Waltraud",,Other,Austria,Austrian Weigh-off,31 Teichmann 17 UOW,,0.0,0.0,0.0,Dill's Atlantic,5,25.21002097935711,light
+2019-P,1473,202.45715825726873,"Topini, Giuseppe",Garlate,Lombardy,Italy,Sfida degli Zucconi della Brianza,1078 Larsen,Self,202.76451522815947,183.9277856186736,0.9994140994562684,Casper,5,91.71309269054274,light
+2020-P,828,578.4814001805561,"Hoefler, Norbert",,Upper Austria,Austria,Austrian Weigh-off,1806 Sperry,,291.37223345843995,603.2207284377255,0.0,Rouge Vif d’Etampes,5,262.05207428179193,medium
+2015-P,1223,521.3015930953758,"Turla, Antonio",Foiano della Chiana,Other,Italy,Campionato dello Zuccone,935 Ferretti,2102 Meier,294.51104068204256,589.0950839016703,0.0,Big Max,5,236.14962167220523,medium
+2019-P,654,864.5845112464604,"Laurent, FILLIAUDEAU",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,,,339.7760037123004,955.7917058247368,0.0,Big Moose,5,391.6567835946465,medium
+2016-P,1121,524.3190202277771,"Schoys, Josef",Leitzersdorf,Lower Austria,Austria,Austrian Weigh-off,"664,9 Jaglarz",self,290.4411101063902,564.2470859726654,0.0,Rouge Vif d’Etampes,5,237.516516163183,medium
+2016-P,160,1490.9805552971898,"Cassella , Salvatore",Novellara,Emilia-Romagna,Italy,Festa della zucca di sale,"986,6 bartoli",2015 sibb,418.4188796874667,1308.5238839051497,8.00454315170005,Blue Hubbard,5,675.4141915496269,heavy
+2021-P,154,1608.9067468607202,"Cutrupi, Stefano",Calcio,Lombardy,Italy,Sfida degli Zucconi della Brianza,2158 Paton,2158 Paton,431.6550346265946,1567.8725930719722,6.043261053399775,Champion,5,728.8347563279062,heavy
+2019-P,EXH,753.7931019089057,"Cutrupi, Stefano",Foiano della Chiana,Tuscany,Italy,Campionato dello Zuccone,,,305.1084143017787,685.5750933961464,8.10187170307387,Connecticut Field,5,341.4682751647343,medium
+2018-P,807,802.5101091776884,"Melka, Friedrich",Pruggern,Styria,Austria,Austrian Weigh-off,1872.8 Willemijns 15,open,0.0,0.0,0.0,Blue Hubbard,5,363.53707945749284,medium
+2015-P,23,1835.425472581712,"Bonanomi, Vittorio",Castiglion Fiorentino,Tuscany,Italy,Europameisterschaft im Kurbiswiegen,1726 Cutrupi 14,2323 Meier 14,458.7418370658894,1946.0841984051383,0.0,Jack O'Lantern,5,831.4477390795156,heavy
+2013-P,1328,210.31678183601224,"Bartoli, Ivan",,Other,Italy,Festa della zucca di sale,,,205.199856006293,206.78083618728132,5.032768657637705,Jack O'Lantern,5,95.27350217171355,light
+2020-P,1229,194.6271361943653,"Daniele, Farina",goito,Lombardy,Italy,Sfida Nazionale della Zucca - Club Maspiano,1137 Salvagni 2019,Open,0.0,0.0,0.0,Wolf,5,88.16609269604749,light
+2014-P,1553,199.72814253721185,"Gervasoni, Marta",Arezzo,Other,Italy,Pesa la Zucca! Foiano,,,191.81343006876236,203.0358679828188,2.073771867799874,Wolf,5,90.47684856935697,light
+2015-P,1411,377.5273104105945,"Jaglarz, Mario",St. Michael,Carinthia,Austria,Austrian Weigh-off,Joebstl,,0.0,0.0,0.0,Atlantic Giant,5,171.0198716159993,light
+2013-P,1473,106.18343534261548,"Liberatori, Lido",Foiano della Chiana,Other,Italy,Festa della zucca di sale,,,175.52281792596295,117.19818042760596,0.0,Blue Hubbard,5,48.101096210204815,light
+2013-P,1085,356.8736411678791,"Mereo, Egidio",,Other,Italy,Pesa la Zucca! Foiano,,,219.61280283864937,232.87549697003791,63.520622609421274,Prizewinner,5,161.66375944904922,light
+2014-P,203,1409.8281723254916,"Ardenti, Mario",Arezzo,Other,Italy,Festa della zucca di sale,1749 hanfchman,1625 gantner,407.7133708898866,1422.7212858742823,3.1089042096866404,Champion,5,638.6521620634477,heavy
+2013-P,1309,206.62576883490428,"Scali, Guido",Arezzo,Other,Italy,Pesa la Zucca! Foiano,,,196.68476604874675,201.19719842752883,7.750968390533007,Atlantic Giant,5,93.60147328221164,light
+2018-P,850,734.5673790014813,"Meslier, Robert",,Other,France,Le Potager Extraordinaire,,,323.09782294512394,768.9644076872196,0.949772114315784,Autumn Gold,5,332.75902268767106,medium
+2021-P,1157,243.96540041224227,"Boschi, Valerio",Teglio,Lombardy,Italy,Sfida Nazionale della Zucca - Club Maspiano,2008 CUTRUPI,BARESI,205.0210875461135,231.15428054279113,5.0491984783608155,Rouge Vif d’Etampes,5,110.51632638674576,light
+2018-P,351,1280.6145665382098,"Vogl, Mathias",Kleinhadersdorf,Lower Austria,Austria,Austrian Weigh-off,2269 Paton,2145 McMullen,416.4193524436455,1570.441995199292,0.0,Howden,5,580.1183986418091,heavy
+2017-P,1013,642.5043855249775,"Moretti, Sergio e Davide",Farigliano,Piedmont,Italy,Pesa la Zucca! Foiano,,,324.1730310890885,730.8035394892412,0.0,Dill's Atlantic,5,291.0544866428148,medium
+2017-P,165,1353.1577162779006,"Alfani, Fabio",Goito,Lombardy,Italy,Campionato dello Zuccone,1521 Cutrupi,2145 McMullen,404.1080198604621,1429.380985165009,5.934056280700464,Dill's Atlantic,5,612.980445473889,heavy
+2016-P,500,1143.9869814807746,"Spreafico, Luca",Caiazzo,Campania,Italy,Campionato dello Zuccone,1300 C\P,1150 Cotterman,356.50121794471147,866.9567861194461,28.711112078447428,Prizewinner,5,518.2261026107909,heavy
+2017-P,DMG,602.3325380625407,"Alfani, Fabio",Pontedera,Tuscany,Italy,Campionato dello Zuccone,1333 Garofano,Open,286.63301795938736,573.1766183702963,1.925287885926712,Cinderella,5,272.85663974233097,medium
+2014-P,99,1547.7371794008295,"Ondelli, Franco",Cologne,Other,Italy,Festa della zucca di sale,1623 wallace,1495 stelt,427.6469628724074,1661.0981360287956,0.0,Cinderella,5,701.1249422685758,heavy
+2017-P,640,835.2446783453789,"Laurent, FILLIAUDEAU",,Other,France,Le Potager Extraordinaire,,,0.0,0.0,0.0,Cinderella,5,378.3658392904567,medium
+2021-P,1299,104.930399577235,"Pascal, Denis",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,,,,114.2917354537894,0.0,Big Moose,5,47.53347100848745,light
+2020-P,1376,45.55916489990414,"Guin, Pascal",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,,,0.0,0.0,0.0,Autumn Gold,5,20.638301699656576,light
+2015-P,1379,388.790022304197,"Chiti, Davide",,Other,Italy,Campionato dello Zuccone,----,Open,252.6604326731079,370.3126362195492,5.983869719885783,Atlantic Giant,5,176.12188010380126,light
+2017-P,554,995.1488212580872,"Blaimschain, Karl",Tulln,Lower Austria,Austria,Europameisterschaft im Kurbiswiegen,2095 Willejmins,1726 Cutrupi,359.74256908050666,983.9969582389662,0.0,Atlantic Giant,5,450.8024160299135,medium
+2016-P,1085,509.8044088493572,"Denis, Pascal",,Other,France,Le Potager Extraordinaire,,,0.0,0.0,0.0,Prizewinner,5,230.94139720875881,medium
+2013-P,1436,134.2482693505369,"Ondelli, Franco",Cologne,Other,Italy,Pesa la Zucca! Foiano,,,171.56574116381358,132.30615867017795,1.0117017098118444,Wolf,5,60.814466015793215,light
+2014-P,1289,397.87174703942696,"Raduazzo, Leonardo",Radda in Chianti,Tuscany,Italy,Campionato dello Zuccone,1052 Ferretti,952 Bartoli,252.97521778007868,415.8329552751328,0.0,Jack O'Lantern,5,180.23590140886043,light
+2013-P,1343,193.73042995002157,"Cassioli, Rita",Campagnola Emilia,Other,Italy,Festa della zucca di sale,,,207.55888104130204,239.18787458612164,0.0,Rouge Vif d’Etampes,5,87.75988476735978,light
+2018-P,1179,462.6181652509241,"Grabmayer, Manfred",,Lower Austria,Austria,Austrian Weigh-off,1871 Cutrupi 17,,271.9916217178151,502.36647176082255,0.0,Dill's Atlantic,5,209.56602885866863,light
+2019-P,1627,98.37681339166248,"Cutrupi, Stefano",Valiano di Montepulciano,Tuscany,Italy,Pesa la Zucca! Foiano,,,156.49188727922598,88.83087342046781,9.817337780052288,Early Giant,5,44.56469646642311,light
+2021-P,564,853.7711280077795,"Pacary, Sylvain",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,,,329.87087756148236,873.6448988671149,0.0,Cinderella,5,386.7583209875241,medium
+2018-P,EXH,626.0545537295994,"Schoffnegger, Armin",St. Michael,Carinthia,Austria,Austrian Weigh-off,1415 Melka,,0.0,0.0,0.0,Connecticut Field,5,283.60271283950857,medium
+2020-P,619,947.545987913707,"Malentacchi, Alvaro",Castelfiorentio,Tuscany,Italy,Pesa la Zucca! Foiano,,,333.2336700173892,803.2960088941174,7.225722014671525,Big Max,5,429.23833252490925,medium
+2018-P,1419,323.73099794567054,"Hausgarten, Team",,Styria,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Blue Hubbard,5,146.65014206938875,light
+2014-P,998,615.9039195585948,"Melka, Friedrich",,Other,Austria,Austrian Weigh-off,,,306.0979194000901,632.725281942521,3.098546344135972,Howden,5,279.00447556004343,medium
+2016-P,384,1213.828246552975,"Rosati, Loris",Sirtori,Lombardy,Italy,Festa della zucca di sale,412 bella,581bill mcclintock,372.87744765545705,1189.4516489290395,3.898032856528691,Atlantic Giant,5,549.8641956884977,heavy
+2014-P,584,1006.20611449915,"Giustarini, Vinicio",,Other,Italy,Festa della zucca di sale,1625 gantner,self,339.5507284687619,824.5055543913313,20.540593763534343,Blue Hubbard,5,455.811369868115,heavy
+2013-P,760,628.3395180729111,"Guitton, Hugues",,Other,France,Le Potager Extraordinaire,,,320.59009079038725,756.3445743276188,0.0,Wolf,5,284.63780168702874,medium
+2015-P,1325,472.7445807170174,"Daho, Mehdi",,Other,France,Le Potager Extraordinaire,"1425,3lbs Daho 2013",,292.04661204250135,548.3018820649181,0.0,Big Max,5,214.1532950648089,light
+2013-P,1269,261.1978834537758,"Hoefler, Norbert",,Other,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Dill's Atlantic,5,118.32264120456043,light
+2014-P,761,776.0570107675509,"Sanita, Alessandro",,Other,Italy,Festa della zucca di sale,,,275.16712626429364,571.1288554083634,47.98064995914435,Howden,5,351.55382587770055,medium
+2017-P,EXH,352.39459681652806,"Valentini, Berenice",Malonno,Lombardy,Italy,Sfida degli Zucconi della Brianza,821.2 Petrelli,Open,246.9784439578143,326.32536740018355,5.048388938673243,Prizewinner,5,159.6347523578872,light
+2020-P,308,1316.399865315636,"Lehner, Elisabeth",Pruggern,Styria,Austria,Leiserberge Weigh-off,1594 Johnston-Butler,2138 Biermans,391.63915002084735,1385.2724414685752,0.0,Prizewinner,5,596.3291389879831,heavy
+2016-P,1118,519.4228278255649,"Grabmayer, Manfred",Tulln,Lower Austria,Austria,Austrian Weigh-off,,,285.3749348358338,527.0813411906555,0.0,Howden,5,235.2985410049809,medium
+2020-P,348,1171.304627021624,"Kurzreiter, Lukas",Neustift,Styria,Austria,Austrian Weigh-off,2138 Biermans,1594 Johnston/Butler,,1353.2276064838093,0.0,Atlantic Giant,5,530.6009960407956,heavy
+2015-P,1636,181.79930556063977,"Lizzi, Denis",,Other,Italy,Pesa la Zucca! Foiano,,,199.3774954646145,202.4156499606273,0.0,Champion,5,82.35508541896982,light
+2020-P,709,719.9356992552548,"Guin, Pascal",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,,,323.3350402173872,734.7384709609455,0.0,Atlantic Giant,5,326.1308717626304,medium
+2019-P,843,703.9608928667438,"Tom, Brault",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,,,300.19140831802576,618.0134399238874,6.6492502792012464,Blue Hubbard,5,318.89428446863496,medium
+2019-P,465,982.27870195134,"Frigerio, Ettore",Garlate,Lombardy,Italy,Sfida Nazionale della Zucca - Club Maspiano,Cutrupi 2166,Self,339.53564948582687,907.0468831941096,3.874180192991046,Cinderella,5,444.97225198395705,medium
+2019-P,1157,412.19044781839375,"Team, Bauhof Tulln",Buers,Vorarlberg,Austria,Austrian Weigh-off,Rudorfer,,253.52026594371347,397.48944736242703,0.0,Wolf,5,186.72227286173236,light
+2019-P,50,1846.371460004574,"emidio, boioni",Foiano della Chiana,Tuscany,Italy,Campionato dello Zuccone,1911 Urena,2096 Meier,429.0326621106695,1998.055943331232,0.0,Prizewinner,5,836.406271382072,heavy
+2017-P,EXH,1170.8676204801654,"Asta, Carmelo",Goito,Lombardy,Italy,Sfida degli Zucconi della Brianza,2095 Willemijns,2145 McMullen,377.71285723216346,1151.2348952869115,3.023176735433033,Wolf,5,530.4030320775149,heavy
+2016-P,1208,469.2682966958692,"Ribechini, Alessio",Semproniano,Tuscany,Italy,Campionato dello Zuccone,,,279.28418370016516,443.8658218384285,0.0,Early Giant,5,212.57853840322875,light
+2020-P,94,1585.1087999075403,"Tom, Berthelot",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,1911 Urena,1938 Urena,409.31649418818193,1585.5841119608322,9.055959421519123,Atlantic Giant,5,718.0542863581157,heavy
+2020-P,630,802.7097106287508,"Baumgartner, Helmut",Riederberg,Lower Austria,Austria,Leiserberge Weigh-off,368 Joebstl,1369 Arsens,333.99880532054283,944.1414188364718,0.0,Autumn Gold,5,363.6274989148241,medium
+2014-P,483,1102.504169947533,"Aininger, Marko",,Other,Austria,Austrian Weigh-off,1474 Mathias,,353.89803212552323,1128.005145285469,0.0,Big Max,5,499.4343889862325,heavy
+2018-P,1395,290.1803670151908,"Rigler, Michael",Pruggern,Styria,Austria,Austrian Weigh-off,1032 Klein,,0.0,0.0,0.0,Connecticut Field,5,131.45170625788145,light
+2020-P,961,492.2405062614445,"Melka, Friedrich",Baerndorf,Lower Austria,Austria,Austrian Weigh-off,1252.2 Rataj 19,,276.4128002429308,488.7415084539611,5.9103579087269384,Casper,5,222.98494933643437,light
+2018-P,524,1135.790636117099,Vincenzo Italiano,Sale Marasino,Lombardy,Italy,Sfida degli Zucconi della Brianza,"2016,60 Boonenherman",Self,355.05714034521253,1034.9521298149068,4.844454359344969,Champion,5,514.5131581610459,heavy
+2021-P,402,1075.7716264006017,"Schoetzer, Alexander",Gols,Burgenland,Austria,Austrian Weigh-off,1230 Schieder 20,,361.9316894291984,1158.2499668540472,0.0,Connecticut Field,5,487.3245467594726,heavy
+2018-P,896,684.4844732937942,"Philippe, RENAUD",,Other,France,Le Potager Extraordinaire,,,,548.684050812407,28.16667581682518,Big Max,5,310.0714664020888,medium
+2018-P,EXH,683.6502589404621,"Priglhofer, Wolfgang",Tulln,Lower Austria,Austria,Austrian Weigh-off,Howell/Jolivette,,0.0,0.0,0.0,Autumn Gold,5,309.6935673000293,medium
+2016-P,1279,375.6289581371103,"Melka, Friedrich",Ernstbrunn,Lower Austria,Austria,Austrian Weigh-off,Garofano Vuolo 15,,0.0,0.0,0.0,Prizewinner,5,170.15991803611098,light
+2019-P,232,1299.8876567414447,"Barreca, Alessandro",Foiano della Chiana,Tuscany,Italy,Pesa la Zucca! Foiano,,,368.0279548380929,1313.7969251645848,1.0104803335619157,Big Moose,5,588.8491085038745,heavy
+2015-P,995,691.0165572659607,"Turmolli, Andrea",Arezzo,Other,Italy,Campionato dello Zuccone,1488 Cutrupi est-dmg,Open,321.4394091404126,612.3497651731499,8.165077649517446,Atlantic Giant,5,313.0305004414802,medium
+2020-P,1285,138.47797711715137,"Ivan, Bartoli",Coccaglio,Lombardy,Italy,Sfida degli Zucconi della Brianza,,,181.3768782000868,157.07176568193384,0.0,Big Max,5,62.73052363406957,light
+2014-P,992,617.5883351825594,"Poilane, Romaric",,Other,France,Le Potager Extraordinaire,1313 Metsa,,298.0419712759064,633.4203321429723,0.0,Autumn Gold,5,279.7675158376994,medium
+2016-P,1357,286.14638556688044,"Klein, Martin",St. Michael,Carinthia,Austria,Austrian Weigh-off,342.8 Joebstl,,0.0,0.0,0.0,Rouge Vif d’Etampes,5,129.62431266179684,light
+2013-P,1506,71.56389773056817,"Tosoni, Matteo",,Other,Italy,Pesa la Zucca! Foiano,,,153.94978788682678,102.04348848144504,0.0,Big Max,5,32.41844567194738,light
+2013-P,861,513.7047985382284,"Ardenti, Mario",Capraia e Limite,Other,Italy,Festa della zucca di sale,,,276.12981305201413,568.1107032497208,0.0,Howden,5,232.70827373781745,medium
+2020-P,345,1052.7573800099346,"Puchner, Thomas",Eggendorf,Lower Austria,Austria,Leiserberge Weigh-off,1597 Melka,1542 Urena,380.1434761262401,1180.6164049116296,0.0,Jack O'Lantern,5,476.8990931445004,heavy
+2015-P,1429,361.4227821880973,"Boioni, Emidio",,Other,Italy,Campionato dello Zuccone,1726 Cutrupi,Open,255.57563800481432,421.939793207431,0.0,Spirit,5,163.72452033120808,light
+2013-P,892,554.4246731078183,"Petricci, Ass. Campanile Petricci",Arezzo,Other,Italy,Campionato dello Zuccone,899 Cutrupi,Open,293.42949327435963,599.0234035975685,0.0,Rouge Vif d’Etampes,5,251.1543769178417,medium
+2013-P,260,1058.2702384849265,"Gabriele  e sauro, Bartoli",,Other,Italy,Campionato dello Zuccone,1680 Tanner,Open,345.7608593152025,1020.8234311085776,1.9163485815674557,Blue Hubbard,5,479.3964180336717,heavy
+2013-P,EXH,671.7018031409044,"Kloch, Kevin",,Other,Austria,Austrian Weigh-off,Ghaye,,304.1525685571946,747.3900721132219,0.0,Wolf,5,304.28091682282974,medium
+2020-P,1378,41.62220485779717,"Pfleger und Sperat, Team",Gross Gerungs,Lower Austria,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Wolf,5,18.854858800582118,light
+2017-P,1190,415.8731088062907,"Tosoni, Matteo",Farigliano,Piedmont,Italy,Sfida degli Zucconi della Brianza,"1111,5 Berard","1297,5 Young",256.49819091464707,410.82972317833065,1.0454791086048494,Big Max,5,188.39051828924968,light
+2020-P,556,855.833511876695,"Louineau, Andre",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,,,337.4930611120055,940.420857667788,0.9994914186549974,Howden,5,387.6925808801428,medium
+2015-P,278,1298.5784215682284,"Gauchet, Jean Pierre",,Other,France,Le Potager Extraordinaire,1661 Werner,,426.21675830310573,1479.9185480294452,0.0,Howden,5,588.2560249704075,heavy
+2016-P,948,707.0833970662229,"Casella, Salvatore",Pontedera,Tuscany,Italy,Pesa la Zucca! Foiano,,,312.962293881076,681.738856230537,6.952969382212931,Wolf,5,320.308778870999,medium
+2015-P,EXH,1231.4829479904463,"Gauchet , Jean Pierre",,Other,France,Le Potager Extraordinaire,2102 Meier,,373.7240404907008,1349.5417172102614,0.0,Early Giant,5,557.8617754396722,heavy
+2015-P,970,713.5390835996774,"Gobbi, Alessio",Marone,Other,Italy,Pesa la Zucca! Foiano,,,316.0627735907793,705.084303178362,0.994122853113696,Wolf,5,323.2332048706539,medium
+2016-P,546,1046.321338470878,"Cotti, Luoisiana",Umbertide,Umbria,Italy,Pesa la Zucca! Foiano,,,366.694151074891,1130.0724055900062,0.0,Rouge Vif d’Etampes,5,473.9835663273077,heavy
+2017-P,1409,249.64936717210296,"Cutrupi, Stefano",Foiano della Chiana,Tuscany,Italy,Pesa la Zucca! Foiano,,,234.4593485326814,289.1309680129672,0.0,Jack O'Lantern,5,113.09116332896264,light
+2015-P,278,1311.3247669088005,"Guin, Pascal",,Other,France,Le Potager Extraordinaire,1661 Werner,,407.9014554079378,1439.999209955224,0.0,Blue Hubbard,5,594.0301194096867,heavy
+2021-P,500,999.7182812585828,"Francois, Denis",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,,,360.08308483031453,1019.7461282802412,0.0,Jack O'Lantern,5,452.872381410138,medium
+2019-P,1060,488.87847061393586,"Vogl, Mathias",,Lower Austria,Austria,Leiserberge Weigh-off,1211 Ailts,1297.5 Young,268.9676903259161,476.8539495732451,0.0,Rouge Vif d’Etampes,5,221.46194718811296,light
+2018-P,998,701.038004094114,"Puehringer, Beate",Tulln,Lower Austria,Austria,Austrian Weigh-off,1080.9 Melka,sibb,0.0,0.0,0.0,Dill's Atlantic,5,317.5702158546336,medium
+2014-P,977,650.8339974788801,"Bertone, Andrea",Buja,Other,Italy,Campionato dello Zuccone,1490 Cutrupi,Self,297.84384032708806,675.6220875874319,0.0,Autumn Gold,5,294.8278008579327,medium
+2013-P,EXH,629.4067683582706,"Markl, Michael",,Other,Austria,Austrian Weigh-off,Ghaye,,321.76978348348246,673.3770690691352,0.0,Champion,5,285.1212660662966,medium
+2021-P,1041,351.6756190036138,"Langenlois, Gartenbauschule",Riederberg,Lower Austria,Austria,Leiserberge Weigh-off,520.3 Grabmayer 19,open,233.4644039447439,346.8343946170267,4.094063432762865,Autumn Gold,5,159.30905540863705,light
+2013-P,1373,167.76621152279387,"Salvagni, Augusto",Arezzo,Other,Italy,Campionato dello Zuccone,899 Cutrupi,Open,0.0,0.0,0.0,Howden,5,75.99809381982563,light
+2016-P,649,1033.988111430092,"Asta, Carmelo",Dragoni,Campania,Italy,Campionato dello Zuccone,1985 Miller,self,345.42793111488555,932.4892386296864,13.192284195115407,Casper,5,468.3966144778317,heavy
+2016-P,307,1234.7531300979908,"Markl, Michael",Nonndorf,Lower Austria,Austria,Europameisterschaft im Kurbiswiegen,1585.5 Werner,1338 Martin,374.9808613146422,1395.5376485465308,0.0,Atlantic Giant,5,559.3431679343898,heavy
+2021-P,487,915.603629999447,"Bleimschein, Karl",Au,Lower Austria,Austria,Europameisterschaft im Kurbiswiegen,1911 Urena 2017,2226.7 Boonen 2018,344.5803405731467,863.5795885007482,1.99992352692756,Prizewinner,5,414.7684443897495,medium
+2019-P,272,1418.774103130586,"., Francesco",Caiazzo,Campania,Italy,Campionato dello Zuccone,2145.5 McMullen,1774.5 Carter,386.38293673240776,1280.6276963510231,8.223006899245519,Connecticut Field,5,642.7046687181554,heavy
+2019-P,1650,85.18796135298203,"Mori, Guagnetti",Foiano della chiana,Tuscany,Italy,Pesa la Zucca! Foiano,,,135.64391007918928,68.43141112357505,20.13940172673375,Prizewinner,5,38.59014649290086,light
+2019-P,1627,102.19437122281352,"Seri, Remo",Foiano della Chiana,Tuscany,Italy,Pesa la Zucca! Foiano,,,152.1667278901982,94.61623917550304,10.169444091843571,Big Moose,5,46.29405016393452,light
+2019-P,1422,234.5104368663096,"Marta, Gervasoni",Chiari,Lombardy,Italy,Sfida degli Zucconi della Brianza,"1867,3 BiermansJan",Self,220.74147131794055,252.550622127987,0.0,Spirit,5,106.23322790043825,light
+2019-P,DMG,594.9569506297356,"Kurzreiter, Lukas",Ernstbrunn,Lower Austria,Austria,Gartenbauschule Langenlois,1311.1 Matthias,sibb,305.57523819619996,803.1970004523878,0.0,Connecticut Field,5,269.51549863527026,medium
+2018-P,DMG,618.0629897476457,"Mereo, Egidio",Cremnago di Inverigo,Lombardy,Italy,Sfida degli Zucconi della Brianza,1864 Wallace,self,293.7516567373618,556.7024345404548,5.819737947902366,Rouge Vif d’Etampes,5,279.9825343556835,medium
+2019-P,DMG,622.7386036275677,"Bartoli, Ivan",Radda in Chianti,Tuscany,Italy,Campionato dello Zuccone,1911,,293.21362299515727,462.172495814779,23.88501283539288,Spirit,5,282.1005874432882,medium
+2017-P,514,1018.2613998499494,"Spreafico, Luca",Radda in Chianti,Tuscany,Italy,Campionato dello Zuccone,1333 Garofano,Open,336.5978021850517,963.405668336828,0.9679304747613022,Early Giant,5,461.2724141320271,heavy
+2018-P,998,604.2939760689126,"Melka, Friedrich",Waidhofen/Thaya,Lower Austria,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Wolf,5,273.7451711592174,medium
+2019-P,1674,72.90162843948488,"Jaglarz, Mario",Langenlois,Lower Austria,Austria,Leiserberge Weigh-off,,,0.0,0.0,0.0,Autumn Gold,5,33.02443768308665,light
+2017-P,1194,443.0565247181904,"Ondelli, Franco",Marone,Lombardy,Italy,Festa della zucca di sale,Open,Open,284.7942850936717,449.5014709620625,0.0,Rouge Vif d’Etampes,5,200.70460569734027,light
+2018-P,1651,104.6915012252974,"Maggiociondolo, Azienda Agricola",Foiano della Chiana,Tuscany,Italy,Pesa la Zucca! Foiano,,,172.08641358392563,130.5040032123344,0.0,Champion,5,47.42525005505973,light
+2018-P,1419,298.01967136364743,"Joebstl, Horst",,Styria,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Wolf,5,135.0029111277323,light
+2016-P,500,1090.9723624419455,"Pogna, Lorena",Capua,Campania,Italy,Campionato dello Zuccone,1300 C\P,1150 Cotterman,324.56220104847483,841.5832952842226,28.50750555625708,Champion,5,494.2104801862013,heavy
+2014-P,1686,85.66709338826078,"Malentacchi, Claudio",Foiano della Chiana,Other,Italy,Festa della zucca di sale,,,121.42234344782388,61.448611671660366,35.23301412558117,Dill's Atlantic,5,38.807193304882134,light
+2016-P,862,786.449732515925,"Giustarini, Vinicio",Capriolo,Lombardy,Italy,Festa della zucca di sale,,,328.11657295387823,777.1115401725424,3.8609234732854185,Prizewinner,5,356.26172882971406,medium
+2018-P,DMG,1866.5073068098327,"Fratagnoli, Danilo",Gallignano,Other,Italy,Festa della zucca di sale,1810 werner,1625 gartner,445.9076990966376,1763.9781521785103,0.0,Atlantic Giant,5,845.5278099848542,heavy
+2018-P,1627,131.81106667985878,"LFS, Tulln",Riederberg,Vienna,Austria,Austrian Weigh-off,1124.8 Melka,1527.8 Melka,181.25326360725307,140.56429945588746,0.0,Prizewinner,5,59.71041320597603,light
+2021-P,1150,263.5369964992959,"Melka, Friedrich",Tulln,Lower Austria,Austria,Austrian Weigh-off,HDA Team Bauhof,,232.3891595017241,306.108383331982,0.0,Big Moose,5,119.38225941418106,light
+2021-P,13,2153.5891843306,"Asta, Carmelo",Foiano della Chiana,Tuscany,Italy,Campionato dello Zuccone,2183 Mendi,1501 WanderWeilen,459.80903282331894,1942.6706268583189,7.539480968428531,Big Moose,5,975.5759005017618,heavy
+2018-P,DMG,1730.7451737127967,"Gabriele and Sauro, Bartoli",Artogne,Other,Italy,Festa della zucca di sale,1810 werner,1625 gartner,425.901198495946,1880.6908306128269,0.0,Atlantic Giant,5,784.027563691897,heavy
+2021-P,580,848.1191809023112,"Grabmayer, Manfred",Wien,Vienna,Austria,Austrian Weigh-off,1527 Melka,1911 Urena,330.4935471850939,871.6295266905325,0.0,Rouge Vif d’Etampes,5,384.19798894874697,medium
+2015-P,1110,603.1678697919314,"Chiatti, Carla",Sinalunga,Other,Italy,Festa della zucca di sale,,,309.80944013280816,606.6927874343119,2.0534207502242015,Big Max,5,273.2350450157449,medium
+2015-P,1223,541.6691171576938,"Bracchi, Rosangela",,Other,Italy,Campionato dello Zuccone,935 Ferretti,2102 Meier,288.97999111018055,565.5464826797623,0.0,Connecticut Field,5,245.3761100724353,medium
+2019-P,783,768.7373471939803,"Dorner, Martin",Baerndorf,Lower Austria,Austria,Gartenbauschule Langenlois,1379.6 Matthias,self,335.68732085704914,779.4799543832013,0.0,Atlantic Giant,5,348.2380182788731,medium
+2019-P,1180,405.0995222603525,"Chinazzo, Alfredo",Foiano della Chiana,Tuscany,Italy,Pesa la Zucca! Foiano,,,261.2127698256053,395.0316876278558,4.1300848169390605,Wolf,5,183.5100835839397,light
+2017-P,678,827.0426971948616,"Agnelli, Vasco",Sirtori,Lombardy,Italy,Festa della zucca di sale,1278.6 cutrupi,x self,367.41266415517975,956.6804460721442,0.0,Connecticut Field,5,374.6503418292723,medium
+2019-P,1721,27.52895833959352,"Joebstl, Horst",,Lower Austria,Austria,Leiserberge Weigh-off,,,0.0,0.0,0.0,Rouge Vif d’Etampes,5,12.470618127835865,light
+2015-P,EXH,388.387934015713,"Nicole, BUREAU",,Other,France,Le Potager Extraordinaire,,,247.3926445005425,332.4808252785546,8.954909713338418,Wolf,5,175.93973410911798,light
+2021-P,154,1587.596150146554,"Chiatti, Carla",Cremnago di Inverigo,Lombardy,Italy,Sfida degli Zucconi della Brianza,2158 Paton,2158 Paton,404.9819245491559,1473.5841343761551,6.064026552884913,Blue Hubbard,5,719.181056016389,heavy
+2018-P,1229,481.5674333754959,"Boschi, Valerio",,Veneto,Italy,Festa della zucca di sale,,,285.3444449626407,479.0762149057986,0.0,Dill's Atlantic,5,218.15004731909966,light
+2015-P,1677,146.0342048619173,"Joebstl, Horst",Tulln,Lower Austria,Austria,Austrian Weigh-off,,,0.0,,0.0,Champion,5,66.15349480244853,light
+2017-P,143,1400.352418420816,"Schodl, Zwillinge",Tulbing,Lower Austria,Austria,Austrian Weigh-off,2230 Wallace,2095 Willemijns,392.0970401372672,1568.1129227876634,0.0,Rouge Vif d’Etampes,5,634.3596455446298,heavy
+2019-P,272,1267.5458366256487,"Petrelli, Francesco",Pietravairano,Campania,Italy,Campionato dello Zuccone,2145.5 McMullen,1774.5 Carter,365.3624262606649,1172.0777130365911,7.866300257297765,Champion,5,574.1982639914189,heavy
+2018-P,807,798.1215185464822,"Cardini, Giovanni",Foiano della Chiana,Other,Italy,Festa della zucca di sale,1333 garofano,767 louse,331.13166077281664,723.4002709808236,8.752272657223443,Spirit,5,361.54904790155643,medium
+2013-P,1477,106.53181272824976,"Ribechini, Renato",Reggio Emilia,Other,Italy,Pesa la Zucca! Foiano,,,176.3867329386544,131.84595134451095,0.0,Big Moose,5,48.258911165897146,light
+2016-P,612,866.6066992543222,"Gauchet, Jean Pierre",,Other,France,Le Potager Extraordinaire,,,348.965246884405,1054.8901989759145,0.0,Connecticut Field,5,392.57283476220795,medium
+2013-P,EXH,170.39105387947433,"Ivan, Bartoli",,Other,Italy,Campionato dello Zuccone,899 Cutrupi,Open,0.0,0.0,0.0,Casper,5,77.18714740740187,light
+2021-P,354,1175.1229154784633,"Berthelot, Tom",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,2200 geddes,,382.0845066512112,1103.833821187969,,Connecticut Field,5,532.3306807117439,heavy
+2021-P,1150,246.36964213710337,"Puchner, Thomas",Riederberg,Lower Austria,Austria,Austrian Weigh-off,HDA Team Bauhof,,224.48926029811935,281.8672426924449,0.0,Howden,5,111.60544788810783,light
+2016-P,EXH,704.586275350366,"Herzog-Wittmann, Florian",Retz,Lower Austria,Austria,Austrian Weigh-off,1975 Wallace,1985 Miller,331.604671116531,833.7905933263481,0.0,Champion,5,319.17758273371584,medium
+2019-P,1287,311.5104134854536,"Forster, Karl",Riederberg,Lower Austria,Austria,Gartenbauschule Langenlois,1080.9 Melka,,232.58008501649363,324.2785510370553,0.0,Rouge Vif d’Etampes,5,141.1142173089105,light
+2016-P,1541,133.4233004556147,"Dorner, Martin",,Lower Austria,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Champion,5,60.44075510639347,light
+2014-P,39,1796.382463842015,"Romboli, Massimo",Pontedera,Tuscany,Italy,Campionato dello Zuccone,2009 Wallace,1789 Wallace,447.7166785950317,1775.120826095868,0.0,Rouge Vif d’Etampes,5,813.7612561204329,heavy
+2021-P,949,479.8509632357641,"Schieder, Christoph",Syring,Lower Austria,Austria,Leiserberge Weigh-off,1225.8 Kurzreiter 2020,sibb,293.92196567788096,607.2045419054589,0.0,Jack O'Lantern,5,217.37248634580115,light
+2018-P,446,1102.8724362962846,"Ferraris, Giustino",Palazzolo sull'Oglio,Lombardy,Italy,Festa della zucca di sale,998.7tosoni,1803holke,364.32643825395706,1165.7485405477664,0.0,Connecticut Field,5,499.6012136422169,heavy
+2016-P,1390,285.94705501346016,"Barrella, Alessio",,Other,Italy,Festa della zucca di sale,,,219.3265957846676,318.24522238189525,0.0,Dill's Atlantic,5,129.53401592109745,light
+2017-P,EXH,1307.730951806553,"Colzani, Enrico",Malonno,Lombardy,Italy,Sfida degli Zucconi della Brianza,2095 Willemijns,2145 McMullen,376.15007674694215,1248.8682351726789,3.0498848121442723,Howden,5,592.4021211683686,heavy
+2020-P,1087,306.17815823735805,"Kurzreiter, Lukas",Riederberg,Vienna,Austria,Leiserberge Weigh-off,487 Jaglarz 19,self,242.3519161624593,359.43843240152904,0.0,Champion,5,138.6987056815232,light
+2013-P,949,470.3162331008379,"Klein, Martin",,Other,Austria,Austrian Weigh-off,,,,0.0,0.0,Dill's Atlantic,5,213.05325359467957,light
+2021-P,EXH,909.1612262644896,"Cutrupi, Stefano",,Lombardy,Italy,Sfida degli Zucconi della Brianza,1686.5 Cutrupi '18,Self,330.6955113776613,899.6309317552505,0.0,Casper,5,411.8500354978138,medium
+2018-P,1358,360.7920464000145,"Cutrupi, Stefano",Valiano di Montepulciano,Tuscany,Italy,Pesa la Zucca! Foiano,,,253.2398757077446,346.33906249554457,3.014854802522268,Atlantic Giant,5,163.43879701920656,light
+2020-P,763,722.0553741826341,"Eichinger, Thomas",Schiltern,Lower Austria,Austria,Austrian Weigh-off,793.7 Dorner 19,,323.3842354975098,786.2434858193427,0.0,Big Max,5,327.09108450473326,medium
+2013-P,1421,135.17268182418093,"Cutrupi, Stefano",Rimini,Emilia-Romagna,Italy,Campionato dello Zuccone,245 Bartoli,Open,171.84623540639592,111.06210512677472,23.68044210612818,Howden,5,61.233224866353964,light
+2014-P,544,960.8312953585552,"Bonanomi, Vittorio",Casatenovo,Other,Italy,Festa della zucca di sale,1180 Bartoli,open,353.8376996816631,1002.6218155587286,0.0,Wolf,5,435.2565767974255,medium
+2020-P,1340,85.72920975487365,"Pineau, Jonathan",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,,,162.92609245090722,79.86930460540653,0.0,Spirit,5,38.835332018957764,light
+2019-P,EXH,307.0060544749762,"Squitieri, Danilo",Vinci,Tuscany,Italy,Pesa la Zucca! Foiano,,,238.07670260045043,304.94336246170127,0.0,Champion,5,139.07374267716423,light
+2016-P,1175,488.5440739761911,"Daho, Mehdi",,Other,France,Le Potager Extraordinaire,,,0.0,0.0,0.0,Connecticut Field,5,221.31046551121457,light
+2019-P,654,843.8859149426862,"Berthelot, Herve",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,,,328.0986021891552,959.439376614212,0.0,Champion,5,382.28031946903684,medium
+2021-P,426,1097.9257930515714,Team Toellergasse,,Styria,Austria,Austrian Weigh-off,2095 Brandt 17,,340.0961705423887,947.9603292641827,13.698262067928226,Big Max,5,497.3603842523619,heavy
+2020-P,1002,460.7263733881974,"Boeck, Alexander",,Lower Austria,Austria,Leiserberge Weigh-off,1395 Weishaeupl 18,520 Grabmayer 19,295.41595972992076,536.5950696375803,0.0,Big Max,5,208.70904714485343,light
+2019-P,EXH,517.7984375800473,"Kreuzspiegl, Thomas",TUlln,Lower Austria,Austria,Austrian Weigh-off,1944 Conolly,,291.6758617880344,635.5814118144825,0.0,Champion,5,234.56269222376145,medium
+2013-P,861,491.1435475553681,"Salvagni, Augusto",,Other,Italy,Festa della zucca di sale,,,286.80669281140194,532.1612653476259,0.0,Rouge Vif d’Etampes,5,222.48802704258176,light
+2019-P,184,1351.7459810536357,"matteo, tosoni",Casatenovo,Lombardy,Italy,Sfida degli Zucconi della Brianza,2145 McMullen,1810 Werner,397.6870104377311,1289.741972587071,5.764949932843624,Big Max,5,612.3409294172969,heavy
+2016-P,DMG,1366.8567074046562,"Ricci, Giulio",Umbertide,Umbria,Italy,Pesa la Zucca! Foiano,,,377.69497764310006,1254.0503486620214,16.420337488596985,Champion,5,619.1860884543092,heavy
+2016-P,1601,89.33275329095353,"LFS, Tulln",Pruggern,Styria,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Atlantic Giant,5,40.46773724080195,light
+2021-P,1000,404.16628244707147,"Mathias, Franz",Tulln,Lower Austria,Austria,Retzer Land Weigh-off,421.1 Team Bauhof  20,self,279.51131817229503,491.9001757047835,0.0,Spirit,5,183.0873259485234,light
+2019-P,EXH,298.0634865175579,"Liberatori, Lido",Quarrata,Tuscany,Italy,Pesa la Zucca! Foiano,,,231.98810609003428,312.3390743539391,0.0,Jack O'Lantern,5,135.02275939245374,light
+2019-P,909,606.8572977744404,"Spreafico, Luca",Malonno,Lombardy,Italy,Sfida Nazionale della Zucca - Club Maspiano,2268 Willemyns,Self,308.99807790906794,834.0977747700339,0.0,Casper,5,274.90635589182153,medium
+2020-P,763,644.036567487227,"Jaglarz, Mario",Kleinhadersdorf,Lower Austria,Austria,Austrian Weigh-off,793.7 Dorner 19,,,757.5435053228376,0.0,Wolf,5,291.7485650717138,medium
+2020-P,23,2006.5373787989356,"Gervason, Andrea",Radda in Chianti,Tuscany,Italy,Campionato dello Zuccone,727 Garofano uow,Self,450.5954233135142,1940.63509417486,0.0,Dill's Atlantic,5,908.9614325959178,heavy
+2014-P,544,1004.2303328621304,"Bartoli, Fabio e Gabriele",Corazzano,Other,Italy,Festa della zucca di sale,1180 Bartoli,open,358.56456446664305,1082.4107181976656,0.0,Atlantic Giant,5,454.91634078654505,heavy
+2019-P,1131,467.7343657677365,"Team, Eichinger",Enzesfeld,Lower Austria,Austria,Gartenbauschule Langenlois,1789 Paton,sibb,288.88561937478164,463.0686319260905,0.0,Cinderella,5,211.88366769278466,light
+2015-P,1221,551.2298973354042,"Battista, Gregori",Foiano della chiana,Tuscany,Italy,Pesa la Zucca! Foiano,,,295.6019822217888,509.13723249890086,3.954550586880491,Howden,5,249.70714349293812,medium
+2017-P,533,947.8875838924884,"Milivojevic, Slavogub",,Upper Austria,Austria,OO Landesgartenschau 2017 Kremsmunster,"2095,5 Willemijns",,0.0,0.0,0.0,Cinderella,5,429.3930755032972,medium
+2020-P,1016,449.7286418545962,"Nittnaus, Wolfgang",Dietersdorf,Lower Austria,Austria,Leiserberge Weigh-off,487 Jaglarz 19,,276.8542185564266,523.5182648781648,0.0,Champion,5,203.7270747601321,light
+2018-P,1261,406.3314426988757,"Falchi, Brunero",Montepulciano,Tuscany,Italy,Campionato dello Zuccone,1333 Garofano,Open,271.4993275649822,376.23803173449994,5.987806690441062,Jack O'Lantern,5,184.06814354259072,light
+2013-P,991,469.2599616552442,"Zwillinge, Schodl",Ullrichskirchen,Other,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Howden,5,212.5747626298256,light
+2018-P,96,1654.544435929629,"Sergio, Moretti",Radda in Chianti,Tuscany,Italy,Sfida degli Zucconi della Brianza,1871 Cutrupi,Self,397.7583439802193,1640.6914301676818,0.0,Prizewinner,5,749.5086294761219,heavy
+2020-P,DMG,902.6397715774386,"Vendepane, Giulio",Castelfiorentino,Tuscany,Italy,Campionato dello Zuccone,2416.5 Haist,Self,332.5292925137282,756.8716876163716,14.059616048187216,Champion,5,408.89581652457974,medium
+2018-P,941,683.9531889798704,"Team, Donauland Kompost",St. Margarethen,Carinthia,Austria,Austrian Weigh-off,368 Joebstl,1415 Melka,0.0,0.0,0.0,Early Giant,5,309.83079460788133,medium
+2018-P,1078,588.6907557798232,"Cutrupi, Stefano",Radda in Chianti,Tuscany,Italy,Campionato dello Zuccone,563 Garofano,Open,303.5417389544118,607.3013132537718,0.9797834026998548,Spirit,5,266.67691236825993,medium
+2016-P,EXH,102.11217750444614,"Gentillau, Philippe",,Other,France,Le Potager Extraordinaire,,,0.0,0.0,0.0,Cinderella,5,46.2568164095141,light
+2021-P,915,536.5294986574223,"Kurzreiter, Lukas",Pichl,Upper Austria,Austria,Austrian Weigh-off,1548 Wuersching 20,1104.5 Langheim 19,289.5993739062794,593.2585146698655,0.0,Jack O'Lantern,5,243.04786289181231,medium
+2018-P,896,682.9625622763009,"Eichinger, Thomas",Zwillingsdorf,Lower Austria,Austria,Austrian Weigh-off,,,325.73625124244364,785.3252752872486,0.0,Autumn Gold,5,309.38204071116434,medium
+2020-P,1325,97.2926823659806,"Petrelli, Team",Casatenovo,Lombardy,Italy,Sfida Nazionale della Zucca - Club Maspiano,Mix,Open,155.6223461252926,90.74276941813848,0.0,Jack O'Lantern,5,44.073585111789214,light
+2021-P,EXH,332.91352393700754,"Forster, Karl",Schiltern,Lower Austria,Austria,Retzer Land Weigh-off,2020.5 Weishaeupl 18,,247.51551526998335,357.4062652981276,0.0,Atlantic Giant,5,150.8098263434644,light
+2021-P,DMG,284.2895015030301,"Pezza, Davide",Castelfiorentino,Tuscany,Italy,Campionato dello Zuccone,230 Geddes,Self,228.7115775650933,278.8308820894556,3.840383439998352,Prizewinner,5,128.78314418087265,light
+2019-P,1324,311.9126055081959,"Galieni, Simone",Radda in Chianti,Tuscany,Italy,Campionato dello Zuccone,1114 Garofano,Self,243.3212964296378,295.0258959497558,1.981104114495887,Dill's Atlantic,5,141.29641029521275,light
+2017-P,854,730.143713602753,"Mathias, Franz",Haag am Hausruck,Upper Austria,Austria,OO Landesgartenschau 2017 Kremsmunster,,,0.0,0.0,0.0,Wolf,5,330.7551022620471,medium
+2015-P,1470,307.44964177062053,"Deri , Giacomo",Camucia,Other,Italy,Pesa la Zucca! Foiano,,,247.7913813156509,343.87576912071853,,Cinderella,5,139.2746877220911,light
+2014-P,1298,388.5152738965904,"Kittenberger, Christian",St. Oswald,Other,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Prizewinner,5,175.99741907515545,light
+2019-P,1383,286.25570663999434,"Turmolli, Andrea, Anna and Pato",Garlate,Lombardy,Italy,Sfida degli Zucconi della Brianza,"1485,9 Petrelli",Self,229.6972575702501,255.1022958033253,8.38490532729624,Atlantic Giant,5,129.67383510791745,light
+2019-P,1167,404.5034078213049,"Joebstl, Horst",Baerndorf,Lower Austria,Austria,Austrian Weigh-off,,,257.3830974310727,398.28399198191784,5.089676565580048,Jack O'Lantern,5,183.24004374305113,light
+2021-P,229,1476.0360881869265,"Bartoli, Gabriella",Malonno,Lombardy,Italy,Sfida degli Zucconi della Brianza,"2060,2 Paton '20",2416.5 Haist '18,404.39372167418105,1407.7089903558349,0.0,Cinderella,5,668.6443479486777,heavy
+2013-P,509,806.6914554370895,"Guitton, Hugues",,Other,France,Le Potager Extraordinaire,1680 Tanner,,322.5218692158501,,11.43657408685154,Connecticut Field,5,365.43122931300155,medium
+2018-P,320,1144.1556110279112,"Felappi, Lorenzo",Foiano della Chiana,Tuscany,Italy,Pesa la Zucca! Foiano,,,336.7851027924177,977.9979202726324,26.22101203797032,Spirit,5,518.3024917956437,heavy
+2016-P,1502,193.8606996225857,"Sergio, Moretti",Pontremoli,Tuscany,Italy,Pesa la Zucca! Foiano,,,221.45812071525185,253.98625859879007,0.0,Howden,5,87.81889692903133,light
+2018-P,EXH,207.01520498225156,"Mati, Jacopo",Radda in Chianti,Tuscany,Italy,Pesa la Zucca! Foiano,,,214.71735384501295,196.06187752647065,8.589425338132674,Rouge Vif d’Etampes,5,93.77788785695996,light
+2013-P,EXH,633.5715508012099,"Steindl, Josef",,Other,Austria,Austrian Weigh-off,Ghaye,,321.5170661215279,689.6227150644538,0.0,Autumn Gold,5,287.0079125129481,medium
+2014-P,1146,454.83414294034134,"Pennati, Federico",Marone,Other,Italy,Campionato dello Zuccone,952 Bartoli,Open,297.58351213459486,683.1746424170684,0.0,Spirit,5,206.03986675197464,light
+2015-P,1426,363.8522270162655,"Guin , Emilie",,Other,France,Le Potager Extraordinaire,,,0.0,0.0,0.0,Atlantic Giant,5,164.82505883836828,light
+2021-P,226,1479.001577302597,"Ondelli, Franco",Marone,Lombardy,Italy,Sfida Nazionale della Zucca - Club Maspiano,2416 SHAIST,2060.2 PATON,417.8069457489469,1407.6310084990716,7.28829632273984,Cinderella,5,669.9877145180765,heavy
+2015-P,1354,425.38940887375935,"Bauer, Doris",,Other,Austria,Austrian Weigh-off,1085 Wuersching 11,,0.0,0.0,0.0,Wolf,5,192.701402219813,light
+2018-P,DMG,1682.4167279906749,"Castelli, Carlo",,Other,Italy,Festa della zucca di sale,2043 clement,sibb,416.8774285779722,1452.301297168685,13.796345860290542,Jack O'Lantern,5,762.1347777797757,heavy
+2015-P,21,1758.840585828658,"Boschi, Valerio",Radda in Chianti,Tuscany,Italy,Campionato dello Zuccone,2096 Meier,2102 Meier,443.99161083687585,1670.9245448272338,8.28405866663006,Champion,5,796.7547853803821,heavy
+2020-P,1325,94.8136510919388,"Mati, Jacopo",Calcio,Lombardy,Italy,Sfida Nazionale della Zucca - Club Maspiano,Mix,Open,157.9984540810351,97.54933268983828,0.0,Champion,5,42.95058394464827,light
+2019-P,DMG,718.2614868619111,"Ondelli, Franco",Malonno,Lombardy,Italy,Sfida degli Zucconi della Brianza,"1761,5 Cutrupi",Self,312.0143404647157,641.1755543383753,10.95049766960026,Jack O'Lantern,5,325.3724535484457,medium
+2017-P,1116,450.0104975059142,"Blaimschain, Karl",Schiltern,Lower Austria,Austria,OO Landesgartenschau 2017 Kremsmunster,1714 Lueders,SIBB,0.0,0.0,0.0,Rouge Vif d’Etampes,5,203.85475537017913,light
+2020-P,467,997.3450561850428,"Asta, Carmelo",Malonno,Lombardy,Italy,Sfida Nazionale della Zucca - Club Maspiano,"2012,8 Salvagni",Self,366.39236053130367,1179.5337205749493,0.0,Champion,5,451.79731045182444,medium
+2018-P,1408,314.0726106327399,"Mereo, Egidio",,Lombardy,Italy,Sfida degli Zucconi della Brianza,,,229.7801920237205,271.322363231528,15.82197672676594,Casper,5,142.27489261663118,light
+2020-P,603,867.1300269345232,"Team, Bauhof Tulln",Ernstbrunn,Lower Austria,Austria,Austrian Weigh-off,1566 Zolotucha 19,,336.48810866832576,878.6909056975211,0.0,Autumn Gold,5,392.809902201339,medium
+2020-P,292,1208.6759799680174,"Kurzreiter, Lukas",,Lower Austria,Austria,Austrian Weigh-off,1542 Urena,1527 Melka,393.28024659622366,1358.7826004341891,0.0,Blue Hubbard,5,547.5302189255119,heavy
+2020-P,355,1287.532561330497,"Valeriani, Claudio",Poggiridenti,Lombardy,Italy,Sfida Nazionale della Zucca - Club Maspiano,1997 Boonen,1911 Urena,389.9527698737757,1234.076838979705,2.0482669061648657,Atlantic Giant,5,583.2522502827152,heavy
+2016-P,307,1364.19941611926,"Brandstetter, Hannes",Tulln,Lower Austria,Austria,Europameisterschaft im Kurbiswiegen,1585.5 Werner,1338 Martin,414.9931286833579,1500.4782719253262,0.0,Champion,5,617.9823355020247,heavy
+2021-P,426,1048.8398178931564,"Kurzreiter, Lukas",Neustift,Styria,Austria,Austrian Weigh-off,2095 Brandt 17,,338.35689224258124,973.2387328197004,12.770871823371868,Rouge Vif d’Etampes,5,475.1244375055998,heavy
+2017-P,514,1010.9708658958688,"Legena, Ivano",Foiano della Chiana,Tuscany,Italy,Campionato dello Zuccone,1333 Garofano,Open,378.59608581678793,969.859738890644,0.9652238875777668,Prizewinner,5,457.9698022508286,heavy
+2020-P,EXH,193.12063953479017,"Michele, Mori",Pontremoli,Tuscany,Italy,Pesa la Zucca! Foiano,,,191.76977441100473,,11.20097362197862,Howden,5,87.48364970925995,light
+2020-P,603,872.3232618098178,"Schieder, Christoph",,Lower Austria,Austria,Austrian Weigh-off,1566 Zolotucha 19,,321.6101308563318,875.7743539097966,0.0,Casper,5,395.16243759984746,medium
+2014-P,EXH,1458.4007278034874,"Barrella, Alessio",Pisa,Tuscany,Italy,Campionato dello Zuccone,1791 Holland,2009 Wallace,413.4853269066254,1620.8122126731132,0.0,Rouge Vif d’Etampes,5,660.6555296949798,heavy
+2018-P,998,684.2307560995005,"Jaglarz, Mario",Retz,Lower Austria,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Connecticut Field,5,309.95653251307374,medium
+2015-P,590,949.4473471705904,"Topini, Cinzia",,Other,Italy,Festa della zucca di sale,,,339.93708983294357,891.1057745193631,2.077071518523077,Big Moose,5,430.09964826827746,medium
+2013-P,1163,345.3288411876012,"Cristini, Team Attilio e Giacomo",Arezzo,Other,Italy,Pesa la Zucca! Foiano,,,244.9880963991001,317.91769992280365,2.97089450581584,Casper,5,156.43396505798336,light
+2016-P,1120,508.869233982837,"Bontempi, Emanuela",Arezzo,Other,Italy,Campionato dello Zuccone,,,,524.2196546290268,0.0,Wolf,5,230.51776299422517,medium
+2019-P,EXH,368.3702465068706,"Julien, Bernard",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,,,245.41924877707316,358.32646155260176,6.967270704792518,Atlantic Giant,5,166.8717216676124,light
+2019-P,1719,27.449438699709543,"Hoefler, Norbert",Berndorf,Lower Austria,Austria,Leiserberge Weigh-off,,,0.0,0.0,0.0,Prizewinner,5,12.434595730968423,light
+2018-P,EXH,673.5442024747642,"Grabmayer, Manfred",,Styria,Austria,Austrian Weigh-off,918 Schieder,2048 Willemijns,0.0,,0.0,Wolf,5,305.1155237210682,medium
+2015-P,683,986.8334162445544,"Mehdi, Daho",,Other,France,Le Potager Extraordinaire,1271 Werner 2013,,337.8825451214634,940.5547050916144,0.0,Spirit,5,447.0355375587832,medium
+2015-P,567,992.5063187152804,"Malentacchi, Claudio",,Other,Italy,Campionato dello Zuccone,1776 Deswert,1789 Wallace,361.3522917828095,1074.90547955,0.0,Atlantic Giant,5,449.60536237802205,medium
+2013-P,1299,230.31985371823168,"Parafioriti, Alfredo",S. Marco d'Alunzio,Other,Italy,Festa della zucca di sale,,,211.6812444711599,219.8195013263073,2.0083503026310985,Rouge Vif d’Etampes,5,104.33489373435896,light
+2017-P,1013,567.0959491000648,"Boschi, Valerio",Farigliano,Piedmont,Italy,Pesa la Zucca! Foiano,,,320.0631040009319,658.2515303480368,0.0,Howden,5,256.89446494232936,medium
+2019-P,603,841.0297776051942,"Tosoni, Matteo",Sale Marasino,Lombardy,Italy,Pesa la Zucca! Foiano,,,320.48353032518156,779.9063849286589,10.137749542289768,Dill's Atlantic,5,380.986489255153,medium
+2017-P,1157,432.4858048668558,"Guin , Emilie",,Other,France,Le Potager Extraordinaire,,,235.71643427382784,347.8044884069347,26.719815504456115,Atlantic Giant,5,195.91606960468567,light
+2018-P,1098,537.122482042898,"Stocchi, Bruno",Viarigi,Piedmont,Italy,Festa della zucca di sale,Mix,mix,298.79252026545214,529.0025734774113,0.0,Autumn Gold,5,243.3164843654328,medium
+2021-P,927,440.9310366830694,"Lacina, Martin",,Lower Austria,Austria,Leiserberge Weigh-off,2241 Van Geel 19,2020.5 Weisshaepl,269.42725229895456,467.5894370249415,0.0,Big Max,5,199.74175961743046,light
+2013-P,1269,235.6106107878327,"Melka, Friedrich",,Other,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Jack O'Lantern,5,106.73160668688823,light
+2020-P,828,574.3609429316541,"Burgsteiner, Helmut",,Upper Austria,Austria,Austrian Weigh-off,1806 Sperry,,294.04253293815316,613.9374863437577,0.0,Spirit,5,260.18550714803933,medium
+2020-P,EXH,399.46887433786753,"Giustarini, Vinicio",Radda in Chianti,Tuscany,Italy,Pesa la Zucca! Foiano,,,248.65592706574887,392.60058250863307,0.0,Early Giant,5,180.959400075054,light
+2017-P,533,921.4507973977812,"Joebstl, Horst",Kremsmuenster,Upper Austria,Austria,OO Landesgartenschau 2017 Kremsmunster,,,0.0,0.0,0.0,Dill's Atlantic,5,417.4172112211949,medium
+2014-P,992,616.2421604398281,"Pacary, Sylvain",,Other,France,Le Potager Extraordinaire,1313 Metsa,,301.80354329505525,629.0051591489095,0.0,Wolf,5,279.1576986792422,medium
+2016-P,848,817.4626835432431,"Petriccio,",Niella Belbo,Piedmont,Italy,Pesa la Zucca! Foiano,,,392.55102733826305,1404.5655005736285,0.0,Prizewinner,5,370.3105956450891,medium
+2016-P,513,1015.0386291393644,"Fourmy, Laurent",,Other,France,Le Potager Extraordinaire,1625 Gantner,Self,320.9558389611969,747.6324497859961,25.87945771539914,Rouge Vif d’Etampes,5,459.8124990001321,heavy
+2016-P,EXH,104.5959655968942,"Tom, Brault",,Other,France,Le Potager Extraordinaire,,,0.0,0.0,0.0,Jack O'Lantern,5,47.38197241539307,light
+2014-P,1333,382.4773181520012,"Gauchet, Jean Pierre",,Other,France,Le Potager Extraordinaire,,,269.8131464943205,469.5221995393272,0.0,Cinderella,5,173.26222512285656,light
+2018-P,EXH,586.7673095184691,"Rosati, Loris",Foiano della Chiana,Tuscany,Italy,Campionato dello Zuccone,,,278.3185838388059,650.9535921641747,0.0,Casper,5,265.8055912118665,medium
+2021-P,262,1361.605533741698,"Aininger, Marco",Tulln,Lower Austria,Austria,Leiserberge Weigh-off,1911 Urena,,394.13208265514,1349.4627789535186,1.9703200707419792,Big Moose,5,616.8073067849892,heavy
+2013-P,784,564.0040505697851,"Jaglarz, Mario",Langenlois,Other,Austria,Austrian Weigh-off,930 Mathias 11,934 Schieder 11,289.97806324693016,,0.0,Wolf,5,255.49383490811266,medium
+2021-P,1110,269.31045543705477,"Puchner, Thomas",Tulln,Lower Austria,Austria,Leiserberge Weigh-off,1225 Kurzreiter,,252.7504330557718,382.46624234298986,0.0,Atlantic Giant,5,121.99763631298582,light
+2017-P,260,1291.5449413547017,"Barreca, Alessandro",Foiano della Chiana,Tuscany,Italy,Sfida degli Zucconi della Brianza,1975 Wallace,1625 Gantner,386.99207766478565,1157.5044047788972,13.119494334507456,Rouge Vif d’Etampes,5,585.0698584336799,heavy
+2019-P,1076,442.69071540195785,"Andreoli, Gianfranco",Foiano della Chiana,Tuscany,Italy,Pesa la Zucca! Foiano,,,273.25830389118175,539.7424427977535,0.0,Champion,5,200.53889407708692,light
+2019-P,1437,230.88493849698108,"Lizzi, Denis",,Lombardy,Italy,Sfida degli Zucconi della Brianza,1685 Larue,Self,209.9828625837129,227.81964040896236,3.880996503987888,Cinderella,5,104.59087713913243,light
+2020-P,453,1079.121397204765,"Aininger, Gerald",Wien,Vienna,Austria,Tharinger Meisterschaft,1606 Mogas,1527 Melka,353.98748438158543,1058.542911639992,0.0,Big Moose,5,488.8419929337585,heavy
+2013-P,1428,143.35557435213138,"Grabmayer, Manfred",Doerfles,Lower Austria,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Connecticut Field,5,64.94007518151552,light
+2013-P,EXH,498.78624580540173,"Schoffnegger, Armin",Pamhagen,Other,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Howden,5,225.950169349847,light
+2019-P,DMG,666.437761761,"Klein, Hubert",,Lower Austria,Austria,Gartenbauschule Langenlois,1311.1 Matthias,sibb,353.947902077147,810.0896173618119,0.0,Big Max,5,301.896306077733,medium
+2017-P,907,663.884522524014,"Castelli, Carlo",Niardo,Lombardy,Italy,Sfida degli Zucconi della Brianza,1636 Deletas,self,308.4579078632269,600.4027841345029,0.9797952403264708,Jack O'Lantern,5,300.7396887033783,medium
+2018-P,1320,372.5302173807638,"Mehdi, Daho",,Other,France,Le Potager Extraordinaire,,,234.22297363656347,332.14010161868777,18.95439572337804,Cinderella,5,168.75618847348602,light
+2015-P,995,653.1217640929876,"Giustarini, Vinicio",,Other,Italy,Campionato dello Zuccone,1488 Cutrupi est-dmg,Open,306.67951400425545,654.0810455662019,7.740242285478391,Blue Hubbard,5,295.8641591341234,medium
+2013-P,829,501.7822763330014,"Melka, Friedrich",,Other,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Jack O'Lantern,5,227.30737117884965,medium
+2015-P,1173,543.5042493490326,"Melka, Friedrich",Riederberg,Lower Austria,Austria,Austrian Weigh-off,"1395,5 Lueders 14",self,282.4458525006774,610.4139091152147,0.0,Autumn Gold,5,246.2074249551118,medium
+2016-P,1218,431.99950674056504,"JZB, Rupert Reischer",,Lower Austria,Austria,Austrian Weigh-off,1861.8 Cutrupi,,0.0,0.0,0.0,Big Max,5,195.69577655347598,light
+2019-P,783,703.9076829785996,"LFS Tulln, Team",Riederberg,Lower Austria,Austria,Gartenbauschule Langenlois,1379.6 Matthias,self,318.2050475072991,692.916004140586,0.0,Dill's Atlantic,5,318.87018038930563,medium
+2018-P,726,873.3741527532759,"Suardi, Alberto",Foiano della Chiana,Tuscany,Italy,Campionato dello Zuccone,,,294.18428461028213,755.040795498648,15.445629137869302,Wolf,5,395.638491197234,medium
+2019-P,1527,167.02479990421818,"Gervasoni, Marta",Farigliano,Piedmont,Italy,Pesa la Zucca! Foiano,,,188.67513333665647,160.58268795238843,0.0,Rouge Vif d’Etampes,5,75.66223435661084,light
+2019-P,843,635.7233117961104,"Guin, Pascal",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,,,284.66319264179964,601.1911410933981,6.86100847743448,Big Max,5,287.982660243638,medium
+2018-P,1206,462.2002706391104,"Eichinger, Thomas",,Lower Austria,Austria,Austrian Weigh-off,2269 Paton,1784 Stels,266.2151350901498,508.20920086716416,0.0,Autumn Gold,5,209.37672259951702,light
+2018-P,850,753.8805405778452,"Berthelot, Herve",,Other,France,Le Potager Extraordinaire,,,307.89681736417083,739.283721716525,0.9581397149791596,Casper,5,341.50788488176386,medium
+2018-P,EXH,192.60818669168003,"Felappi, Lorenzo",Radda in Chianti,Tuscany,Italy,Pesa la Zucca! Foiano,,,184.77073808131493,179.56771593967204,8.853089597850603,Blue Hubbard,5,87.25150857133106,light
+2015-P,1358,396.6584180246441,Team Petrelli,,Other,Italy,Festa della zucca di sale,,,0.0,0.0,0.0,Rouge Vif d’Etampes,5,179.6862633651638,light
+2016-P,1123,491.3447070526736,"Hoefler, Norbert",Gols,Burgenland,Austria,Austrian Weigh-off,Wallace,,290.1412925147167,590.392168556991,0.0,Casper,5,222.57915229486113,light
+2018-P,129,1562.7317001749498,"Zucchelli, Michael",S.Marco d'Alunzio,Other,Italy,Festa della zucca di sale,2043.5 clements,sibb,417.35254707790386,1406.880810082616,7.384557872392563,Autumn Gold,5,707.9174601792523,heavy
+2018-P,223,1430.3685216350427,"Zecchini, Fernando",Goito,Lombardy,Italy,Sfida degli Zucconi della Brianza,1928 Daletas,1810 Werner,406.49911034231656,1425.469093998209,0.973569529190676,Autumn Gold,5,647.9569403006743,heavy
+2021-P,570,910.1266575048098,"Romboli, Massimo",Sanpancrazio,Lombardy,Italy,Sfida degli Zucconi della Brianza,2416 Haist,2183 Mendi,344.0309486780491,805.3156862728167,12.16740223989566,Autumn Gold,5,412.2873758496789,medium
+2019-P,783,716.6360443961877,"Haindl, Werner",Tulln,Lower Austria,Austria,Gartenbauschule Langenlois,1379.6 Matthias,self,313.8896559786961,734.2374285584498,,Early Giant,5,324.63612811147306,medium
+2020-P,1376,48.59689882197966,"Derouin, Jean Claude",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,,,0.0,,0.0,Cinderella,5,22.014395166356785,light
+2020-P,869,599.338938286031,"Derouin, Jean Claude",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,,,332.91170672024685,710.2012005882154,0.0,Early Giant,5,271.500539043572,medium
+2015-P,1477,310.78133538603015,"Vendepane, Giulio",Siena,Other,Italy,Campionato dello Zuccone,1254 Bartoli,Open,248.60752913255436,327.64561016155005,0.0,Howden,5,140.78394492987167,light
+2017-P,554,929.1776977053444,"Zeller, Christoph",Riederberg,Lower Austria,Austria,Europameisterschaft im Kurbiswiegen,2095 Willejmins,1726 Cutrupi,336.56281630723953,970.7417586441632,0.0,Jack O'Lantern,5,420.917497060521,medium
+2017-P,514,1003.7586301433852,"Jaglarz, Mario",Tulln,Lower Austria,Austria,Austrian Weigh-off,Gehweiler 16,Cutrupi 16,377.2505042848701,1188.891950159233,0.0,Autumn Gold,5,454.7026594549535,heavy
+2016-P,1130,501.6404720117415,"Zanotti, Walter",Montepulciano,Tuscany,Italy,Campionato dello Zuccone,,,278.90593229818757,535.3033172444586,0.0,Champion,5,227.2431338213189,medium
+2014-P,EXH,552.5690679241086,"Kittenberger, Christian und Dominik",Retz,Lower Austria,Austria,Austrian Weigh-off,1874.5 Mathison,,,675.0185588156926,0.0,Big Max,5,250.3137877696212,medium
+2019-P,1060,436.3444128638237,"Team, Gemeinde Tulln",Tulln,Lower Austria,Austria,Leiserberge Weigh-off,1211 Ailts,1297.5 Young,259.4863919152837,483.58800556153665,0.0,Dill's Atlantic,5,197.66401902731215,light
+2016-P,814,750.2997848473364,"Bertone, Andrea",,Lombardy,Italy,Festa della zucca di sale,,,341.88077737356514,700.6100220461624,3.030230314925671,Atlantic Giant,5,339.88580253584337,medium
+2017-P,635,915.2624582588944,"Aininger, Gerald",Riederberg,Lower Austria,Austria,Austrian Weigh-off,Willemijns,Cutrupi,360.0782741726125,976.9919677774976,0.0,Jack O'Lantern,5,414.6138935912792,medium
+2016-P,1295,381.8261613574295,"Tom, Berthelot",,Other,France,Le Potager Extraordinaire,,,0.0,0.0,0.0,Rouge Vif d’Etampes,5,172.96725109491558,light
+2018-P,941,663.6499219780839,"Puchner, Thomas",St. Margarethen,Carinthia,Austria,Austrian Weigh-off,368 Joebstl,1415 Melka,0.0,0.0,0.0,Rouge Vif d’Etampes,5,300.633414656072,medium
+2019-P,1674,63.80724397774643,"Jaglarz, Mario",Ernstbrunn,Lower Austria,Austria,Leiserberge Weigh-off,,,0.0,0.0,0.0,Early Giant,5,28.904681521919134,light
+2013-P,861,513.0528942409677,"Malentacchi, Claudio",Novellara,Other,Italy,Festa della zucca di sale,,,280.0465894531687,551.5091605732166,0.0,Cinderella,5,232.41296109115837,medium
+2018-P,EXH,967.7995041267476,"Schieder, Christoph",,Lower Austria,Austria,Austrian Weigh-off,2269 Paton,open,0.0,0.0,0.0,Jack O'Lantern,5,438.41317536941665,medium
+2019-P,561,921.0052470550676,"Daho, Mehdi",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,1694 HOELKE,,337.9717249152848,921.57197368317,3.108805644633792,Early Giant,5,417.2153769159456,medium
+2013-P,1512,64.24735360484516,"Giornale di Brescia, Francesco e Flavio",Radda in Chianti,Tuscany,Italy,Campionato dello Zuccone,899 Cutrupi,Open,0.0,,0.0,Howden,5,29.10405118299486,light
+2013-P,EXH,166.58575210615905,"Deri , Giacomo",Grosseto,Other,Italy,Campionato dello Zuccone,899 Cutrupi,Open,0.0,0.0,0.0,Big Moose,5,75.46334570409005,light
+2019-P,700,816.6001205173554,"Team F.lli, Mori e Guagnetti",Foiano della Chiana,Tuscany,Italy,Campionato dello Zuccone,2012 Salvagni,Self,331.23435301386775,882.9767524160766,0.0,Dill's Atlantic,5,369.91985459436205,medium
+2015-P,473,1109.5252379479905,"Ferraris, Giustino",Pontoglio,Lombardy,Italy,Festa della zucca di sale,,,346.48766685517364,1042.779421883764,11.123918120525897,Prizewinner,5,502.6149327904397,heavy
+2014-P,995,556.3383425451523,"Langenlois, Gartenbauschule",Pamhagen,Burgenland,Austria,Austrian Weigh-off,,,272.1016371532367,564.3224317930584,4.886215956504945,Champion,5,252.021269172954,medium
+2015-P,1645,180.4745186713494,"Loris, Rosati",Lamporecchio,Tuscany,Italy,Campionato dello Zuccone,1254 Bartoli,Open,202.96629503956177,199.76950216842965,0.0,Wolf,5,81.75495695812127,light
+2017-P,736,862.3711851801619,"Andrea, Gervasoni",Novellara,Emilia-Romagna,Italy,Festa della zucca di sale,1684 Willemjns,1944 Connoly,352.8432725967243,836.9426334676209,0.0,Jack O'Lantern,5,390.6541468866133,medium
+2015-P,1173,505.3612836805104,"Riegebauer, Thomas",Riederberg,Lower Austria,Austria,Austrian Weigh-off,"1395,5 Lueders 14",self,306.4178923019992,602.7544785865239,0.0,Casper,5,228.92866150727122,medium
+2017-P,1289,329.7178144855492,"Fabrice, Boudyo",,Other,France,Le Potager Extraordinaire,,,221.76214640714988,293.01952830339826,19.291339906910512,Early Giant,5,149.36216996195378,light
+2015-P,1755,73.61132838073681,"Nittnaus, Wolfgang",,Other,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Howden,5,33.345931756473774,light
+2013-P,1142,357.33679238069504,"Mori, Fratelli",Lumezzane,Other,Italy,Pesa la Zucca! Foiano,,,244.2507471073682,360.70530429332,1.0454945326702874,Blue Hubbard,5,161.87356694845485,light
+2016-P,401,1055.3891932293568,"Pfoser, Thomas",Haag am Hausruck,Upper Austria,Austria,Austrian Weigh-off,1448 Lovse,self,380.5753471321073,1157.5363272965678,0.0,Prizewinner,5,478.0913045328987,heavy
+2017-P,521,1009.2315794421828,"Raduazzo, Leonardo",Castello Brianza,Lombardy,Italy,Festa della zucca di sale,1623.5 Wallace,1969 Haist,374.2236076269962,1063.7112915456644,0.0,Early Giant,5,457.1819054873088,heavy
+2018-P,1651,117.23945200150392,"Micheli, Paolo",Semproniano,Tuscany,Italy,Pesa la Zucca! Foiano,,,178.56037057425053,136.49095065868707,0.0,Champion,5,53.10947175668128,light
+2020-P,1286,133.33337353014147,"Filippi, Giada",Castiglion Fiorentino,Tuscany,Italy,Pesa la Zucca! Foiano,,,167.79787426619686,132.9302460940041,1.009362572327226,Big Moose,5,60.40001820915409,light
+2021-P,924,480.65466623592494,"Aininger, Gerald",Baerndorf,Lower Austria,Austria,Austrian Weigh-off,1752 Willemijns,,,590.970962982844,0.0,Dill's Atlantic,5,217.736563804874,light
+2016-P,DMG,1019.3436154623366,"Rodler, Bernd",Wien,Vienna,Austria,Austrian Weigh-off,1840 Ghaye,,383.5983857707383,1031.3097414642568,0.0,Jack O'Lantern,5,461.7626578044385,heavy
+2015-P,1470,325.6506188080589,"Spreafico, Luca",,Other,Italy,Pesa la Zucca! Foiano,,,255.94197375653135,343.40537387147094,0.0,Prizewinner,5,147.51973032005068,light
+2019-P,654,794.2861821157561,"Guin, Pascal",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,,,354.53693840065745,974.6645633245164,0.0,Blue Hubbard,5,359.81164049843755,medium
+2020-P,1106,326.3440019994283,"Bartoli, Ivan",Malonno,Lombardy,Italy,Sfida Nazionale della Zucca - Club Maspiano,1137 Salvagni 2019,Auto,269.90872969279246,467.7352900570093,0.0,Wolf,5,147.83383290574102,light
+2013-P,969,433.78112475318625,"Scarselli, Giancarlo",Siena,Other,Italy,Festa della zucca di sale,,,241.5191012112616,400.1327528499381,8.038503651401477,Dill's Atlantic,5,196.50284951319338,light
+2013-P,1056,396.4968957191865,"Thumfort, Mark",Langenlois,Other,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Big Moose,5,179.6130937607915,light
+2017-P,433,1182.008264568772,"Bauhof Tulln, Team",Wien,Vienna,Austria,OO Landesgartenschau 2017 Kremsmunster,1682 Lueders 16,2095 Willemijns 16,0.0,0.0,0.0,Prizewinner,5,535.4497438496537,heavy
+2020-P,499,971.8358635083302,"Petrelli, Francesco",Caiazzo,Campania,Italy,Campionato dello Zuccone,1795.5 McCracken,Self,352.3026054940891,942.4270617901194,5.066228206590905,Connecticut Field,5,440.2416461692736,medium
+2013-P,260,1180.408199659861,"Vendepane, Giulio",,Other,Italy,Campionato dello Zuccone,1680 Tanner,Open,380.6207199619592,1115.16994365591,1.994434268830511,Casper,5,534.7249144459171,heavy
+2016-P,1648,32.80963203012439,"Rigler, Michael",Tulln,Lower Austria,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Big Moose,5,14.862763309646349,light
+2019-P,591,958.5540460054928,"Ondelli, Franco",Foiano della Chiana,Tuscany,Italy,Campionato dello Zuccone,2012 Salvagni,Open,346.52957779681543,1083.6063599541071,0.0,Howden,5,434.2249828404882,medium
+2014-P,1673,101.7354080695514,"Kurzreiter, Lukas",,Other,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Cinderella,5,46.08613985550679,light
+2014-P,930,634.2246341498211,"Cutrupi, Stefano",,Other,Italy,Festa della zucca di sale,,,322.404296126007,718.4988828230954,0.0,Connecticut Field,5,287.303759269869,medium
+2014-P,1626,143.07941562681822,"Dorner, Martin",Ullrichskirchen,Other,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Rouge Vif d’Etampes,5,64.81497527894865,light
+2020-P,274,1243.046116858099,"Spreafico, Luca",Vimercate,Lombardy,Italy,Sfida degli Zucconi della Brianza,"1989,5 DALETAS",self,383.8379024137555,1278.2609491660637,0.0,Blue Hubbard,5,563.0998909367188,heavy
+2019-P,1000,474.4321109447282,"Eder, Reinhard",Retz,Lower Austria,Austria,Austrian Weigh-off,Grabmayer,,291.9900836068837,596.1730068613319,0.0,Big Moose,5,214.91774625796188,light
+2015-P,1325,425.5166943335237,"Giustarini, Vinicio",Castelfiorentino,Tuscany,Italy,Campionato dello Zuccone,,,257.70813768777055,417.2883794116457,5.066025376488703,Connecticut Field,5,192.75906253308622,light
+2020-P,1220,212.38347751586724,"Tosoni, Matteo",Malonno,Lombardy,Italy,Sfida degli Zucconi della Brianza,"1997,4 BOONEN HERMAN",self,211.61580595089777,207.7170068057474,1.962185910706006,Early Giant,5,96.20971531468787,light
+2016-P,EXH,724.3497352238555,"Boeck, Alexander",Wien,Vienna,Austria,Austrian Weigh-off,1714 Lueders,,349.41801502359465,719.4499294633861,1.019380902967189,Jack O'Lantern,5,328.13043005640657,medium
+2021-P,1094,293.5309496464337,"Kloch, Kevin",,Lower Austria,Austria,Leiserberge Weigh-off,1536.6 Boonen,self,235.4882498010907,349.640781002066,0.0,Rouge Vif d’Etampes,5,132.96952018983447,light
+2014-P,452,993.9837700253028,"Ferraris, Giustino",Grosseto,Other,Italy,Campionato dello Zuccone,1490 Cutrupi,Open,350.4978302108449,1003.8556742456552,3.936161011485665,Spirit,5,450.27464782146217,medium
+2019-P,EXH,1038.619224386015,"Tarcisio, Buffoli",Semproniano,Tuscany,Italy,Pesa la Zucca! Foiano,,,323.422126377784,745.7747678107681,36.2239069993809,Spirit,5,470.49450864686486,heavy
+2013-P,1155,310.5396526704666,"Zucchelli, Michael",,Other,Italy,Campionato dello Zuccone,1278 Bartoli,Open,0.0,0.0,0.0,Rouge Vif d’Etampes,5,140.67446265972137,light
+2019-P,1533,171.26038012415842,"Schoys, Josef",Eggendorf,Lower Austria,Austria,Gartenbauschule Langenlois,1311.1 Matthias,sibb,236.16431735260812,263.72457161903714,0.0,Atlantic Giant,5,77.58095219624377,light
+2018-P,584,917.0032562137754,"Grabmayer, Manfred",Riederberg,Lower Austria,Austria,Europameisterschaft im Kurbiswiegen,1844 Holub,1807 Holub,351.61011264335235,1027.916349196459,0.0,Big Moose,5,415.4024750648403,medium
+2013-P,1106,341.3038890390339,"Lizzi, Denis",,Other,Italy,Festa della zucca di sale,,,243.1627873080105,296.7889865283416,8.90554251470134,Connecticut Field,5,154.61066173468237,light
+2017-P,1483,177.42503527951138,"Cutrupi, Stefano",Casatenovo,Lombardy,Italy,Festa della zucca di sale,unknow,unknow,197.27904467881828,154.5850121368902,12.440787763376594,Big Moose,5,80.37354098161866,light
+2020-P,499,1033.3290547391482,"Marroni, Daiana",Caiazzo,Campania,Italy,Campionato dello Zuccone,1795.5 McCracken,Self,332.5959988747807,903.9944096341084,5.085506862326391,Casper,5,468.09806179683414,heavy
+2013-P,1436,132.4088653477159,"Salvagni, Augusto",Grosseto,Other,Italy,Pesa la Zucca! Foiano,,,177.86802315661333,127.42908178803496,,Atlantic Giant,5,59.9812160025153,light
+2021-P,154,1447.6208309729775,"Morucci, Davide",Garlate,Lombardy,Italy,Sfida degli Zucconi della Brianza,2158 Paton,2158 Paton,405.2203382358019,1442.3896544187658,6.126062361288742,Big Moose,5,655.7722364307589,heavy
+2013-P,1386,166.2673758686876,"Pascal, Guin",,Other,France,Le Potager Extraordinaire,Caillard,,191.3295230604524,173.44574988998326,0.0,Blue Hubbard,5,75.31912126851549,light
+2013-P,976,464.70744610528607,"Chiatti, Carla",Cologne,Other,Italy,Pesa la Zucca! Foiano,,,259.50907903189545,397.2631083245261,14.268477779922696,Prizewinner,5,210.5124730856946,light
+2019-P,1076,466.4024980669571,"Ricci, Giulio and Francesco",Foiano della Chiana,Tuscany,Italy,Pesa la Zucca! Foiano,,,285.8351364061452,521.2306501872634,0.0,Blue Hubbard,5,211.28033162433158,light
+2014-P,1333,408.83208642536846,"Francois, Denis",,Other,France,Le Potager Extraordinaire,,,281.4005596508958,489.5418847659076,0.0,Wolf,5,185.20093515069192,light
+2019-P,1018,498.04635293818865,"Melka, Friedrich",TUlln,Lower Austria,Austria,Austrian Weigh-off,Matthias 18,,293.6983033464783,609.9964231229399,0.0,Autumn Gold,5,225.61499788099945,light
+2014-P,1051,566.5494983086029,"Cutrupi, Stefano",Arezzo,Other,Italy,Pesa la Zucca! Foiano,,,308.5212262707302,622.430757349948,0.0,Big Max,5,256.6469227337971,medium
+2020-P,262,1370.572921834948,"Unger, Michael",,Lower Austria,Austria,Austrian Weigh-off,2226 Boonen DMG,2016 Boonen,400.2934276879388,1452.8596623734857,0.0,Autumn Gold,5,620.8695335912314,heavy
+2013-P,1512,63.52342441803977,"Tinteri, Giovanni",Semproniano,Tuscany,Italy,Campionato dello Zuccone,899 Cutrupi,Open,0.0,0.0,0.0,Connecticut Field,5,28.776111261372016,light
+2013-P,212,1262.8339284630815,"TEAM, Biorasen",Pamhagen,Other,Austria,Austrian Weigh-off,,self,386.5594572395559,1154.155924530245,0.0,Early Giant,5,572.063769593776,heavy
+2019-P,1359,266.55822739046835,"Melka, Friedrich",Tulln,Lower Austria,Austria,Gartenbauschule Langenlois,Blaimschein 2017,,232.729255351465,271.852342745751,0.0,Rouge Vif d’Etampes,5,120.75087700788217,light
+2018-P,691,929.9638752251298,"Boeck, Alexander",Nonndorf,Lower Austria,Austria,Europameisterschaft im Kurbiswiegen,2269 Paton,2145 McMullen,,955.1557663397008,0.0,Autumn Gold,5,421.27363547698377,medium
+2015-P,EXH,413.0060149326069,"Alessio, Gobbi",Capri,Campania,Italy,Campionato dello Zuccone,1692 McMullen,Self,0.0,0.0,0.0,Prizewinner,5,187.09172476447094,light
+2021-P,EXH,692.848876861099,"Asta, Carmelo",Cremnago di Inverigo,Lombardy,Italy,Sfida degli Zucconi della Brianza,1143 Hoecke '16,Self,307.70646401454934,676.4414407851897,6.804207617616923,Atlantic Giant,5,313.86054121807786,medium
+2018-P,1221,472.5766533872357,"Joebstl, Horst",Wien,Vienna,Austria,Tharinger Meisterschaft,1100 Kristensen,1916 Barron,285.517678903109,437.1139999021648,0.0,Connecticut Field,5,214.07722398441777,light
+2016-P,1121,537.9153302809253,"Gartenbauschule Langenlois, Team Schaugarten",Riederberg,Lower Austria,Austria,Austrian Weigh-off,"664,9 Jaglarz",self,291.9047736865602,579.3599986767834,0.0,Big Max,5,243.6756446172592,medium
+2015-P,1223,511.67495031638447,"Nardi, Enzo",Artogne,Other,Italy,Campionato dello Zuccone,,2102 Meier,286.82947066608205,557.9174464442522,0.0,Atlantic Giant,5,231.78875249332216,medium
+2020-P,619,860.8564775142339,"Bartoli, Gabriele e Sauro",Foiano della Chiana,Tuscany,Italy,Pesa la Zucca! Foiano,,,336.13145922647107,800.2912067194098,6.949451646097611,Prizewinner,5,389.96798431394797,medium
+2019-P,50,1901.004104367419,"Marroni, Daiana",Terricciola,Tuscany,Italy,Campionato dello Zuccone,1911 Urena,2096 Meier,464.4666330347714,1827.1072583755663,0.0,Atlantic Giant,5,861.1548592784408,heavy
+2021-P,307,1368.1124909884984,"Valentini, Berenice",Novellara,Emilia-Romagna,Italy,Campionato dello Zuccone,2294 Noel,Self,394.7715971348365,1275.8106580889405,3.993278681840511,Early Giant,5,619.7549584177898,heavy
+2013-P,1434,132.316295951854,"Falconcini, Sirio",Novellara,Other,Italy,Festa della zucca di sale,557 Danesi,557 Danesi,176.04225761916388,130.31033627638757,2.945932407809414,Big Max,5,59.93928206618986,light
+2017-P,1070,518.2863067531829,"Filliaudeau, Laurent",,Other,France,Le Potager Extraordinaire,691 Ludwig,,287.004211411243,493.8021410947045,1.996828202441505,Dill's Atlantic,5,234.78369695919184,medium
+2013-P,1163,358.9780208995964,"Nardi, Enzo",Foiano della Chiana,Other,Italy,Pesa la Zucca! Foiano,,,253.38142649160528,342.64050528261345,3.1685650634001177,Rouge Vif d’Etampes,5,162.61704346751716,light
+2019-P,936,571.3057645559065,"Wischer, Andreas",Kleinhadersdorf,Lower Austria,Austria,Leiserberge Weigh-off,,,0.0,0.0,0.0,Connecticut Field,5,258.80151134382567,medium
+2013-P,914,467.2000873935682,"Meslier, Robert",,Other,France,Le Potager Extraordinaire,1498 Werner,,277.72223063648875,539.0201739280236,0.0,Howden,5,211.6416395892864,light
+2021-P,949,424.0580220564932,"Kinast, Berhard",Tulln,Lower Austria,Austria,Leiserberge Weigh-off,1225.8 Kurzreiter 2020,sibb,293.4806243103333,516.5677533235968,0.0,Big Max,5,192.09828399159142,light
+2018-P,EXH,453.8655105418408,"Vulic, Luka",Retz,Lower Austria,Austria,Austrian Weigh-off,2004 Vanderwielen 16,1871 Cutrupi 17,284.75090938254914,541.8112291717596,0.0,Cinderella,5,205.6010762754539,light
+2019-P,1287,307.3183688944505,"Melka, Friedrich",Gross Gerungs,Lower Austria,Austria,Gartenbauschule Langenlois,1080.9 Melka,,231.13606715812332,328.2730239672532,0.0,Cinderella,5,139.21522110918607,light
+2015-P,678,905.3398988576504,"Topini, Giuseppe",Arezzo,Other,Italy,Festa della zucca di sale,,,345.0342986334383,964.7477722287304,0.0,Big Max,5,410.1189741825156,medium
+2013-P,1198,282.28763880636626,"Valeriani, Claudio",,Other,Italy,Pesa la Zucca! Foiano,,,236.17238666532927,301.41533911206056,2.979493926842104,Cinderella,5,127.87630037928392,light
+2019-P,537,1015.2492922849672,"Bonanomi, Vittorio",Calcio,Lombardy,Italy,Sfida degli Zucconi della Brianza,2012 Salvagni,1810 Werner,351.5749656899783,1072.2162068545754,0.0,Early Giant,5,459.90792940509016,heavy
+2019-P,1649,84.43360027896297,"Team, Jugendzentrum Berndorf",,Lower Austria,Austria,Leiserberge Weigh-off,,,0.0,0.0,0.0,Prizewinner,5,38.24842092637023,light
+2015-P,1703,121.797226681549,"Benedikt, Gottfried",,Other,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Casper,5,55.1741436867417,light
+2019-P,566,929.663786497676,"Marcelle , Daho",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,PATON 2034,,364.79089248650655,1085.6592628084934,0.0,Champion,5,421.1376952834473,medium
+2017-P,EXH,414.59136537951554,"Cutrupi, Stefano",Pontedera,Tuscany,Italy,Campionato dello Zuccone,,,273.52955741023186,434.0567913140933,0.0,Prizewinner,5,187.80988851692055,light
+2021-P,211,1510.305068976724,"Rainer, Michael",Ernstbrunn,Lower Austria,Austria,Retzer Land Weigh-off,1911 Urena 17,2226.7 DMG BoonenHerman 18,417.28058564034814,1499.657994732906,0.0,Autumn Gold,5,684.168196246456,heavy
+2013-P,703,695.8305906518968,"Tom, Brault",,Other,France,Le Potager Extraordinaire,1680 Tanner,,351.99252173890403,913.6121208055828,0.0,Rouge Vif d’Etampes,5,315.21125756530927,medium
+2018-P,1419,348.2319822814975,"Tschida, Josef",Pruggern,Styria,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Connecticut Field,5,157.74908797351836,light
+2019-P,622,897.4534956629583,"Die Garten Tulln, Team",St. Marien,Upper Austria,Austria,Leiserberge Weigh-off,1807 Holub,877 Hunt,361.2657850997655,974.5316868104528,0.0,Jack O'Lantern,5,406.5464335353201,medium
+2013-P,960,476.4057875826083,"Melka, Friedrich",,Other,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Casper,5,215.81182177492155,light
+2016-P,EXH,756.1268836802312,"Fellner, Herbert",Wien,Vienna,Austria,Austrian Weigh-off,1714 Lueders,,325.71097910882594,740.6399092752874,0.9827609267365548,Autumn Gold,5,342.52547830714474,medium
+2020-P,873,560.9855976932105,"Aininger, Gerald",,Styria,Austria,Austrian Weigh-off,Melka,,288.3509239317964,547.9236874005929,4.157858427311792,Connecticut Field,5,254.12647575502436,medium
+2015-P,1721,116.97201686254292,"Martina, Belingheri",Cologne,Other,Italy,Festa della zucca di sale,,,0.0,0.0,0.0,Atlantic Giant,5,52.98832363873194,light
+2020-P,1011,404.71081515786176,"Rodler, Rita",,Lower Austria,Austria,Leiserberge Weigh-off,1279 Clementz,,254.56921267397615,440.5744966780445,0.0,Jack O'Lantern,5,183.33399926651137,light
+2019-P,603,866.4534563668647,"ivan, bartoli",Calcio,Lombardy,Italy,Pesa la Zucca! Foiano,,,337.0496713809534,775.3673423055644,10.397671095590956,Connecticut Field,5,392.50341573418973,medium
+2016-P,371,1256.7192672170088,"Dusan, Giorgio",Caiazzo,Campania,Italy,Campionato dello Zuccone,1861 Cutrupi,1985 Miller,381.9314985253485,1102.0861366824704,7.003833551303446,Dill's Atlantic,5,569.293828049305,heavy
+2014-P,1290,405.57663688131606,"Melka, Friedrich",,Other,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Wolf,5,183.7262165072362,light
+2013-P,603,715.0363778076332,"Gartenschau, DIE GARTEN TULLN",St. Michael,Carinthia,Austria,Austrian Weigh-off,,,318.5851458168556,873.1427862464132,0.0,Rouge Vif d’Etampes,5,323.91147914685786,medium
+2013-P,212,1224.4054485136398,"Benedikt, Maria",,Other,Austria,Austrian Weigh-off,934 Schieder 11,self,381.48043984600406,1249.0605530403907,0.0,Jack O'Lantern,5,554.6556681766789,heavy
+2017-P,640,888.0641792511141,"Berthelot, Tom",,Other,France,Le Potager Extraordinaire,,,0.0,0.0,0.0,Rouge Vif d’Etampes,5,402.2930732007547,medium
+2013-P,576,760.9539631223054,"Kloch, Kevin",Tulln,Lower Austria,Austria,Austrian Weigh-off,780 DIEGARTENTULLN 12,934 Schieder 11,315.88873342298024,795.3306438033175,0.0,Big Moose,5,344.71214529440437,medium
+2020-P,1077,392.2614010668906,"Boeck, Alexander",Kreutstetten,Lower Austria,Austria,Leiserberge Weigh-off,,,0.0,0.0,0.0,Champion,5,177.69441468330143,light
+2015-P,590,988.8011536426806,"Biondi, Carlo",Marone,Other,Italy,Festa della zucca di sale,,,360.3402865144101,975.5498180518484,2.0743112244999784,Dill's Atlantic,5,447.92692260013433,medium
+2013-P,1477,99.27527373156268,"Agnelli, Chiara",,Other,Italy,Pesa la Zucca! Foiano,,,167.837008573917,122.81775080819985,0.0,Wolf,5,44.97169900039789,light
+2014-P,933,684.6575830635744,"Grabmayer, Manfred",,Lower Austria,Austria,Austrian Weigh-off,2032 Mathison,open,328.38749354111303,741.2297100329188,0.0,Atlantic Giant,5,310.1498851277992,medium
+2016-P,1541,147.13281090050273,"Thumfort, Mark",Dietersdorf,Lower Austria,Austria,Austrian Weigh-off,,,0.0,0.0,0.0,Champion,5,66.65116333792774,light
+2016-P,1257,418.2717450622973,"Daho, Marcelle",,Other,France,Le Potager Extraordinaire,,,0.0,0.0,0.0,Casper,5,189.4771005132207,light
+2021-P,499,1047.378399614691,"Giustarini, Vinicio",Dogliani,Piedmont,Italy,Campionato dello Zuccone,2174 Daletas,Self,373.09002089640137,1075.9917497807644,0.0,Howden,5,474.4624150254551,heavy
+2019-P,1618,100.44529352040482,"Falchi, Brunero",Sirtori,Lombardy,Italy,Sfida Nazionale della Zucca - Club Maspiano,Salvagni 2017,Self,0.0,0.0,0.0,Blue Hubbard,5,45.501717964743385,light
+2013-P,58,1389.2335427882704,"Melka, Friedrich",Lachsfeld,Lower Austria,Austria,Austrian Weigh-off,1382 Bryson,,398.5781319130848,1356.9154178585898,1.9920018718234973,Connecticut Field,5,629.3227948830865,heavy
+2016-P,1553,144.19096707862062,"Niccolai, Giacomo",Cologne,Lombardy,Italy,Festa della zucca di sale,,,180.4335477434837,130.21974534958758,3.002861935160528,Rouge Vif d’Etampes,5,65.31850808661514,light
+2019-P,1000,532.3059368462516,"Melka, Friedrich",Gr. Gerungs,Lower Austria,Austria,Austrian Weigh-off,Grabmayer,,310.6220390976334,648.0779276610996,0.0,Big Max,5,241.134589391352,medium
+2021-P,1263,130.40913573076398,"Pfleger, Patrick",Riederberg,Vienna,Austria,Retzer Land Weigh-off,1225.8 Kurzreiter 20,open,183.59043319469143,155.98504730260527,0.0,Cinderella,5,59.07533848603608,light
+2018-P,DMG,1464.4283823439062,"Colzani, Enrico",Rosignano Marittima,Other,Italy,Festa della zucca di sale,2043 clement,sibb,389.0945412272482,1307.5015066417195,13.41082188605271,Wolf,5,663.3860572017895,heavy
+2016-P,1293,359.384776905311,"Cassella, Salvatore",Poggiridenti,Lombardy,Italy,Festa della zucca di sale,,,262.21251262012436,412.0597372487168,0.0,Howden,5,162.8013039381059,light
+2020-P,355,1204.395937399118,"Tosoni, Matteo",Merate,Lombardy,Italy,Sfida Nazionale della Zucca - Club Maspiano,1997 Boonen,1911 Urena,381.2731905402963,1113.584159841295,2.078310850903659,Casper,5,545.5913596418005,heavy
+2020-P,603,941.2988585020776,"Mathias, Franz",Riederberg,Lower Austria,Austria,Austrian Weigh-off,1566 Zolotucha 19,,356.3660789885869,908.1104714773,0.0,Blue Hubbard,5,426.40838290144114,medium
+2019-P,1519,180.5508211596257,"Markl, Michael",,Vienna,Austria,Leiserberge Weigh-off,2043 Clementz,,0.0,0.0,0.0,Spirit,5,81.78952198531044,light
+2019-P,1324,310.36248741629333,"Moretti, Sergio",Rosignano,Tuscany,Italy,Campionato dello Zuccone,1114 Garofano,Self,232.00474862148187,295.05561608959187,2.035448627963373,Prizewinner,5,140.5942067995809,light
+2019-P,598,898.7360317895963,"Kloch, Kevin",Haag am Hausruck,Upper Austria,Austria,Austrian Weigh-off,460 Kloch,2012 Salvagni,334.46995161809633,928.329872771193,0.0,Cinderella,5,407.1274224006871,medium
+2016-P,1583,116.2211347183699,"Nicole, BUREAU",,Other,France,Le Potager Extraordinaire,,,0.0,0.0,0.0,Wolf,5,52.64817402742156,light
+2017-P,1591,8.886901679551645,"Melka, Friedrich",Riederberg,Vienna,Austria,Austrian Weigh-off,2157 Paton 16,,0.0,0.0,0.0,Jack O'Lantern,5,4.025766460836896,light
+2017-P,EXH,347.7310833381703,"Bertone, Andrea",Valiano di Montepulciano,Tuscany,Italy,Campionato dello Zuccone,,,263.9614271039063,388.257318052866,0.0,Wolf,5,157.52218075219116,light
+2015-P,1477,309.8783569129121,"Casella, Salvatore",Dogliani,Other,Italy,Campionato dello Zuccone,1254 Bartoli,Open,237.7745535353498,299.8831451001626,0.0,Spirit,5,140.3748956815492,light
+2013-P,EXH,591.4173958529539,"Kloch, Kevin",,Other,Austria,Austrian Weigh-off,Ghaye,,295.42384347252585,654.7835529075992,0.0,Dill's Atlantic,5,267.9120803213881,medium
+2018-P,520,1014.877777902154,"Resch, Johann",Pruggern,Styria,Austria,Austrian Weigh-off,2048 Willemijns,918 Schieder,332.71533935479846,1018.1359246883446,0.0,Jack O'Lantern,5,459.73963338967576,heavy
+2013-P,573,779.3833084891016,"Louineau, Andre",,Other,France,Le Potager Extraordinaire,1676.5 Daletas,Self,297.86133977224915,593.2759876753274,24.64808884203112,Jack O'Lantern,5,353.06063874556304,medium
+2015-P,658,1022.3785088845432,"Markl, Michael",Retz,Lower Austria,Austria,Austrian Weigh-off,2102 Meier 14,,339.65721269749713,1013.9927813697112,0.0,Wolf,5,463.1374645246981,heavy
+2017-P,1371,262.6245370781906,"Angelo e Giovanni, Az. Agr.",Sale Marasino,Lombardy,Italy,Festa della zucca di sale,unknow,unknow,,258.6087056240042,2.9410569790996353,Champion,5,118.96891529642035,light
+2014-P,1433,285.8043220688042,"Dorner, Martin",,Lower Austria,Austria,Austrian Weigh-off,1177 Horde,,0.0,0.0,0.0,Big Moose,5,129.4693578971683,light
+2015-P,1125,524.9639243943454,"Salvagni, Augusto",,Other,Italy,Pesa la Zucca! Foiano,,,294.75155306583525,635.6032597982659,0.0,Howden,5,237.8086577506385,medium
+2017-P,999,557.5867010421069,"Ardenti, Mario",Goito,Lombardy,Italy,Festa della zucca di sale,Turmolli,Self,304.6512774430894,567.5875679568975,0.0,Casper,5,252.58677557207446,medium
+2021-P,EXH,679.7671386984082,"., Fratelli Mori",Malonno,Lombardy,Italy,Sfida degli Zucconi della Brianza,1143 Hoecke '16,Self,285.0463955855011,647.4212360988284,7.019547749933937,Jack O'Lantern,5,307.93451383037893,medium
+2016-P,1220,438.880229374057,"Fourmy, Laurent",,Other,France,Le Potager Extraordinaire,,,0.0,0.0,0.0,Prizewinner,5,198.81274390644785,light
+2014-P,1630,138.73407695965778,"Emmanuel, Bilien",,Other,France,Le Potager Extraordinaire,,,182.87356328299737,157.81441577880628,0.0,Cinderella,5,62.84653686272498,light
+2014-P,273,1353.9943918646893,"Falchi, Brunero",Arezzo,Other,Italy,Pesa la Zucca! Foiano,1874.5 Mathison,1625 Ganter,405.0078465232583,1369.7808354887725,0.0,Big Moose,5,613.3594595147043,heavy
+2017-P,1567,64.9951729222896,"Pennati, Federico",Capua,Campania,Italy,Pesa la Zucca! Foiano,,,147.50065726401905,80.32055637817086,0.0,Wolf,5,29.44281333379719,light
+2013-P,760,586.4383331738633,"Guitton, Rene",,Other,France,Le Potager Extraordinaire,,,318.71865996752507,677.9390242760334,0.0,Jack O'Lantern,5,265.6565649277601,medium
+2017-P,610,897.2749107648937,"Melka, Friedrich",St. Marien,Upper Austria,Austria,Austrian Weigh-off,420 Blaimschein,,312.099895705739,833.2471008264534,8.27415210216806,Howden,5,406.46553457649685,medium
+2017-P,635,897.061941211956,Team Schaugarten Kittenberger Erlebnisgaertnen,TUlln,Lower Austria,Austria,Austrian Weigh-off,Willemijns,Cutrupi,354.95595351903046,1022.1844696973372,0.0,Autumn Gold,5,406.36905936901604,medium
+2017-P,EXH,325.23710439186453,"Salvagni, Augusto",Castelfiorentino,Tuscany,Italy,Campionato dello Zuccone,,,241.1371481818921,335.71021110593193,0.0,Rouge Vif d’Etampes,5,147.33240828951463,light
+2016-P,384,1281.4364743758122,"Valagussa, Tonino",,Lombardy,Italy,Festa della zucca di sale,412 bella,581bill mcclintock,401.80724238120024,1246.254389649274,4.196899889419602,Connecticut Field,5,580.490722892243,heavy
+2018-P,7,2185.042592014273,"Bertone, Andrea",Foiano della Chiana,Tuscany,Italy,Campionato dello Zuccone,2145 McMullen,Self,471.24927168975273,2175.8013570393114,0.9742273043774768,Spirit,5,989.8242941824657,heavy
+2018-P,DMG,1471.8157108105947,"Valentini, Berenice",Arezzo,Other,Italy,Festa della zucca di sale,2043 clement,sibb,386.163083750192,1399.8415563278618,14.005712095562682,Howden,5,666.7325169971995,heavy
+2014-P,584,943.0890769606058,"Topini, Giuseppe",Arezzo,Other,Italy,Festa della zucca di sale,1625 gantner,self,323.88972394197845,811.4140480719354,19.97483223231475,Dill's Atlantic,5,427.21935186315443,medium
+2015-P,1381,371.90964754901177,"Lacina, Martin",Ullrichskirchen,Other,Austria,Austrian Weigh-off,1751 Lovse 14,,0.0,0.0,0.0,Casper,5,168.47507033970234,light
+2017-P,842,693.9249550290884,"Unger, Michael",Haag am Hausruck,Upper Austria,Austria,OO Landesgartenschau 2017 Kremsmunster,1840 Ghoyl,,0.0,0.0,0.0,Early Giant,5,314.3480046281771,medium
+2019-P,EXH,140.2771164781396,"Pierre Marie, Paquet",,Other,France,Concours National du plus Gros Potiron et des fruits et legumes Geant,,,,216.62738324309143,0.0,Cinderella,5,63.54553376459724,light
+2015-P,468,1113.1152841517526,"Valeriani, Claudio",Marone,Lombardy,Italy,Festa della zucca di sale,,,372.0260297402048,1009.2157973648796,6.744190157139558,Blue Hubbard,5,504.24122372074396,heavy
+2020-P,425,1052.7833323631558,"Steindl, Josef",Wildalpen,Styria,Austria,Austrian Weigh-off,2528 Geddes,,344.7285075853841,1131.819471805837,0.0,Cinderella,5,476.9108495605096,heavy
+2019-P,537,976.1936656885596,"Hoefler, Norbert",,Lower Austria,Austria,Leiserberge Weigh-off,2095 Brandt 2017,2145.5 McMullen 2015,344.7233063804253,1020.607083270922,0.0,Cinderella,5,442.2157305569175,medium
+2018-P,896,672.7579709703766,"Berndorf, JZB",Sooss,Lower Austria,Austria,Austrian Weigh-off,,,331.2373920968902,759.8204403889674,0.0,Atlantic Giant,5,304.7593608495806,medium
+2018-P,518,1051.1312385487304,"Gabriele  e sauro, Bartoli",Arezzo,Other,Italy,Festa della zucca di sale,ermacora,ermacora,351.22435490866604,946.1023466703252,14.630566577848194,Champion,5,476.16245106257486,heavy
+2019-P,1383,262.9822465010728,"Romoli, Syria",Garlate,Lombardy,Italy,Sfida degli Zucconi della Brianza,"1485,9 Petrelli",Self,213.542512041796,224.11029153274137,7.85070663325562,Wolf,5,119.13095766498597,light
+2018-P,1580,169.54876918610756,"Paleari, Maurizio",Castelfiorentino,Tuscany,Italy,Pesa la Zucca! Foiano,,,195.24495890218284,160.06446044478346,0.0,Dill's Atlantic,5,76.80559244130673,light
+2018-P,988,657.3513549942452,"Brandstetter, Hannes",,Vienna,Austria,Austrian Weigh-off,1892 Faust 15,,0.0,0.0,0.0,Rouge Vif d’Etampes,5,297.7801638123931,medium
+2015-P,1477,312.7094230226317,"Andreoli, Gianfranco",Foiano della Chiana,Other,Italy,Campionato dello Zuccone,1254 Bartoli,Open,240.59507968149697,305.7922660254674,0.0,Big Moose,5,141.65736862925218,light
+2017-P,1321,300.10904360075523,"Fellner, Johanna",Ernstbrunn,Lower Austria,Austria,Austrian Weigh-off,Clementz,,0.0,0.0,0.0,Rouge Vif d’Etampes,5,135.94939675114213,light
